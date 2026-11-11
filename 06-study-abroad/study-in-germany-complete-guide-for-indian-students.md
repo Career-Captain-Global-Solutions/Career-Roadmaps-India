@@ -1,0 +1,965 @@
+# Study in Germany for Indian Students: Complete Guide to Admissions, APS, Costs, Scholarships and Career Opportunities
+
+Germany is one of the most attractive destinations for Indian students interested in engineering, technology, science, management and research.
+
+Its universities offer a wide range of internationally recognised programmes, strong research opportunities and access to Europe's industrial and technology ecosystem.
+
+Many public universities charge no general tuition fee for many degree programmes, although semester contributions and certain programme-specific or state-specific fees apply.
+
+However, studying in Germany requires careful planning. Students must understand academic eligibility, language requirements, APS verification, university applications, financial proof, visa procedures and accommodation.
+
+This guide explains the process step by step.
+
+---
+
+## 1. Why Study in Germany?
+
+Germany offers several advantages for international students.
+
+### Strong Academic and Research Environment
+
+German universities and research institutions are known for programmes in:
+
+- Mechanical Engineering
+- Automotive Engineering
+- Electrical Engineering
+- Electronics and Communication
+- Computer Science
+- Artificial Intelligence
+- Data Science
+- Renewable Energy
+- Robotics
+- Business and Management
+- Natural Sciences
+- Architecture and Design
+
+### Public University Options
+
+Many public universities do not charge general tuition fees for consecutive degree programmes.
+
+However, students should check:
+
+- Semester contributions
+- State-specific tuition fees
+- Fees for non-EU students
+- Special programme fees
+- Private university tuition
+
+Do not assume that every public university or every programme is tuition-free.
+
+### Industry and Research Opportunities
+
+Germany has major industrial and research sectors, including:
+
+- Automotive manufacturing
+- Mechanical engineering
+- Industrial automation
+- Semiconductor technology
+- Renewable energy
+- Chemicals
+- Pharmaceuticals
+- Software and information technology
+- Logistics
+- Advanced manufacturing
+
+### International Exposure
+
+Students can experience a different academic environment, develop language skills and build international professional networks.
+
+---
+
+## 2. Undergraduate or Postgraduate Studies?
+
+The first step is to identify which academic route applies to you.
+
+### Bachelor's Degree
+
+A Bachelor's degree is generally the first university-level qualification.
+
+Common programmes include:
+
+- BSc Computer Science
+- BEng Mechanical Engineering
+- BSc Mathematics
+- BSc Physics
+- BSc Business Administration
+- BSc Electrical Engineering
+
+For Indian students, direct admission after Class 12 is not automatic. The recognition of the Indian school qualification and the applicable German admission pathway must be checked.
+
+### Master's Degree
+
+A Master's degree is generally pursued after completing a relevant Bachelor's degree.
+
+Popular options include:
+
+- MSc Computer Science
+- MSc Data Science
+- MSc Mechanical Engineering
+- MSc Automotive Engineering
+- MSc Robotics
+- MSc Electrical Engineering
+- MSc Renewable Energy
+- MSc Management
+- MSc Finance
+
+Universities may require specific undergraduate subjects, credit points, academic performance and language qualifications.
+
+### Doctoral Studies
+
+Students interested in research may consider doctoral programmes.
+
+Admission normally requires a suitable Master's qualification or an accepted equivalent, along with the relevant academic and research requirements of the institution.
+
+---
+
+## 3. Undergraduate Admission After Class 12 in India
+
+This is one of the most important areas for Indian applicants.
+
+German universities do not automatically treat every Indian Class 12 certificate as equivalent to the German university entrance qualification.
+
+For admissions beginning with Winter Semester 2026/27, APS India announced updated eligibility criteria.
+
+### The Updated 70% Requirement
+
+From Winter Semester 2026/27, the revised criteria specify a minimum overall score of 70% of the maximum achievable marks in the Indian Class 12 certificate.
+
+Two established pathways remain relevant:
+
+**Pathway A: Class 12 and APS**
+
+Students meeting the updated criteria may qualify for subject-restricted admission through a Studienkolleg followed by the Feststellungsprüfung.
+
+**Pathway B: Class 12, APS and One Successful Academic Year**
+
+Students who meet the updated Class 12 threshold and successfully complete at least one academic year in a recognised Bachelor's programme in India may qualify for direct subject-restricted admission in their previous field and closely related subjects.
+
+Completing one academic year does not guarantee admission. The qualification, institution, subject relationship and university requirements must also be checked.
+
+A valid IIT-JEE Advanced result may provide another eligibility route under the applicable recognition criteria.
+
+**Important:** These are eligibility pathways, not admission guarantees. The final decision belongs to the German university.
+
+Official references:
+
+- https://aps-india.de/news/
+- https://www.daad.de/en/studying-in-germany/requirements/admission-database/
+
+### What Is Studienkolleg?
+
+Studienkolleg is a preparatory programme for international applicants whose school qualifications do not directly provide the required German university entrance qualification.
+
+It helps students prepare for university-level education.
+
+Common course types include:
+
+| Course | Intended Study Areas |
+|---|---|
+| T-Kurs | Mathematics, engineering and natural sciences |
+| W-Kurs | Business, economics and social sciences |
+| M-Kurs | Medicine, biology and related fields |
+| G-Kurs | Humanities |
+| S-Kurs | Language-related studies |
+
+Course availability and subject combinations vary between Studienkollegs.
+
+Students generally complete the preparatory programme and take the Feststellungsprüfung (FSP).
+
+Passing the FSP establishes an applicable entrance qualification, but does not automatically guarantee a place at a particular university.
+
+---
+
+## 4. Master's Admission After a Bachelor's Degree in India
+
+Students who have completed a Bachelor's degree can explore Master's programmes in Germany.
+
+Common requirements include:
+
+- Recognised Bachelor's degree
+- Relevant academic background
+- Required subject credits
+- Minimum academic performance, where specified
+- Language proficiency
+- APS certificate, where applicable
+- Programme-specific documents
+- Motivation letter or statement of purpose
+- CV
+- Recommendation letters, where required
+
+### Subject Matching Is Important
+
+German universities often evaluate the actual subjects studied during your Bachelor's degree.
+
+For example:
+
+A Mechanical Engineering graduate may be eligible for certain programmes in:
+
+- Mechanical Engineering
+- Automotive Engineering
+- Production Engineering
+- Computational Engineering
+- Energy Engineering
+
+But admission to a programme in Data Science or Computer Science may require specific mathematics, statistics or programming credits.
+
+Do not assume that any Bachelor's degree allows entry into any Master's programme.
+
+### Check the Curriculum Before Applying
+
+Compare:
+
+1. Your undergraduate subjects.
+2. The Master's programme's required credits.
+3. The programme's admission regulations.
+4. The language requirements.
+5. Any additional examinations or prerequisites.
+
+The programme's official admission page is the most important source.
+
+---
+
+## 5. APS Certificate for Indian Students
+
+APS stands for Akademische Prüfstelle, or Academic Evaluation Centre.
+
+APS India verifies academic documents and qualifications issued by Indian educational institutions for applicants planning to study in Germany.
+
+For most Indian applicants, APS verification is an important part of the university admission and student visa process.
+
+### Why Is APS Important?
+
+APS helps verify:
+
+- Academic certificates
+- Mark sheets
+- Educational history
+- Institutional qualifications
+- Relevant examination records
+
+The APS certificate does not itself provide university admission or guarantee a visa.
+
+### When Should You Apply?
+
+Plan the APS process early, but submit your application only when you have completed the academic stage relevant to your intended admission route.
+
+For example:
+
+- Class 12 students planning a Studienkolleg route
+- Students who have completed the academic year required for direct subject-restricted admission
+- Graduates applying for Master's programmes
+
+APS has clarified that it cannot keep an application open while an applicant waits for future examination results or additional semester mark sheets.
+
+### Documents
+
+The exact checklist depends on the applicant's academic background.
+
+It may include:
+
+- Class 10 certificate
+- Class 12 certificate
+- University mark sheets
+- Degree certificate
+- University transcripts
+- Academic records
+- Passport details
+- Other supporting documents requested by APS
+
+Always use the current checklist on the official APS website.
+
+Official website:
+
+https://aps-india.de/
+
+---
+
+## 6. Language Requirements: German or English?
+
+Germany offers programmes taught in German and English.
+
+The required language depends on the programme.
+
+### English-Taught Programmes
+
+Commonly accepted English tests may include:
+
+- IELTS Academic
+- TOEFL iBT
+- Other certificates accepted by the university
+
+Some universities may waive English test requirements if previous education was conducted in English and their rules permit it.
+
+Do not assume that a medium-of-instruction certificate is accepted everywhere.
+
+For applications through the German Missions in India, the current visa instructions specify recognised language evidence. They also state that Duolingo, Pearson PTE and TOEFL Home Edition are not recognised for the relevant study visa applications.
+
+### German-Taught Programmes
+
+Common language certificates include:
+
+- TestDaF
+- DSH
+- Goethe certificates
+- telc
+- ÖSD
+
+Many degree programmes require advanced German proficiency, often around C1, but requirements vary.
+
+### Should You Learn German Even If Your Course Is in English?
+
+Yes, it is strongly advisable.
+
+German language skills can help with:
+
+- Everyday communication
+- Accommodation searches
+- Part-time employment
+- Internships
+- Networking
+- Understanding workplace culture
+- Long-term employment opportunities
+
+A practical learning progression is:
+
+| Level | Focus |
+|---|---|
+| A1 | Basic expressions and introductions |
+| A2 | Everyday communication |
+| B1 | Independent basic communication |
+| B2 | More confident academic and professional communication |
+| C1 | Advanced academic and professional language |
+
+Students should check the specific programme's accepted certificate and required level.
+
+---
+
+## 7. How to Find German Universities and Courses
+
+Do not select universities based only on rankings or advertisements.
+
+Research the actual programme and its admission requirements.
+
+Useful platforms include:
+
+**DAAD International Programmes**
+
+https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/
+
+**DAAD Study in Germany**
+
+https://www.study-in-germany.com/
+
+**Hochschulkompass**
+
+https://www.hochschulkompass.de/en/
+
+**uni-assist**
+
+https://www.uni-assist.de/
+
+**Anabin**
+
+https://anabin.kmk.org/
+
+### How to Shortlist Universities
+
+Evaluate each programme using the following factors:
+
+1. Programme curriculum
+2. Language of instruction
+3. Admission eligibility
+4. Tuition and semester contribution
+5. Location
+6. Accommodation availability
+7. Internship opportunities
+8. Research facilities
+9. Industry connections
+10. Application deadlines
+
+Create a spreadsheet with at least 8–12 suitable programmes.
+
+Record the admission requirements and deadlines separately for each university.
+
+---
+
+## 8. Public Universities vs Private Universities
+
+Both public and private institutions operate in Germany.
+
+| Public Universities | Private Universities |
+|---|---|
+| Many programmes have no general tuition fee | Usually charge tuition |
+| Strong academic and research focus | Programme structures vary |
+| Admission can be competitive | Admission processes vary |
+| Semester contributions generally apply | Additional programme fees may apply |
+| Many established research institutions | Quality and recognition must be checked carefully |
+
+### What Should You Check?
+
+Before enrolling in any institution, verify:
+
+- State recognition
+- Accreditation where applicable
+- Programme recognition
+- Degree awarded
+- Total tuition
+- Refund policies
+- Internship opportunities
+- Graduate outcomes
+
+Never pay an institution based only on an agent's claims.
+
+---
+
+## 9. Tuition Fees and Semester Contributions
+
+Germany is often described as a low-tuition study destination, but students must understand the actual costs.
+
+### Public Universities
+
+Many public universities do not charge general tuition fees for consecutive Bachelor's and Master's programmes.
+
+However, students may need to pay:
+
+- Semester contribution
+- Student services fees
+- Student union contribution
+- Public transport-related charges, where included
+- Programme-specific charges
+
+Some states and institutions charge tuition fees for certain international students or programmes.
+
+### Private Universities
+
+Private institutions generally charge tuition.
+
+The amount depends on:
+
+- University
+- Programme
+- Duration
+- Degree level
+- Payment structure
+
+Always calculate the complete programme cost rather than relying on the first advertised semester fee.
+
+---
+
+## 10. Cost of Living in Germany
+
+Students should budget for more than tuition.
+
+Major expenses include:
+
+- Accommodation
+- Food
+- Health insurance
+- Local transportation
+- Mobile and internet
+- Study materials
+- Clothing
+- Personal expenses
+- Travel
+
+### Illustrative Monthly Budget
+
+The following is an example planning range, not an official cost guarantee.
+
+| Expense | Indicative Monthly Budget |
+|---|---:|
+| Shared accommodation | €350–€650 |
+| Food and groceries | €180–€280 |
+| Health insurance | €120–€150 |
+| Transport | €0–€70 |
+| Phone and internet | €20–€40 |
+| Study and personal expenses | €100–€180 |
+| Miscellaneous | €50–€100 |
+
+<text color="secondary" size="sm">Illustrative estimates only. Actual costs depend on city, accommodation, insurance category and lifestyle. Verify current prices before budgeting.</text>
+
+Cities such as Munich, Frankfurt and Hamburg may have higher housing costs than smaller university towns.
+
+### Additional Initial Expenses
+
+Students should also plan for:
+
+- Visa application
+- APS verification
+- Language examinations
+- University application fees, where applicable
+- Travel
+- Initial accommodation
+- Rental deposit
+- Residence permit
+- Household essentials
+
+A realistic budget should include an emergency reserve.
+
+---
+
+## 11. Blocked Account and Financial Proof
+
+International students applying for a German study visa must demonstrate sufficient financial resources.
+
+A common method is a blocked account (Sperrkonto).
+
+According to the German Missions in India's study visa information published in February 2026:
+
+- Required annual blocked account amount: €11,904
+- Maximum monthly withdrawal: €992
+
+Other accepted financial proof may include:
+
+- A recognised scholarship
+- A formal declaration of commitment from an eligible sponsor in Germany
+- Other officially accepted evidence
+
+The amount can change. Always verify the latest requirement before transferring money.
+
+Official sources:
+
+- https://india.diplo.de/
+- https://www.auswaertiges-amt.de/
+
+**Important:** The blocked account is not an additional tuition payment. It is evidence of funds for living expenses, released according to the applicable monthly limits.
+
+---
+
+## 12. Scholarships for Indian Students
+
+Scholarships can reduce the financial burden of studying abroad.
+
+Potential sources include:
+
+### DAAD Scholarships
+
+The German Academic Exchange Service provides scholarship opportunities for international students and researchers.
+
+https://www.daad.de/en/
+
+### Deutschlandstipendium
+
+A merit-based scholarship programme offered by participating German universities.
+
+https://www.deutschlandstipendium.de/
+
+### University Scholarships
+
+Some universities provide:
+
+- Merit-based awards
+- Research funding
+- Programme-specific scholarships
+- Financial assistance
+- Scholarships for international students
+
+### Other Funding Opportunities
+
+Depending on eligibility, students may investigate:
+
+- Foundations
+- Research grants
+- Exchange programmes
+- Government-sponsored scholarships
+- Industry-supported funding
+
+### Scholarship Preparation
+
+Prepare:
+
+- Academic transcripts
+- CV
+- Motivation letter
+- Recommendation letters
+- Language certificates
+- Research proposal, where required
+
+Check scholarship deadlines separately from university application deadlines.
+
+Never assume that receiving university admission automatically includes a scholarship.
+
+---
+
+## 13. How to Apply to German Universities
+
+The application process depends on the university and programme.
+
+Some institutions accept applications directly, while others use uni-assist.
+
+### Step 1: Shortlist Programmes
+
+Identify suitable Bachelor's or Master's programmes.
+
+### Step 2: Check Eligibility
+
+Review the official admission regulations.
+
+### Step 3: Complete APS Verification
+
+Apply through APS India if required.
+
+### Step 4: Prepare Documents
+
+Common documents include:
+
+- Passport
+- Academic certificates
+- Mark sheets and transcripts
+- APS certificate
+- Language certificates
+- CV
+- Motivation letter
+- Recommendation letters, if required
+- Portfolio, if required
+- Other programme-specific documents
+
+### Step 5: Apply
+
+Submit the application through the university portal or uni-assist, according to the programme's instructions.
+
+### Step 6: Track Your Application
+
+Monitor:
+
+- Application status
+- Missing documents
+- Additional requirements
+- Interview invitations
+- Admission decisions
+
+### Step 7: Accept the Offer
+
+Follow the university's enrolment instructions and meet any payment or documentation deadlines.
+
+---
+
+## 14. Student Visa for Germany
+
+Indian students generally require a national visa for long-term university studies in Germany.
+
+The process should be planned after understanding the applicable visa category and documentation requirements.
+
+### Common Documents
+
+Depending on the visa category, documents may include:
+
+- Valid passport
+- Admission letter
+- APS certificate, where required
+- Academic certificates
+- Language certificate
+- Proof of financial resources
+- Health insurance evidence
+- CV
+- Motivation letter
+- Application forms
+- Additional documents requested by the German Missions
+
+### Motivation Letter
+
+The motivation letter should explain:
+
+- Why you want to study in Germany
+- Why you selected the university
+- Why you selected the programme
+- How your academic background relates to the programme
+- Your academic and professional plans
+
+Avoid generic statements and unsupported claims.
+
+### Visa Application
+
+Use the official German Missions in India website and the Consular Services Portal.
+
+https://india.diplo.de/
+
+https://digital.diplo.de/
+
+The visa decision is made by the competent German authorities. Admission and financial proof do not guarantee visa approval.
+
+---
+
+## 15. Accommodation in Germany
+
+Accommodation should be researched early.
+
+Common options include:
+
+### Student Dormitories
+
+Student accommodation may be offered through Studentenwerk organisations.
+
+Advantages:
+
+- Often more affordable than private rentals
+- Student community
+- Proximity to universities in some locations
+
+Availability may be limited, so apply early.
+
+### Shared Apartments (WG)
+
+Students share an apartment with other residents.
+
+Advantages:
+
+- Shared expenses
+- Opportunities to interact with other students
+- More flexibility than some dormitory options
+
+### Private Apartments
+
+Private accommodation offers greater independence but may involve higher costs and rental deposits.
+
+### Important Rental Checks
+
+Before paying any money:
+
+- Verify the landlord or property manager.
+- Confirm the address.
+- Review the rental agreement.
+- Understand the deposit and payment terms.
+- Check whether registration is possible.
+- Avoid sending money before verifying the accommodation.
+
+---
+
+## 16. Part-Time Work While Studying
+
+International students may work during their studies under applicable residence and employment rules.
+
+For students from outside the EU, the general framework permits:
+
+- Up to 140 full days per year, or
+- Up to 280 half days per year, or
+- Up to 20 hours per week under the applicable rules.
+
+The exact treatment of particular jobs and exceptions should be checked with the relevant authorities.
+
+Possible student jobs include:
+
+- University research assistance
+- Student assistant positions
+- Retail
+- Hospitality
+- Warehouse operations
+- Tutoring
+- Technical support
+- Relevant company internships
+
+### Important Advice
+
+Do not build your entire study budget around part-time income.
+
+Finding a job is not guaranteed. Work availability depends on:
+
+- German language skills
+- City
+- Employer requirements
+- Academic schedule
+- Job market conditions
+
+Prioritise academic progress and understand your employment restrictions.
+
+Official reference:
+
+https://www.make-it-in-germany.com/en/visa-recognition/visa-types/studying
+
+---
+
+## 17. Internships and Industry Exposure
+
+Germany offers opportunities to connect academic learning with industry.
+
+Students can explore:
+
+- University research projects
+- Working student positions
+- Internships
+- Industry-sponsored projects
+- Research assistantships
+- Graduate trainee programmes
+
+Potential sectors include:
+
+- Automotive
+- Mechanical manufacturing
+- Electronics
+- Semiconductors
+- Software
+- Renewable energy
+- Pharmaceuticals
+- Logistics
+- Consulting
+
+Start preparing early.
+
+A strong internship application should include:
+
+- Relevant academic subjects
+- Practical projects
+- Technical skills
+- Language ability
+- A focused CV
+- A suitable motivation letter
+
+Some programmes require compulsory internships as part of the curriculum.
+
+---
+
+## 18. Post-Study Opportunities in Germany
+
+Germany offers a route for international graduates to remain in the country and search for qualified employment after successfully completing their studies.
+
+Under the applicable residence rules, graduates of German higher education institutions may apply for a residence permit for job seeking for up to 18 months.
+
+During this period, they may work in any occupation while looking for qualified employment.
+
+After securing suitable qualified employment, graduates may be able to apply for a residence permit for skilled workers or an EU Blue Card, depending on eligibility.
+
+A settlement permit may become possible after meeting the applicable requirements, including the relevant employment and residence conditions.
+
+These are legal pathways, not automatic guarantees of employment or permanent residence.
+
+Official reference:
+
+https://www.make-it-in-germany.com/en/visa-recognition/visa-types/studying
+
+---
+
+## 19. A 12-Month Preparation Roadmap
+
+### Months 1–2: Research
+
+- Decide Bachelor's or Master's.
+- Identify suitable courses.
+- Check academic eligibility.
+- Research German and English programmes.
+- Compare university locations.
+
+**Goal:** Establish a realistic academic pathway.
+
+### Months 3–4: Academic and Language Preparation
+
+- Prepare language examinations.
+- Improve German language skills.
+- Collect academic documents.
+- Check APS requirements.
+- Identify programme-specific prerequisites.
+
+**Goal:** Complete essential preparation.
+
+### Months 5–6: APS and University Shortlisting
+
+- Complete the relevant academic stage.
+- Apply for APS when eligible.
+- Finalise the university shortlist.
+- Check application deadlines.
+- Prepare CV and motivation letter.
+
+**Goal:** Build a complete application package.
+
+### Months 7–8: Applications
+
+- Submit university applications.
+- Track application status.
+- Respond to university requests.
+- Research scholarship opportunities.
+- Continue language preparation.
+
+**Goal:** Secure suitable admission opportunities.
+
+### Months 9–10: Financial and Visa Preparation
+
+- Confirm the financial requirement.
+- Arrange accepted financial proof.
+- Understand health insurance.
+- Prepare visa documentation.
+- Follow the official visa process.
+
+**Goal:** Prepare a complete and accurate visa application.
+
+### Months 11–12: Pre-Departure Preparation
+
+- Confirm accommodation.
+- Arrange travel.
+- Understand enrolment requirements.
+- Prepare essential documents.
+- Learn about local transport and registration.
+- Plan initial living expenses.
+
+**Goal:** Arrive prepared for university life.
+
+This is an illustrative schedule. Actual timelines depend on the intake, APS processing, application deadlines and visa appointment availability.
+
+---
+
+## 20. Common Mistakes Indian Students Should Avoid
+
+1. Assuming every public university is completely free.
+2. Applying without checking academic eligibility.
+3. Ignoring the updated Indian Class 12 eligibility rules.
+4. Delaying APS verification.
+5. Selecting courses without checking subject-credit requirements.
+6. Assuming all English programmes accept the same language tests.
+7. Depending entirely on part-time employment.
+8. Ignoring accommodation availability.
+9. Paying unverified agents or landlords.
+10. Choosing a university based only on rankings.
+11. Ignoring German language learning.
+12. Assuming admission guarantees a visa.
+13. Treating post-study employment as guaranteed.
+14. Applying without understanding the total financial commitment.
+
+---
+
+## 21. Official Resources for Indian Students
+
+Use these websites as primary sources of information.
+
+| Organisation | Purpose | Website |
+|---|---|---|
+| DAAD | Study opportunities and scholarships | https://www.daad.de/ |
+| DAAD India | Guidance for Indian applicants | https://www.daad.in/ |
+| APS India | Academic document verification | https://aps-india.de/ |
+| German Missions in India | Visa information | https://india.diplo.de/ |
+| uni-assist | University application processing | https://www.uni-assist.de/ |
+| anabin | Recognition of foreign qualifications | https://anabin.kmk.org/ |
+| Hochschulkompass | German higher education programmes | https://www.hochschulkompass.de/ |
+| Make it in Germany | Study, work and residence information | https://www.make-it-in-germany.com/ |
+| Study in Germany | Study destination information | https://www.study-in-germany.com/ |
+
+Always verify the latest information directly with the relevant university, APS India or German authority.
+
+---
+
+## 22. Final Thoughts: Plan Your German Education Strategically
+
+Germany can offer valuable academic and professional opportunities for Indian students, particularly in engineering, technology, science and research.
+
+However, successful planning requires more than selecting a university.
+
+Students must understand academic eligibility, subject requirements, language proficiency, APS verification, financial planning and visa procedures.
+
+Start early, verify information through official sources and select a programme that genuinely matches your academic background and long-term goals.
+
+### Explore Study-Abroad Guidance with Career Captain
+
+Selecting a country, university and course can be challenging. Students need to compare eligibility, academic requirements, costs, scholarships and future opportunities before making a decision.
+
+**Career Captain Global Solutions** provides career counselling, career assessments, course and college planning, and study-abroad guidance to help students and young professionals make informed decisions.
+
+Website: https://careercaptain.co.in/
+
+*Educational disclaimer: This guide is intended for general educational and career awareness. Admission rules, APS procedures, visa requirements, financial thresholds, scholarship conditions and residence regulations may change. Always verify current requirements with official German authorities and the relevant university before making financial or academic decisions.*
+
+---
+
+**Attribution and Licence**
+
+This guide is part of the Career Roadmaps India open educational initiative by Career Captain Global Solutions.
+
+Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. You may share and adapt this material with appropriate attribution and a link to the licence.
+
+Source: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-India
