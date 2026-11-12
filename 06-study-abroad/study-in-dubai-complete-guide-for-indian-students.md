@@ -1,4 +1,15 @@
-# Study in Dubai: Complete Guide for Indian Students
+---
+layout: guide
+title: "Study in Dubai: Complete Guide for Indian Students"
+seo_title: "Study in Dubai: Complete Guide for Indian Students | Career Roadmaps India"
+description: "Last reviewed: 12 November 2026. Admissions, tuition, accreditation, residence permits and employment rules can change. Verify current requirements..."
+permalink: /06-study-abroad/study-in-dubai-complete-guide-for-indian-students.html
+slug: study-in-dubai-complete-guide-for-indian-students
+category_key: 06-study-abroad
+category_name: "Study Abroad for Indian Students"
+category_url: /06-study-abroad/
+---
+
 
 *Last reviewed: 12 November 2026. Admissions, tuition, accreditation, residence permits and employment rules can change. Verify current requirements with the institution, KHDA, UAE Ministry of Higher Education and Scientific Research, GDRFA Dubai and other relevant authorities before applying.*
 
