@@ -9,7 +9,11 @@ With developments in semiconductor manufacturing, 5G and future communication ne
 This roadmap explains the subjects, career paths, technical skills, specialisations and preparation strategies that ECE students can explore.
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Career-Captain-Global-Solutions/Career-Roadmaps-India/main/images/engineering/ece-career-roadmap-logo-corrected.png"
+       alt="Electronics and Communication Engineering Career Roadmap"
+       width="100%">
+</p>
 ## 1. What Is Electronics and Communication Engineering?
 
 ECE focuses on the design, development, testing and maintenance of electronic circuits, communication systems and intelligent electronic devices.
