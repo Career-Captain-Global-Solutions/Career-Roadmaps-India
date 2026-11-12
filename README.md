@@ -24,6 +24,8 @@ Our objective is simple: help people make more informed career decisions.
 
 ### 1. School Students
 
+[Explore the School Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/01-school-careers/)
+
 - Career options after Class 10
 - Understanding MPC, BPC, MEC and CEC
 - Career opportunities after Class 12
@@ -31,6 +33,8 @@ Our objective is simple: help people make more informed career decisions.
 - Understanding emerging career fields
 
 ### 2. Engineering Students
+
+[Explore the Engineering Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/02-engineering-careers/)
 
 - Computer Science Engineering career roadmap
 - Mechanical Engineering career roadmap
@@ -41,6 +45,8 @@ Our objective is simple: help people make more informed career decisions.
 
 ### 3. Graduate Students
 
+[Explore the Graduate Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/03-graduate-careers/)
+
 - Career options after graduation
 - Higher education pathways
 - Competitive examinations
@@ -48,6 +54,8 @@ Our objective is simple: help people make more informed career decisions.
 - Career transition opportunities
 
 ### 4. Non-Coding Technology Careers
+
+[Explore the Non-Coding Technology Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/04-non-coding-tech-careers/)
 
 - Business Analyst
 - Product Manager
@@ -58,6 +66,8 @@ Our objective is simple: help people make more informed career decisions.
 
 ### 5. Placement and Employment Preparation
 
+[Explore the Placement Preparation landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/05-placement-preparation/)
+
 - Final-year placement checklist
 - Resume preparation
 - Interview preparation
@@ -66,6 +76,8 @@ Our objective is simple: help people make more informed career decisions.
 - Professional communication
 
 ### 6. Study Abroad
+
+[Explore the Study Abroad landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/06-study-abroad/)
 
 - [Study Abroad for Indian Students: 13 Country Guides, Costs and Scholarships](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/06-study-abroad/)
 - [Compare Study Abroad Destinations for Indian Students](06-study-abroad/compare-study-abroad-destinations-for-indian-students.md)
@@ -77,6 +89,11 @@ Our objective is simple: help people make more informed career decisions.
 - Scholarship preparation
 - Course and university selection
 - International career pathways
+
+### 7. Career Skills
+
+[Explore the Career Skills landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/07-career-skills/)
+
 
 ---
 
