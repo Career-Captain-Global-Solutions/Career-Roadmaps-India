@@ -68,3 +68,15 @@ Set learning goals with your supervisor. Keep a weekly record of tasks, skills a
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** Internship terms and eligibility vary. Verify the current portal terms and employer details. Applying does not guarantee selection, stipend or employment.
+
+---
+
+## Find a direction before choosing an internship
+
+An internship is more valuable when it supports a considered career direction. Career Captain can help students explore their interests, strengths and possible pathways through assessment and personalised counselling.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
