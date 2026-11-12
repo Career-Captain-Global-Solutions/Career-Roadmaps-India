@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in New Zealand: Complete Guide for Indian Students"
-seo_title: "Study in New Zealand: Complete Guide for Indian... | Career Roadmaps India"
-description: "Last reviewed: 12 November 2026. Immigration rules, financial thresholds, tuition and admission requirements can change. Confirm the current rules with..."
+seo_title: "Study in New Zealand for Indian Students | Complete Guide"
+description: "Understand study options in New Zealand for Indian students, including institutions, courses, admissions, tuition, scholarships and student visa planning."
 permalink: /06-study-abroad/study-in-new-zealand-complete-guide-for-indian-students.html
 slug: study-in-new-zealand-complete-guide-for-indian-students
 category_key: 06-study-abroad
