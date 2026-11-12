@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Professional Etiquette, Networking and Personal Branding: A Practical Guide for Students and Young Professionals"
-seo_title: "Professional Etiquette, Networking and Personal... | Career Roadmaps India"
-description: "Build a professional reputation, create meaningful connections and communicate with confidence."
+seo_title: "Professional Etiquette, Networking & Personal Branding Guide"
+description: "Learn professional etiquette, networking and personal branding practices that help students and early-career professionals build credible relationships and visibility."
 permalink: /07-career-skills/professional-etiquette-networking-and-personal-branding.html
 slug: professional-etiquette-networking-and-personal-branding
 category_key: 07-career-skills
