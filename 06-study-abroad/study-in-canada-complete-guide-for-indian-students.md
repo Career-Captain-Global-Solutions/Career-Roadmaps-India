@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in Canada: Complete Roadmap for Indian Students"
-seo_title: "Study in Canada: Complete Roadmap for Indian Students | Career Roadmaps India"
-description: "Canada is a popular destination for Indian students seeking internationally recognised qualifications, research opportunities and exposure to a..."
+seo_title: "Study in Canada for Indian Students | Complete Guide"
+description: "Understand study options in Canada for Indian students, including institutions, admissions, tuition and living costs, scholarships and study permit preparation."
 permalink: /06-study-abroad/study-in-canada-complete-guide-for-indian-students.html
 slug: study-in-canada-complete-guide-for-indian-students
 category_key: 06-study-abroad
