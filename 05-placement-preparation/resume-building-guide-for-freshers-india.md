@@ -70,3 +70,14 @@ Maintain a full record of projects, activities and skills. Create a tailored ver
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** This guide provides general resume guidance. Employer requirements and screening methods vary; no resume format guarantees selection.
+
+---
+
+## Connect your resume to a clear career direction
+
+A strong resume starts with a realistic target role. Career Captain can help students explore career options and understand how their interests and strengths relate to education and early-career choices.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
