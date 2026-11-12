@@ -1,6 +1,9 @@
 
 # Engineering Career Roadmaps
 
+**[Explore the Engineering Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/02-engineering-careers/)**
+
+
 Explore career opportunities across 16 engineering disciplines in India.
 
 These resources cover engineering fundamentals, essential skills, career opportunities, higher education, industry pathways and global opportunities.
