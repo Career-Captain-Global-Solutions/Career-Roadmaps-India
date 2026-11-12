@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Campus Placements Preparation in India: A Complete Roadmap for Engineering and Other College Students"
-seo_title: "Campus Placements Preparation in India: A Complete... | Career Roadmaps India"
-description: "Campus placements are an important opportunity for students preparing to enter the professional world."
+seo_title: "Campus Placement Preparation Guide for Indian Students"
+description: "Prepare for campus placements with a structured guide to aptitude tests, resumes, technical interviews, HR rounds, applications and placement readiness."
 permalink: /05-placement-preparation/campus-placements-preparation-roadmap.html
 slug: campus-placements-preparation-roadmap
 category_key: 05-placement-preparation
