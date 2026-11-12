@@ -20,6 +20,11 @@ Explore international education opportunities and understand the process of stud
 - International career opportunities
 
 Always verify admission requirements, visa regulations, fees and scholarship conditions through official university and government websites.
+## Resources
+
+- [Scholarships for Indian Students Studying Abroad](scholarships-for-indian-students-studying-abroad.md)
+- [Study Abroad Application and Visa Preparation Guide](study-abroad-application-and-visa-preparation-guide.md)
+
 ## Country Guides
 
 - [Study in France: Complete Guide for Indian Students](study-in-france-complete-guide-for-indian-students.md)
