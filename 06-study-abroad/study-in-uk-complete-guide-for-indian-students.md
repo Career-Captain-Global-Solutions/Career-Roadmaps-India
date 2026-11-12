@@ -1,4 +1,15 @@
-# Study in the UK: Complete Roadmap for Indian Students
+---
+layout: guide
+title: "Study in the UK: Complete Roadmap for Indian Students"
+seo_title: "Study in the UK: Complete Roadmap for Indian Students | Career Roadmaps India"
+description: "The United Kingdom is a popular destination for Indian students seeking internationally recognised qualifications, specialised academic programmes and..."
+permalink: /06-study-abroad/study-in-uk-complete-guide-for-indian-students.html
+slug: study-in-uk-complete-guide-for-indian-students
+category_key: 06-study-abroad
+category_name: "Study Abroad for Indian Students"
+category_url: /06-study-abroad/
+---
+
 
 The United Kingdom is a popular destination for Indian students seeking internationally recognised qualifications, specialised academic programmes and exposure to a global professional environment.
 
