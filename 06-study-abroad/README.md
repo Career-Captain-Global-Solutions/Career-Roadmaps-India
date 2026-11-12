@@ -9,6 +9,9 @@ Explore international education opportunities and understand the process of stud
 - Studying in the United Kingdom
 - Studying in Canada
 - Studying in Australia
+- Studying in Ireland
+- Studying in France
+- Studying in the Netherlands
 - University and course selection
 - International admission requirements
 - Scholarships and financial planning
@@ -17,6 +20,10 @@ Explore international education opportunities and understand the process of stud
 - International career opportunities
 
 Always verify admission requirements, visa regulations, fees and scholarship conditions through official university and government websites.
+## Country Guides
+
+- [Study in France: Complete Guide for Indian Students](study-in-france-complete-guide-for-indian-students.md)
+
 ## Published Visual Resources
 
 | **Visual Asset** | **File** | **Preview** |
