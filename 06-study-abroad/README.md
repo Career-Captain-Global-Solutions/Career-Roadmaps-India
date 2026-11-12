@@ -17,3 +17,8 @@ Explore international education opportunities and understand the process of stud
 - International career opportunities
 
 Always verify admission requirements, visa regulations, fees and scholarship conditions through official university and government websites.
+## Published Visual Resources
+
+| **Visual Asset** | **File** | **Preview** |
+|---|---|---|
+| Study in Germany – Career & Education Roadmap | `study-in-germany-guide.webp` | [View Infographic](../images/study-abroad/study-in-germany-guide.webp) |
