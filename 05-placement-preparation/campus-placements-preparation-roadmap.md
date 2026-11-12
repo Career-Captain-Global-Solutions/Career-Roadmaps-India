@@ -782,8 +782,8 @@ Source: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-India
 
 Preparing for placements is easier when your target roles align with your interests, strengths and longer-term plans. Career Captain offers assessment-led career counselling for students and young professionals.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=campus-placements-preparation-roadmapcareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=campus-placements-preparation-roadmap)
-- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=campus-placements-preparation-roadmapareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=campus-placements-preparation-roadmap)
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=campus-placements-preparation-roadmap)
+- [Online career counselling](https://careercaptain.co.in/areas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=campus-placements-preparation-roadmap)
 - [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=campus-placements-preparation-roadmap)
 - [Explore career decisions by stage](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=campus-placements-preparation-roadmapcareer-decisions)
 
