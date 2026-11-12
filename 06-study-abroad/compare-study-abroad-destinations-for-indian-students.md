@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Compare 13 Study Abroad Destinations: A Decision Guide for Indian Students"
-seo_title: "Compare 13 Study Abroad Destinations: A Decision... | Career Roadmaps India"
-description: "Last reviewed: 12 November 2026. Costs, admissions, scholarships, visa financial thresholds, work permissions and graduate routes change. Verify the..."
+seo_title: "Best Countries to Study Abroad for Indian Students | Compare"
+description: "Compare popular study abroad destinations for Indian students by education options, costs, admissions, scholarships, work opportunities and planning factors."
 permalink: /06-study-abroad/compare-study-abroad-destinations-for-indian-students.html
 slug: compare-study-abroad-destinations-for-indian-students
 category_key: 06-study-abroad
