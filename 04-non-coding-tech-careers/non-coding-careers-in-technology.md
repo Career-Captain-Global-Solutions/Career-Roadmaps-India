@@ -795,7 +795,7 @@ Choosing between technical and non-technical career paths can be challenging, es
 
 **Career Captain Global Solutions** provides career counselling, career assessments, course and college planning, and study-abroad guidance to help students and young professionals make informed decisions.
 
-Website: https://careercaptain.co.in/
+Website: https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=non-coding-careers-in-technology
 
 *Educational disclaimer: This roadmap is intended for general career awareness. Job responsibilities, qualifications, tools and recruitment requirements vary by employer and may change. Verify important decisions with official institutions and employers.*
 
@@ -815,9 +815,9 @@ Source: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-India
 
 Technology has many roles beyond software development. If you are unsure which work environment or role family fits you, Career Captain offers career assessment and personalised counselling to help you evaluate possible directions.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
-- [Career fit reflection](https://careercaptain.co.in/career-fit)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=non-coding-careers-in-technologycareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=non-coding-careers-in-technology)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=non-coding-careers-in-technologyareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=non-coding-careers-in-technology)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=non-coding-careers-in-technology)
+- [Career fit reflection](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=non-coding-careers-in-technologycareer-fit?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=non-coding-careers-in-technology)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=non-coding-careers-in-technology) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20non%20coding%20careers%20in%20technology%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20non-coding-careers-in-technology.)
