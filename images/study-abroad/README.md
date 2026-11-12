@@ -42,7 +42,12 @@ Examples:
 - `study-in-australia-guide.webp`
 - `scholarships-for-indian-students.svg`
 - `student-visa-preparation-roadmap.png`
+## Published Visual Resources
 
+| **Visual Asset** | **File** | **Preview** |
+|---|---|---|
+| Study in Germany – Career & Education Roadmap | `study-in-germany-guide.webp` | [View Infographic](study-in-germany-guide.webp) |
+| Study in USA – Career & Education Roadmap | `study-in-usa-career-education-roadmap.webp` | [View Infographic](study-in-usa-career-education-roadmap.webp) |
 ## Project Information
 
 **Career Captain Global Solutions**
