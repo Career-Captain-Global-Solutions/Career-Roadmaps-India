@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Mechanical Engineering Career Roadmap in India: Opportunities, Skills, Specialisations and Future Scope"
-seo_title: "Mechanical Engineering Career Roadmap in India:... | Career Roadmaps India"
-description: "Mechanical Engineering is one of the broadest engineering disciplines. It combines physics, mathematics, materials science, design and manufacturing to..."
+seo_title: "Mechanical Engineering Career Options & Roadmap in India"
+description: "Explore career opportunities after Mechanical Engineering, including design, manufacturing, automotive, energy, robotics and emerging technology roles."
 permalink: /02-engineering-careers/mechanical-engineering-career-roadmap.html
 slug: mechanical-engineering-career-roadmap
 category_key: 02-engineering-careers
