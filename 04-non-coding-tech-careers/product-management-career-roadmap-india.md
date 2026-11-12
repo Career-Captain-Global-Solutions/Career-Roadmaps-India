@@ -86,3 +86,15 @@ Use employer career pages and the National Career Service (https://www.ncs.gov.i
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** Role expectations vary widely. This guide does not guarantee employment or prescribe a single entry route.
+
+---
+
+## Explore your career direction with Career Captain
+
+Product management combines user understanding, business judgement, communication and analytical work. If you are comparing it with other career paths, Career Captain can help you examine your interests, strengths and preferences.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
