@@ -576,7 +576,7 @@ Career development becomes more effective when students understand their existin
 
 Explore our services:
 
-https://careercaptain.co.in/
+https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=communication-skills-for-students-and-professionals
 
 ## Conclusion
 
@@ -598,7 +598,7 @@ This guide is intended for general educational and career-development purposes. 
 
 **Published by Career Captain Global Solutions**
 
-Website: https://careercaptain.co.in/
+Website: https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=communication-skills-for-students-and-professionals
 
 **Open Licence:** This educational guide is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. You may share and adapt the material with appropriate attribution.
 
@@ -610,8 +610,8 @@ Licence: https://creativecommons.org/licenses/by/4.0/
 
 Skills become more useful when you know which education or career direction you are preparing for. Career Captain offers assessment-led counselling to help students and professionals reflect on their strengths, interests and next steps.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=communication-skills-for-students-and-professionalscareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=communication-skills-for-students-and-professionals)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=communication-skills-for-students-and-professionalsareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=communication-skills-for-students-and-professionals)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=communication-skills-for-students-and-professionals)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=communication-skills-for-students-and-professionals) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20communication%20skills%20for%20students%20and%20professionals%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20communication-skills-for-students-and-professionals.)
