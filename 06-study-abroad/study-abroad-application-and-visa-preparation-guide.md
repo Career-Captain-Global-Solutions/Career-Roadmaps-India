@@ -670,7 +670,7 @@ Students and families often need help understanding:
 
 Explore our services:
 
-https://careercaptain.co.in/
+https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-abroad-application-and-visa-preparation-guide
 
 ## Conclusion
 
@@ -696,7 +696,7 @@ This guide is intended for general educational and career-planning purposes. Uni
 
 **Published by Career Captain Global Solutions**
 
-Website: https://careercaptain.co.in/
+Website: https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-abroad-application-and-visa-preparation-guide
 
 **Open Licence:** This educational guide is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. You may share and adapt the material with appropriate attribution.
 
@@ -708,8 +708,8 @@ Licence: https://creativecommons.org/licenses/by/4.0/
 
 Country and university choices should be evaluated against your academic profile, course goals, budget, entry requirements and long-term plans. Career Captain provides study-abroad counselling and application-planning support. Admission, scholarship and visa decisions remain with the relevant institutions and authorities.
 
-- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in/study-abroad-consultant-hyderabad)
-- [Scholarship guidance for Indian students](https://careercaptain.co.in/study-abroad-scholarships)
-- [Explore Career Captain](https://careercaptain.co.in/)
+- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-abroad-application-and-visa-preparation-guide?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-abroad-application-and-visa-preparation-guide)
+- [Scholarship guidance for Indian students](https://guide.careercaptain.co.in/study-abroad/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-abroad-application-and-visa-preparation-guide)
+- [Explore Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-abroad-application-and-visa-preparation-guide)
 
-[WhatsApp Career Captain](https://wa.me/919849488838)
+[WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20study%20abroad%20application%20and%20visa%20preparation%20guide%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20study-abroad-application-and-visa-preparation-guide.)
