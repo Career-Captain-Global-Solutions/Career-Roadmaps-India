@@ -1,4 +1,15 @@
-# Product Management Career Roadmap in India: Roles, Skills and Portfolio
+---
+layout: guide
+title: "Product Management Career Roadmap in India: Roles, Skills and Portfolio"
+seo_title: "Product Management Career Roadmap in India: Roles,... | Career Roadmaps India"
+description: "Product management focuses on identifying user and business problems, setting product direction and coordinating teams that build and improve products...."
+permalink: /04-non-coding-tech-careers/product-management-career-roadmap-india.html
+slug: product-management-career-roadmap-india
+category_key: 04-non-coding-tech-careers
+category_name: "Non-Coding Technology Careers"
+category_url: /04-non-coding-tech-careers/
+---
+
 
 **An educational resource by Career Captain Global Solutions**
 
