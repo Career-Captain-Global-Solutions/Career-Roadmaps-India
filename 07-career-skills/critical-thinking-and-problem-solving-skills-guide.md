@@ -1,4 +1,15 @@
-# Critical Thinking and Problem-Solving Skills for Students and Young Professionals: Complete Guide
+---
+layout: guide
+title: "Critical Thinking and Problem-Solving Skills for Students and Young Professionals: Complete Guide"
+seo_title: "Critical Thinking and Problem-Solving Skills for... | Career Roadmaps India"
+description: "Learn how to analyse information, question assumptions, make informed decisions and solve complex problems in academic and professional environments."
+permalink: /07-career-skills/critical-thinking-and-problem-solving-skills-guide.html
+slug: critical-thinking-and-problem-solving-skills-guide
+category_key: 07-career-skills
+category_name: "Career Skills and Professional Development"
+category_url: /07-career-skills/
+---
+
 
 **Learn how to analyse information, question assumptions, make informed decisions and solve complex problems in academic and professional environments.**
 
