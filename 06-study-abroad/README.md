@@ -15,6 +15,7 @@ Explore international education opportunities and understand the process of stud
 - Studying in Italy
 - Studying in New Zealand
 - Studying in Singapore
+- Studying in Japan
 - University and course selection
 - International admission requirements
 - Scholarships and financial planning
@@ -33,6 +34,7 @@ Always verify admission requirements, visa regulations, fees and scholarship con
 - [Study in Italy: Complete Guide for Indian Students](study-in-italy-complete-guide-for-indian-students.md)
 - [Study in New Zealand: Complete Guide for Indian Students](study-in-new-zealand-complete-guide-for-indian-students.md)
 - [Study in Singapore: Complete Guide for Indian Students](study-in-singapore-complete-guide-for-indian-students.md)
+- [Study in Japan: Complete Guide for Indian Students](study-in-japan-complete-guide-for-indian-students.md)
 
 - [Study in France: Complete Guide for Indian Students](study-in-france-complete-guide-for-indian-students.md)
 - [Study in the Netherlands: Complete Guide for Indian Students](study-in-netherlands-complete-guide-for-indian-students.md)
