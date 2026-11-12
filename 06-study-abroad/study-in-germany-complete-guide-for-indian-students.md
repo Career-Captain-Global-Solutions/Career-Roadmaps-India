@@ -11,7 +11,19 @@ However, studying in Germany requires careful planning. Students must understand
 This guide explains the process step by step.
 
 ---
+## Study in Germany – Visual Roadmap
 
+Explore the complete journey through our visual guide:
+
+[View the Study in Germany Career & Education Roadmap](../images/study-abroad/study-in-germany-guide.webp)
+
+<p align="center">
+  <a href="../images/study-abroad/study-in-germany-guide.webp">
+    <img src="../images/study-abroad/study-in-germany-guide.webp"
+         alt="Career Captain Study in Germany Career and Education Roadmap"
+         width="100%">
+  </a>
+</p>
 ## 1. Why Study in Germany?
 
 Germany offers several advantages for international students.
