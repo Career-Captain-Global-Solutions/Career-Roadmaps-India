@@ -757,8 +757,8 @@ Source: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-India
 
 If you are weighing employment, professional qualifications or postgraduate study, Career Captain can help you examine your interests, strengths and options before deciding.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-bcom-and-bbacareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-bcom-and-bba)
-- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-bcom-and-bbaareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-bcom-and-bba)
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-bcom-and-bba)
+- [Online career counselling](https://careercaptain.co.in/areas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-bcom-and-bba)
 - [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-bcom-and-bba)
 - [Explore career decisions by stage](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-bcom-and-bbacareer-decisions)
 
