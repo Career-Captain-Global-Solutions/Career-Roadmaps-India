@@ -6,6 +6,16 @@ Technology careers are not limited to software development. Organisations also n
 
 ## Published guide
 
+## Additional published guides
+
+- [Business Analyst Career Roadmap](business-analyst-career-roadmap-india.md) — Responsibilities, requirements, process mapping, tools and portfolio case studies.
+- [Product Management Career Roadmap](product-management-career-roadmap-india.md) — Product discovery, prioritisation, metrics, entry routes and case studies.
+- [UI/UX Designer Career Roadmap](ui-ux-designer-career-roadmap-india.md) — User research, interaction design, accessibility and portfolio development.
+- [Data Analyst Career Roadmap](data-analyst-career-roadmap-india.md) — Spreadsheets, SQL, statistics, visualisation and practical data projects.
+- [IT Project Coordinator Career Roadmap](it-project-coordinator-career-roadmap-india.md) — Project tracking, communication, delivery workflows and sample project documentation.
+
+
+
 [Non-Coding Careers in Technology: A Complete Career Roadmap for Indian Students and Graduates](non-coding-careers-in-technology.md)
 
 The guide explores roles and pathways including:
