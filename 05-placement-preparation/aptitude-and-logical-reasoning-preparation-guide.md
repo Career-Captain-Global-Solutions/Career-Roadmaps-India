@@ -72,3 +72,15 @@ Use your college placement cell's official test instructions and employer-provid
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** Test formats and selection criteria vary. This guide does not predict or guarantee a recruitment outcome.
+
+---
+
+## Choose a preparation direction with Career Captain
+
+Aptitude practice is most useful when connected to the requirements of a realistic education or career goal. Career Captain offers career assessment and counselling to help students explore suitable directions and plan next steps.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
