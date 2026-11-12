@@ -1,4 +1,15 @@
-# Petroleum Engineering Career Roadmap
+---
+layout: guide
+title: "Petroleum Engineering Career Roadmap"
+seo_title: "Petroleum Engineering Career Roadmap | Career Roadmaps India"
+description: "A comprehensive guide for students exploring Petroleum Engineering, covering academic foundations, technical skills, specialisations, industry..."
+permalink: /02-engineering-careers/petroleum-engineering-career-roadmap.html
+slug: petroleum-engineering-career-roadmap
+category_key: 02-engineering-careers
+category_name: "Engineering Career Roadmaps"
+category_url: /02-engineering-careers/
+---
+
 
 A comprehensive guide for students exploring Petroleum Engineering, covering academic foundations, technical skills, specialisations, industry opportunities, and career growth in India and internationally.
 
