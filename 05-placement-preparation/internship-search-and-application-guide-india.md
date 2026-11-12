@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Internship Search and Application Guide for Students in India"
-seo_title: "Internship Search and Application Guide for... | Career Roadmaps India"
-description: "An internship can help students understand workplace expectations, practise skills and explore a field. The quality of the learning experience matters..."
+seo_title: "How to Find Internships in India | Student Application Guide"
+description: "Learn how students in India can find internships, shortlist opportunities, prepare applications, build a resume and approach employers professionally."
 permalink: /05-placement-preparation/internship-search-and-application-guide-india.html
 slug: internship-search-and-application-guide-india
 category_key: 05-placement-preparation
