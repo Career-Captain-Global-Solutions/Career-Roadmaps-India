@@ -1,5 +1,15 @@
+---
+layout: guide
+title: "Career Options After Class 12 BPC in India: Complete Career Roadmap"
+seo_title: "Career Options After Class 12 BPC in India:... | Career Roadmaps India"
+description: "Choosing Biology, Physics and Chemistry (BPC) in Class 11 and Class 12 opens opportunities across medicine, healthcare, pharmaceutical sciences,..."
+permalink: /01-school-careers/career-options-after-class-12-bpc.html
+slug: career-options-after-class-12-bpc
+category_key: 01-school-careers
+category_name: "School and Stream Selection"
+category_url: /01-school-careers/
+---
 
-# Career Options After Class 12 BPC in India: Complete Career Roadmap
 
 **An educational resource by Career Captain Global Solutions**
 
