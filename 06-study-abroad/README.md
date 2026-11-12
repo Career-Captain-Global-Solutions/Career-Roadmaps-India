@@ -27,6 +27,8 @@ Explore international education opportunities and understand the process of stud
 Always verify admission requirements, visa regulations, fees and scholarship conditions through official university and government websites.
 ## Resources
 
+- [Compare 13 Study Abroad Destinations: Decision Guide for Indian Students](compare-study-abroad-destinations-for-indian-students.md)
+
 - [Scholarships for Indian Students Studying Abroad](scholarships-for-indian-students-studying-abroad.md)
 - [Study Abroad Application and Visa Preparation Guide](study-abroad-application-and-visa-preparation-guide.md)
 
