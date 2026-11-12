@@ -845,3 +845,15 @@ Repository: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-I
 ---
 
 **Content licence:** Creative Commons Attribution 4.0 International (CC BY 4.0). Attribution to Career Captain Global Solutions is required when sharing or adapting this material.
+
+---
+
+## Get help comparing courses and career pathways
+
+MPC students can choose from engineering, sciences, computing and several other pathways. Career Captain offers assessment-led counselling to help students and families compare options before choosing a course.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp](https://wa.me/919849488838)
