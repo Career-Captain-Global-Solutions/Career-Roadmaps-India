@@ -377,7 +377,135 @@ Answer truthfully and clearly. Never use fabricated financial documents or false
 The US Department of State currently lists a $185 application processing fee for F-category student visas. Additional applicable charges and procedures should be checked before applying.
 
 Official visa information: https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html
+## Indian Student F-1 Visa and University Application Checklist
 
+Use this checklist to organise your application to study in the United States. Requirements vary by university, programme and individual visa circumstances.
+
+### 1. University and Course Selection
+
+- [ ] Identify your intended degree and specialisation.
+- [ ] Shortlist SEVP-certified universities.
+- [ ] Compare course curriculum, faculty and research opportunities.
+- [ ] Check university accreditation and programme recognition.
+- [ ] Review admission requirements and subject prerequisites.
+- [ ] Check SAT, ACT, GRE or GMAT requirements, where applicable.
+- [ ] Confirm English-language test requirements.
+- [ ] Compare tuition, accommodation and total cost of attendance.
+- [ ] Research scholarships and assistantships.
+- [ ] Record university and scholarship deadlines.
+
+### 2. Academic Application Documents
+
+**For Bachelor's applicants:**
+- [ ] Class 10 marksheets and certificates.
+- [ ] Class 12 marksheets and certificates.
+- [ ] School transcripts.
+- [ ] SAT or ACT scores, if required or submitted.
+- [ ] English-language proficiency results, if required.
+- [ ] Personal essays or application statements.
+- [ ] Letters of recommendation.
+- [ ] Extracurricular achievements and activity records.
+
+**For Master's applicants:**
+- [ ] Bachelor's degree certificate or provisional certificate.
+- [ ] All semester marksheets and transcripts.
+- [ ] Grading-system explanation, if requested.
+- [ ] GRE or GMAT scores, if required.
+- [ ] English-language proficiency results.
+- [ ] Statement of Purpose.
+- [ ] Academic or professional CV.
+- [ ] Letters of Recommendation.
+- [ ] Portfolio, research proposal or writing sample, if required.
+- [ ] Relevant internship and work-experience documents.
+
+### 3. Admission and Financial Preparation
+
+- [ ] Submit applications through the correct university portal.
+- [ ] Upload documents in the required format.
+- [ ] Pay application fees where applicable.
+- [ ] Track application status.
+- [ ] Review admission and scholarship offers.
+- [ ] Compare the complete cost of attendance.
+- [ ] Accept the chosen offer according to university instructions.
+- [ ] Complete the university's financial documentation process.
+- [ ] Submit required financial evidence for I-20 issuance.
+- [ ] Confirm the programme start date and enrolment instructions.
+
+### 4. Form I-20 and SEVIS Preparation
+
+After accepting admission and completing the institution's requirements:
+
+- [ ] Confirm that the university is SEVP-certified.
+- [ ] Provide the required information and financial evidence to the university.
+- [ ] Receive Form I-20 from the Designated School Official (DSO).
+- [ ] Check your name, date of birth, programme details and start date.
+- [ ] Verify the SEVIS identification number.
+- [ ] Sign the student attestation on Form I-20.
+- [ ] Pay the I-901 SEVIS fee through the official payment system.
+- [ ] Save the SEVIS payment confirmation.
+- [ ] Contact the university if any information on the I-20 is incorrect.
+
+The current I-901 SEVIS fee for F-1 students is **US$350**. Verify the amount and payment instructions before paying.
+
+### 5. F-1 Student Visa Application
+
+- [ ] Check the latest instructions from the US Embassy or Consulate in India.
+- [ ] Complete Form DS-160 accurately.
+- [ ] Save and print the DS-160 confirmation page.
+- [ ] Arrange a compliant visa photograph.
+- [ ] Pay the applicable visa application fee.
+- [ ] Schedule the visa appointment according to current procedures.
+- [ ] Prepare your passport and Form I-20.
+- [ ] Carry the SEVIS I-901 fee payment confirmation.
+- [ ] Prepare academic certificates and transcripts.
+- [ ] Prepare standardised test results, where relevant.
+- [ ] Prepare evidence of funds for tuition, living expenses and travel.
+- [ ] Keep scholarship or assistantship award letters, if applicable.
+- [ ] Review your university, programme and funding information before the interview.
+
+### 6. F-1 Visa Interview Preparation
+
+Be prepared to explain:
+
+- [ ] Why you selected the United States.
+- [ ] Why you chose the particular university.
+- [ ] How the programme relates to your academic background.
+- [ ] What you intend to study.
+- [ ] How you will finance your education.
+- [ ] What your academic and career plans are.
+- [ ] How you understand the conditions of F-1 student status.
+
+Answer honestly and consistently with your application documents. Do not memorise fabricated answers or submit false financial evidence.
+
+### 7. Before Departure
+
+- [ ] Confirm that your passport and visa details are correct.
+- [ ] Check your Form I-20 programme start date.
+- [ ] Confirm university accommodation arrangements.
+- [ ] Arrange health insurance according to university requirements.
+- [ ] Book travel after considering visa approval and entry dates.
+- [ ] Carry your passport, visa and Form I-20.
+- [ ] Carry important academic and financial documents.
+- [ ] Keep university and emergency contact details accessible.
+- [ ] Review customs and entry requirements.
+- [ ] Understand your university's arrival and reporting procedures.
+
+### Important F-1 Travel Rules
+
+- New F-1 student visas may generally be issued up to 365 days before the programme start date.
+- New students generally cannot enter the United States more than 30 days before the programme start date shown on Form I-20.
+- A visa does not guarantee admission at the US port of entry.
+- Students must maintain their F-1 status and follow employment authorisation requirements.
+
+### Official Application and Visa Resources
+
+- [US Department of State – Student Visas](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html)
+- [DS-160 Online Application](https://ceac.state.gov/GenNIV/)
+- [I-901 SEVIS Fee Payment](https://www.fmjfee.com/)
+- [Study in the States – DHS](https://studyinthestates.dhs.gov/)
+- [EducationUSA](https://educationusa.state.gov/)
+
+*Disclaimer: This checklist is an educational planning aid, not legal or immigration advice. Visa procedures, fees and university requirements may change. Always follow the latest official instructions.*
 **A university admission letter does not guarantee a visa. A visa approval also does not guarantee entry; admission at the US port of entry is determined by the relevant authorities.**
 
 ## 10. Working While Studying
