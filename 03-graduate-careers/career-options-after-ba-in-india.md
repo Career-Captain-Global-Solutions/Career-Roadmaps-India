@@ -1,4 +1,15 @@
-# Career Options After BA in India: Career Paths, Higher Studies and Skills
+---
+layout: guide
+title: "Career Options After BA in India: Career Paths, Higher Studies and Skills"
+seo_title: "Career Options After BA in India: Career Paths,... | Career Roadmaps India"
+description: "A Bachelor of Arts (BA) can develop subject knowledge, research ability, communication and critical thinking. Graduates may enter employment, pursue..."
+permalink: /03-graduate-careers/career-options-after-ba-in-india.html
+slug: career-options-after-ba-in-india
+category_key: 03-graduate-careers
+category_name: "Career Options After Graduation"
+category_url: /03-graduate-careers/
+---
+
 
 **An educational resource by Career Captain Global Solutions**
 
