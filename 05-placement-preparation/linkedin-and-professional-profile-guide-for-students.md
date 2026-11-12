@@ -61,3 +61,15 @@ Check that your name, education, dates, project descriptions and contact links a
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** Platform features and visibility settings may change. Follow current platform policies and protect personal information.
+
+---
+
+## Align your professional profile with a career direction
+
+Your profile communicates the direction you are building towards. Career Captain offers assessment-led career counselling to help students explore options and make informed education and career decisions.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
