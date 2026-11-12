@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in Italy: Complete Guide for Indian Students"
-seo_title: "Study in Italy: Complete Guide for Indian Students | Career Roadmaps India"
-description: "Last reviewed: 12 November 2026. Admission, visa, financial and scholarship rules can change; confirm current requirements with the university and..."
+seo_title: "Study in Italy for Indian Students | Courses & Scholarships"
+description: "Explore studying in Italy as an Indian student, including universities, courses, admission routes, tuition, scholarships and living expenses."
 permalink: /06-study-abroad/study-in-italy-complete-guide-for-indian-students.html
 slug: study-in-italy-complete-guide-for-indian-students
 category_key: 06-study-abroad
