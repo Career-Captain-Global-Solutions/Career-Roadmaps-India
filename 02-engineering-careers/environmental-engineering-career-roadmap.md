@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Environmental Engineering Career Roadmap in India"
-seo_title: "Environmental Engineering Career Roadmap in India | Career Roadmaps India"
-description: "Environmental Engineering applies engineering and scientific principles to protect the environment, manage natural resources, control pollution, and..."
+seo_title: "Environmental Engineering Careers in India | Career Guide"
+description: "Discover environmental engineering careers in India across water and wastewater treatment, pollution control, sustainability, waste management and compliance."
 permalink: /02-engineering-careers/environmental-engineering-career-roadmap.html
 slug: environmental-engineering-career-roadmap
 category_key: 02-engineering-careers
