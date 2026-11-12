@@ -1,4 +1,15 @@
-# Business Analyst Career Roadmap in India: Skills, Tools and Entry Paths
+---
+layout: guide
+title: "Business Analyst Career Roadmap in India: Skills, Tools and Entry Paths"
+seo_title: "Business Analyst Career Roadmap in India: Skills,... | Career Roadmaps India"
+description: "Business analysts help organisations understand problems, clarify requirements and improve processes or technology solutions. The role sits between..."
+permalink: /04-non-coding-tech-careers/business-analyst-career-roadmap-india.html
+slug: business-analyst-career-roadmap-india
+category_key: 04-non-coding-tech-careers
+category_name: "Non-Coding Technology Careers"
+category_url: /04-non-coding-tech-careers/
+---
+
 
 **An educational resource by Career Captain Global Solutions**
 
