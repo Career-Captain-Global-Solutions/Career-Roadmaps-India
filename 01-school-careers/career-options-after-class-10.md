@@ -518,3 +518,15 @@ Repository: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-I
 ---
 
 **Content licence:** This educational guide is published under the Creative Commons Attribution 4.0 International licence (CC BY 4.0). Attribution to Career Captain Global Solutions is required when sharing or adapting this material.
+
+---
+
+## Get help with stream and subject decisions
+
+If your family is comparing academic, vocational, diploma or ITI pathways, Career Captain can help you explore options in the context of the student's interests, strengths and goals.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [School Career Lab for institutions](https://careercaptain.co.in/school-career-lab)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp](https://wa.me/919849488838)
