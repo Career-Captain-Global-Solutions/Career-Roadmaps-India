@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Digital Literacy and AI Skills for the Workplace: A Practical Guide for Students and Young Professionals"
-seo_title: "Digital Literacy and AI Skills for the Workplace:... | Career Roadmaps India"
-description: "Build the digital confidence, technology awareness and AI skills needed to succeed in a changing workplace."
+seo_title: "Digital Literacy & AI Skills for the Modern Workplace"
+description: "Explore digital literacy and AI skills for students and professionals, including responsible tool use, information evaluation, digital collaboration and workplace readiness."
 permalink: /07-career-skills/digital-literacy-and-ai-skills-for-the-workplace.html
 slug: digital-literacy-and-ai-skills-for-the-workplace
 category_key: 07-career-skills
