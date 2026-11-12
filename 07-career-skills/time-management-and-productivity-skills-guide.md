@@ -1,4 +1,15 @@
-# Time Management and Productivity Skills for Students and Young Professionals: Complete Guide
+---
+layout: guide
+title: "Time Management and Productivity Skills for Students and Young Professionals: Complete Guide"
+seo_title: "Time Management and Productivity Skills for Students and Young Professionals: Complete Guide | Career Roadmaps India"
+description: "Learn how to set priorities, manage deadlines, overcome procrastination and build productive habits for academic and professional success."
+permalink: /07-career-skills/time-management-and-productivity-skills-guide.html
+slug: time-management-and-productivity-skills-guide
+category_key: 07-career-skills
+category_name: "Career Skills and Professional Development"
+category_url: /07-career-skills/
+---
+
 
 **Learn how to set priorities, manage deadlines, overcome procrastination and build productive habits for academic and professional success.**
 
