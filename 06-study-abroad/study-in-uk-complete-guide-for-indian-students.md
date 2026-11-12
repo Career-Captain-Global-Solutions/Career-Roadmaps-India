@@ -406,7 +406,164 @@ Do not confuse the visa's minimum financial requirement with the actual amount y
 Official source: https://www.gov.uk/student-visa/money
 
 **Important:** Financial rules can change. Recheck the official GOV.UK page immediately before submitting your visa application.
+## UK Student Application Checklist for Indian Students
 
+Use this checklist to organise your journey from university selection to arrival in the United Kingdom. Requirements vary by university, programme and individual immigration circumstances.
+
+### 1. Course and University Selection
+
+- [ ] Decide whether you want to pursue a Bachelor's, Master's or PhD.
+- [ ] Identify suitable universities and courses.
+- [ ] Check whether your Class 12 qualification is accepted directly.
+- [ ] Check whether a foundation year is required.
+- [ ] Verify Bachelor's degree equivalency for Master's admission.
+- [ ] Review subject prerequisites and minimum academic marks.
+- [ ] Check professional accreditation where relevant.
+- [ ] Compare course duration and curriculum.
+- [ ] Review tuition fees and living expenses.
+- [ ] Record university and scholarship deadlines.
+
+### 2. Academic and Application Documents
+
+**For Bachelor's applicants:**
+- [ ] Class 10 marksheets and certificates.
+- [ ] Class 12 marksheets and certificates.
+- [ ] Academic transcripts.
+- [ ] English-language proficiency evidence, if required.
+- [ ] Personal statement or required UCAS application responses.
+- [ ] Academic reference.
+- [ ] Portfolio or additional assessment, where applicable.
+
+**For Master's applicants:**
+- [ ] Bachelor's degree certificate or provisional certificate.
+- [ ] All semester marksheets and transcripts.
+- [ ] Grading-system explanation, if requested.
+- [ ] Statement of Purpose.
+- [ ] Academic or professional CV.
+- [ ] Letters of Recommendation.
+- [ ] English-language test results, where required.
+- [ ] Work experience documents, where applicable.
+- [ ] Portfolio, research proposal or writing sample, if required.
+
+**For PhD applicants:**
+- [ ] Previous degree certificates and transcripts.
+- [ ] Research proposal.
+- [ ] Academic CV.
+- [ ] Academic references.
+- [ ] Evidence of relevant research experience.
+- [ ] Funding or supervisor correspondence, where applicable.
+
+### 3. English-Language Preparation
+
+- [ ] Check the university's accepted English-language tests.
+- [ ] Confirm the required score for your programme.
+- [ ] Check whether previous education in English can be accepted as evidence.
+- [ ] Verify whether a separate Secure English Language Test (SELT) is required for your visa route.
+- [ ] Check the validity and format of your test results.
+
+Remember that university admission requirements and UK Student visa English-language requirements may differ.
+
+### 4. University Application
+
+**For undergraduate applicants:**
+
+- [ ] Create your UCAS account.
+- [ ] Research courses and university choices.
+- [ ] Prepare your application information.
+- [ ] Complete the required personal statement or structured questions.
+- [ ] Arrange your academic reference.
+- [ ] Submit the application before the relevant deadline.
+- [ ] Track decisions and respond to offers.
+- [ ] Meet any conditions attached to your offer.
+
+**For postgraduate applicants:**
+
+- [ ] Apply through the university's official application portal.
+- [ ] Submit transcripts, certificates and supporting documents.
+- [ ] Submit your Statement of Purpose and recommendations.
+- [ ] Complete any interview or additional assessment.
+- [ ] Apply separately for scholarships where necessary.
+- [ ] Track the application and respond to university requests.
+
+### 5. Scholarships and Financial Planning
+
+- [ ] Research university-specific scholarships.
+- [ ] Check Chevening eligibility, where applicable.
+- [ ] Research Commonwealth Scholarship opportunities.
+- [ ] Check GREAT Scholarship availability.
+- [ ] Investigate research studentships and funded PhD positions.
+- [ ] Review scholarship deadlines separately from admission deadlines.
+- [ ] Calculate tuition fees and living expenses.
+- [ ] Arrange suitable financial resources.
+- [ ] Check the latest UK Student visa maintenance-fund requirement.
+- [ ] Prepare acceptable financial evidence.
+
+Do not rely on part-time employment or an unconfirmed scholarship to meet your visa financial requirements.
+
+### 6. Confirmation of Acceptance for Studies (CAS)
+
+After receiving and accepting an eligible university offer:
+
+- [ ] Meet the university's admission conditions.
+- [ ] Submit any outstanding academic documents.
+- [ ] Complete the university's required credibility or pre-CAS checks.
+- [ ] Pay the required tuition deposit, if applicable.
+- [ ] Provide financial and other information requested by the university.
+- [ ] Receive your CAS reference.
+- [ ] Check your name, course details, tuition fees and course dates.
+- [ ] Verify that the information is accurate before applying for your visa.
+
+The CAS is an electronic sponsorship record. You need its reference for your Student visa application.
+
+### 7. Student Visa Preparation
+
+- [ ] Confirm that your university is a licensed Student sponsor.
+- [ ] Check your CAS details.
+- [ ] Complete the online Student visa application.
+- [ ] Prepare your valid passport.
+- [ ] Arrange acceptable financial evidence, where required.
+- [ ] Prepare academic documents listed in your CAS or requested by UKVI.
+- [ ] Arrange English-language evidence, where required.
+- [ ] Obtain an ATAS certificate if your course and nationality require one.
+- [ ] Complete a tuberculosis test if required.
+- [ ] Pay the applicable visa application fee.
+- [ ] Pay the Immigration Health Surcharge, where applicable.
+- [ ] Complete identity verification and biometrics as instructed.
+- [ ] Follow all additional instructions from UK Visas and Immigration.
+
+### 8. Before Travelling to the UK
+
+- [ ] Check your visa decision and immigration status.
+- [ ] Confirm your university enrolment instructions.
+- [ ] Arrange accommodation.
+- [ ] Confirm travel dates and permitted arrival arrangements.
+- [ ] Arrange funds for initial living expenses.
+- [ ] Carry your passport and relevant university documents.
+- [ ] Keep your CAS and visa information accessible.
+- [ ] Understand your university's registration process.
+- [ ] Review your Student visa work conditions.
+- [ ] Save university emergency contacts.
+
+### Important Reminders
+
+- Admission does not guarantee a Student visa.
+- A CAS does not guarantee visa approval.
+- Financial requirements must be checked using the latest official rules.
+- ATAS and tuberculosis requirements depend on the applicant and programme.
+- Student visa holders must follow their individual work conditions.
+- Graduate visa eligibility and duration depend on the rules applicable when you apply.
+
+### Official UK Application Resources
+
+- [UCAS – Undergraduate Applications](https://www.ucas.com/)
+- [GOV.UK – Student Visa](https://www.gov.uk/student-visa)
+- [GOV.UK – Student Visa Financial Requirements](https://www.gov.uk/student-visa/money)
+- [GOV.UK – Knowledge of English](https://www.gov.uk/student-visa/knowledge-of-english)
+- [GOV.UK – ATAS](https://www.gov.uk/guidance/academic-technology-approval-scheme)
+- [GOV.UK – Tuberculosis Testing](https://www.gov.uk/tb-test-visa)
+- [British Council – Study UK](https://study-uk.britishcouncil.org/)
+
+*Disclaimer: This checklist is an educational planning aid, not legal or immigration advice. University admission policies, visa fees and immigration requirements can change. Verify all requirements through official sources before applying.*
 ## 11. Working While Studying
 
 Eligible international students can work during their studies, subject to the conditions attached to their Student permission.
