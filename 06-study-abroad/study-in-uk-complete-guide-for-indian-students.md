@@ -6,6 +6,7 @@ The UK offers undergraduate degrees, postgraduate programmes, research opportuni
 
 This guide explains the study-abroad process for Indian students, from selecting a course to planning a career after graduation.
 
+![Study in the UK – Career & Education Roadmap](../images/study-abroad/study-in-uk-career-education-roadmap.webp)
 *Last reviewed: November 2026. Admission requirements, fees and immigration policies can change. Always verify current information through official university and government websites.*
 
 ---
