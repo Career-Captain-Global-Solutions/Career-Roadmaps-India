@@ -1,4 +1,15 @@
-# Internship Search and Application Guide for Students in India
+---
+layout: guide
+title: "Internship Search and Application Guide for Students in India"
+seo_title: "Internship Search and Application Guide for... | Career Roadmaps India"
+description: "An internship can help students understand workplace expectations, practise skills and explore a field. The quality of the learning experience matters..."
+permalink: /05-placement-preparation/internship-search-and-application-guide-india.html
+slug: internship-search-and-application-guide-india
+category_key: 05-placement-preparation
+category_name: "Placement and Job Preparation"
+category_url: /05-placement-preparation/
+---
+
 
 **An educational resource by Career Captain Global Solutions**
 
