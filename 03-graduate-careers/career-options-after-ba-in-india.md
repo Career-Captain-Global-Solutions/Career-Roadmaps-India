@@ -84,3 +84,15 @@ Always read the current official notification. Dates, eligibility, age limits an
 **About Career Captain:** Career Captain Global Solutions supports career exploration, counselling, assessments and educational planning. Website: https://careercaptain.co.in/
 
 **Disclaimer:** This guide is for general educational information. It does not guarantee admission, employment or eligibility. Verify current requirements with universities, regulators and recruiting authorities.
+
+---
+
+## Need help choosing your next step?
+
+A degree can lead to several different directions. Career Captain offers personalised career counselling and assessment to help students compare options against their interests, strengths and circumstances.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
