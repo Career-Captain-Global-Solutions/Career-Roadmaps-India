@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://career-captain-global-solutions.github.io/Career-Roadmaps-India/sitemap.xml
