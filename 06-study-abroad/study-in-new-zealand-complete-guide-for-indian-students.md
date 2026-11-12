@@ -307,7 +307,7 @@ Career Captain Global Solutions supports students and families through:
 - Scholarship and admission guidance.
 - Career pathway planning.
 
-Explore: https://careercaptain.co.in/
+Explore: https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-new-zealand-complete-guide-for-indian-students
 
 ## Conclusion
 
@@ -322,7 +322,7 @@ New Zealand can offer Indian students strong academic and applied-learning pathw
 This guide is for general educational and career-planning purposes. Admission requirements, tuition fees, scholarship conditions, visa procedures, financial thresholds and employment rules can change. It does not guarantee admission, funding, a visa, employment or permanent residence. Verify current requirements with the education provider and official New Zealand authorities before making decisions.
 
 **Published by Career Captain Global Solutions**  
-Website: https://careercaptain.co.in/
+Website: https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-new-zealand-complete-guide-for-indian-students
 
 **Open Licence:** Creative Commons Attribution 4.0 International (CC BY 4.0), subject to applicable third-party asset rights.  
 https://creativecommons.org/licenses/by/4.0/
@@ -333,8 +333,8 @@ https://creativecommons.org/licenses/by/4.0/
 
 Country and university choices should be evaluated against your academic profile, course goals, budget, entry requirements and long-term plans. Career Captain provides study-abroad counselling and application-planning support. Admission, scholarship and visa decisions remain with the relevant institutions and authorities.
 
-- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in/study-abroad-consultant-hyderabad)
-- [Scholarship guidance for Indian students](https://careercaptain.co.in/study-abroad-scholarships)
-- [Explore Career Captain](https://careercaptain.co.in/)
+- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-new-zealand-complete-guide-for-indian-students?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-new-zealand-complete-guide-for-indian-students)
+- [Scholarship guidance for Indian students](https://guide.careercaptain.co.in/study-abroad/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-new-zealand-complete-guide-for-indian-students)
+- [Explore Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-new-zealand-complete-guide-for-indian-students)
 
-[WhatsApp Career Captain](https://wa.me/919849488838)
+[WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20study%20in%20new%20zealand%20complete%20guide%20for%20indian%20students%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20study%20abroad%20guidance.%20Source%3A%20study-in-new-zealand-complete-guide-for-indian-students.)
