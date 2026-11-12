@@ -83,7 +83,7 @@ Month 3: Get feedback, improve the case study, build domain knowledge and apply 
 
 Use employer career pages and the National Career Service (https://www.ncs.gov.in/) to review current requirements.
 
-**About Career Captain:** https://careercaptain.co.in/
+**About Career Captain:** https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=product-management-career-roadmap-india
 
 **Disclaimer:** Role expectations vary widely. This guide does not guarantee employment or prescribe a single entry route.
 
@@ -93,8 +93,8 @@ Use employer career pages and the National Career Service (https://www.ncs.gov.i
 
 Product management combines user understanding, business judgement, communication and analytical work. If you are comparing it with other career paths, Career Captain can help you examine your interests, strengths and preferences.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=product-management-career-roadmap-indiacareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=product-management-career-roadmap-india)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=product-management-career-roadmap-indiaareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=product-management-career-roadmap-india)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=product-management-career-roadmap-india)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=product-management-career-roadmap-india) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20product%20management%20career%20roadmap%20india%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20product-management-career-roadmap-india.)
