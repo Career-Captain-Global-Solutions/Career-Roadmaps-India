@@ -57,4 +57,6 @@ Explore the complete career guides for all 16 engineering disciplines:
 
 **Maintained by Career Captain Global Solutions.**
 
+## Career guidance support
 
+If you are comparing engineering branches, specialisations or career directions, explore [Career counselling](https://careercaptain.co.in/career-counselling-hyderabad), [psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad) or [online career counselling](https://careercaptain.co.in/online-career-counselling). [Contact Career Captain on WhatsApp](https://wa.me/919849488838).
