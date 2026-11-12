@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Interview Preparation Guide for Freshers in India: Technical and HR Rounds"
-seo_title: "Interview Preparation Guide for Freshers in India:... | Career Roadmaps India"
-description: "An interview is a structured conversation in which an employer evaluates how your knowledge, experience and approach relate to a role. Preparation is..."
+seo_title: "Interview Preparation for Freshers | Questions & Tips"
+description: "Prepare for fresher interviews with guidance on common HR and technical questions, communication, research, practice and interview-day readiness."
 permalink: /05-placement-preparation/interview-preparation-guide-for-freshers.html
 slug: interview-preparation-guide-for-freshers
 category_key: 05-placement-preparation
