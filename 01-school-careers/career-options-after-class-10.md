@@ -1,5 +1,15 @@
+---
+layout: guide
+title: "Career Options After Class 10 in India: A Complete Career Planning Guide"
+seo_title: "Career Options After Class 10 in India: A Complete... | Career Roadmaps India"
+description: "Choosing what to study after Class 10 is one of the first major educational decisions in a student's life. It can influence future academic..."
+permalink: /01-school-careers/career-options-after-class-10.html
+slug: career-options-after-class-10
+category_key: 01-school-careers
+category_name: "School and Stream Selection"
+category_url: /01-school-careers/
+---
 
-# Career Options After Class 10 in India: A Complete Career Planning Guide
 
 **An educational resource by Career Captain Global Solutions**
 
