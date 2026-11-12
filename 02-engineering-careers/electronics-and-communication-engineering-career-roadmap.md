@@ -1,4 +1,15 @@
-# Electronics and Communication Engineering (ECE) Career Roadmap in India: Opportunities, Skills, Specialisations and Future Scope
+---
+layout: guide
+title: "Electronics and Communication Engineering (ECE) Career Roadmap in India: Opportunities, Skills, Specialisations and Future Scope"
+seo_title: "Electronics and Communication Engineering (ECE)... | Career Roadmaps India"
+description: "Electronics and Communication Engineering (ECE) is a multidisciplinary engineering branch that combines electronics, electrical systems, communication..."
+permalink: /02-engineering-careers/electronics-and-communication-engineering-career-roadmap.html
+slug: electronics-and-communication-engineering-career-roadmap
+category_key: 02-engineering-careers
+category_name: "Engineering Career Roadmaps"
+category_url: /02-engineering-careers/
+---
+
 
 Electronics and Communication Engineering (ECE) is a multidisciplinary engineering branch that combines electronics, electrical systems, communication technologies, embedded systems and computing.
 
