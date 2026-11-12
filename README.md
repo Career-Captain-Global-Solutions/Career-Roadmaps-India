@@ -27,53 +27,44 @@ Our objective is simple: help people make more informed career decisions.
 [Explore the School Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/01-school-careers/)
 
 - Career options after Class 10
-- Understanding MPC, BPC, MEC and CEC
-- Career opportunities after Class 12
-- Choosing undergraduate courses
-- Understanding emerging career fields
+- Career options after Class 10, including academic, vocational, diploma and ITI pathways
+- Career options after Class 12 for MPC students
+- Career options after Class 12 for BPC students
 
 ### 2. Engineering Students
 
 [Explore the Engineering Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/02-engineering-careers/)
 
-- Computer Science Engineering career roadmap
-- Mechanical Engineering career roadmap
-- Electronics and Communication Engineering career roadmap
-- Civil Engineering career roadmap
-- Electrical Engineering career roadmap
-- Core engineering versus non-core careers
+- Detailed roadmaps for 16 engineering disciplines
+- Engineering subjects, technical skills and practical experience
+- Potential industries, roles and further study pathways
 
 ### 3. Graduate Students
 
 [Explore the Graduate Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/03-graduate-careers/)
 
-- Career options after graduation
-- Higher education pathways
-- Competitive examinations
-- Professional certifications
-- Career transition opportunities
+- Published career roadmap for BCom and BBA graduates
+- Accounting, finance, banking, marketing and management directions
+- Employment, further study and professional qualification considerations
 
 ### 4. Non-Coding Technology Careers
 
 [Explore the Non-Coding Technology Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/04-non-coding-tech-careers/)
 
-- Business Analyst
-- Product Manager
-- Technical Writer
-- IT Project Manager
-- Cybersecurity Governance
-- Technology Consultant
+- A published overview of non-coding and low-coding technology careers
+- Business analysis, product management, UI/UX and technical writing
+- IT support, cloud operations, cybersecurity governance and quality assurance
+- Skills and technical knowledge commonly relevant to these roles
 
 ### 5. Placement and Employment Preparation
 
 [Explore the Placement Preparation landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/05-placement-preparation/)
 
-- Final-year placement checklist
-- Resume preparation
-- Interview preparation
-- Internship search strategy
-- Aptitude preparation
-- Professional communication
+- A published campus placement preparation roadmap
+- Recruitment stages and eligibility checks
+- Resume and profile preparation
+- Aptitude, technical assessments and interview preparation
+- Group discussions and professional communication where applicable
 
 ### 6. Study Abroad
 
