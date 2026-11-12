@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Resume Building Guide for Freshers in India: Structure, Projects and Examples"
-seo_title: "Resume Building Guide for Freshers in India:... | Career Roadmaps India"
-description: "A fresher resume should help a recruiter quickly understand your education, relevant skills, projects and experience. It should be accurate, readable..."
+seo_title: "Resume for Freshers in India | How to Build a Strong CV"
+description: "Learn how to write a fresher resume in India, structure education and projects, highlight skills, use relevant keywords and avoid common mistakes."
 permalink: /05-placement-preparation/resume-building-guide-for-freshers-india.html
 slug: resume-building-guide-for-freshers-india
 category_key: 05-placement-preparation
