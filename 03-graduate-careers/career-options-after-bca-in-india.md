@@ -97,3 +97,15 @@ Check university-specific admissions and employer-specific job descriptions befo
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** This guide is for general information and does not guarantee employment, admission or eligibility.
+
+---
+
+## Need help choosing a career direction?
+
+If you are deciding between software, analytics, IT support, higher studies or another path after BCA, Career Captain can help you evaluate your interests, strengths and options.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
