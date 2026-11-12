@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Career Options After BSc in India: Jobs, Higher Studies and Specialisations"
-seo_title: "Career Options After BSc in India: Jobs, Higher... | Career Roadmaps India"
-description: "A Bachelor of Science (BSc) can lead to research, laboratory work, education, technology, analytics, healthcare support, industry and further study...."
+seo_title: "Career Options After BSc in India | Jobs & Higher Studies"
+description: "Explore career options after BSc in India across science-related jobs, research, analytics, teaching, professional courses and postgraduate study."
 permalink: /03-graduate-careers/career-options-after-bsc-in-india.html
 slug: career-options-after-bsc-in-india
 category_key: 03-graduate-careers
