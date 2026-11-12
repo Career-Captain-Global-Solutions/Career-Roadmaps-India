@@ -768,7 +768,184 @@ https://india.diplo.de/
 https://digital.diplo.de/
 
 The visa decision is made by the competent German authorities. Admission and financial proof do not guarantee visa approval.
+## Indian Student Application Checklist for Germany
 
+Use this checklist to organise your preparation. Requirements differ depending on whether you are applying for a Bachelor's degree, Master's degree, Studienkolleg or another study pathway.
+
+### 1. Course and University Research
+
+- [ ] Identify your intended degree and specialisation.
+- [ ] Shortlist recognised German universities.
+- [ ] Check whether the programme is taught in English or German.
+- [ ] Verify academic eligibility and subject prerequisites.
+- [ ] Check whether the programme requires an entrance examination, internship or aptitude assessment.
+- [ ] Confirm tuition fees and semester contributions.
+- [ ] Record application deadlines for every university.
+
+### 2. Academic Documents
+
+- [ ] Class 10 marksheets and certificates.
+- [ ] Class 12 marksheets and certificates.
+- [ ] Bachelor's degree certificate, if applying for a Master's.
+- [ ] All available semester marksheets and transcripts.
+- [ ] Provisional degree certificate, if applicable.
+- [ ] Grading-system explanation, if requested.
+- [ ] Certified translations, where required.
+- [ ] Passport and identity documents.
+
+### 3. Academic Verification and Testing
+
+- [ ] Check whether APS certification is required for your application pathway.
+- [ ] Complete the applicable APS procedure.
+- [ ] If applying for an affected Master's programme, check the current dMAT requirement.
+- [ ] Register separately for dMAT through the official g.a.s.t. portal, if applicable.
+- [ ] Check whether TestAS, an entrance examination or another assessment is required by your chosen university.
+- [ ] Keep copies of certificates, receipts and application confirmations.
+
+**Important:** APS, dMAT and university admission are separate processes. An APS certificate does not guarantee admission, and dMAT is not a general requirement for every applicant.
+
+### 4. Language Requirements
+
+- [ ] Check the programme's accepted English-language certificates.
+- [ ] Prepare IELTS, TOEFL or another accepted qualification if required.
+- [ ] For German-taught programmes, check the required German proficiency level.
+- [ ] Confirm whether the university accepts alternative proof of language proficiency.
+- [ ] Check certificate validity and minimum scores.
+
+### 5. University Application
+
+- [ ] Prepare your CV in the required format.
+- [ ] Write a programme-specific motivation letter.
+- [ ] Prepare a statement of purpose if requested.
+- [ ] Obtain recommendation letters where required.
+- [ ] Prepare a portfolio or project documentation if applicable.
+- [ ] Submit applications through the university portal or uni-assist, as instructed.
+- [ ] Pay application fees where applicable.
+- [ ] Save submission confirmations and monitor application status.
+
+### 6. Financial Preparation
+
+- [ ] Calculate tuition fees and semester contributions.
+- [ ] Estimate accommodation, food, transport and insurance expenses.
+- [ ] Research scholarships and funding opportunities.
+- [ ] Arrange accepted proof of financial resources.
+- [ ] If using a blocked account, verify the current required amount.
+- [ ] Check whether additional tuition payments or deposits are required.
+
+For 2026, the published student-visa financial benchmark for a blocked account is €11,904 for one year, equivalent to €992 per month. Always verify the applicable amount before applying.
+
+### 7. Student Visa Preparation
+
+- [ ] Obtain the admission letter or applicable preparatory-course confirmation.
+- [ ] Complete the relevant German national visa application process.
+- [ ] Prepare your valid passport.
+- [ ] Prepare academic certificates and APS documentation, where required.
+- [ ] Arrange accepted proof of language proficiency.
+- [ ] Prepare financial evidence.
+- [ ] Prepare your CV and motivation letter.
+- [ ] Arrange the required health-insurance documentation.
+- [ ] Follow the current German Missions in India document checklist.
+- [ ] Attend the required appointment and provide originals where requested.
+
+Submitting a complete application does not guarantee visa approval.
+
+### 8. Before Departure
+
+- [ ] Confirm accommodation in Germany.
+- [ ] Arrange travel after checking visa validity.
+- [ ] Understand your university's enrolment requirements.
+- [ ] Carry original academic documents.
+- [ ] Arrange suitable health insurance.
+- [ ] Understand local transport and student services.
+- [ ] Keep digital and physical copies of important documents.
+- [ ] Prepare an initial living-expense budget.
+
+---
+
+## Germany Study Application Timeline for Indian Students
+
+The following is a planning framework, not a fixed national application calendar. Start earlier if your university has an early deadline, if you need Studienkolleg, or if your APS and dMAT procedures require additional time.
+
+### 12–15 Months Before Intended Intake: Research and Planning
+
+- Decide whether you are applying for a Bachelor's, Master's or preparatory programme.
+- Research German universities and eligible courses.
+- Check academic recognition and subject prerequisites.
+- Identify language requirements.
+- Understand the APS process applicable to your academic background.
+- Estimate tuition, living costs and funding requirements.
+
+### 9–12 Months Before Intake: Academic Preparation
+
+- Prepare academic transcripts and certificates.
+- Start language-test preparation.
+- Shortlist universities and programmes.
+- Prepare your CV and motivation letter.
+- Check whether APS documentation can be submitted at this stage.
+- For affected Master's applicants, understand the dMAT procedure and upcoming test dates.
+- Research scholarships and accommodation options.
+
+### 6–9 Months Before Intake: Applications and Verification
+
+- Submit APS documentation when eligible.
+- Register for dMAT if required.
+- Complete language examinations.
+- Submit university applications according to individual deadlines.
+- Apply through uni-assist where required.
+- Track applications and respond to requests for additional documents.
+
+uni-assist recommends submitting applications at least eight weeks before the deadline where possible. Some universities and programmes have earlier deadlines.
+
+### 3–6 Months Before Intake: Admission and Financial Preparation
+
+- Review admission decisions.
+- Accept an offer according to university instructions.
+- Pay required deposits or tuition fees, where applicable.
+- Arrange financial proof.
+- Begin blocked-account preparation if using that route.
+- Research accommodation.
+- Prepare the visa documentation.
+
+### 1–3 Months Before Intake: Visa and Travel Preparation
+
+- Submit the national student-visa application through the applicable process.
+- Attend the required appointment.
+- Monitor application status.
+- Finalise accommodation and insurance arrangements.
+- Prepare original documents for travel and enrolment.
+- Avoid making non-refundable travel commitments before confirming the relevant visa arrangements.
+
+### Final Month: Departure and Enrolment
+
+- Confirm travel arrangements after visa approval.
+- Carry your passport, admission letter and essential documents.
+- Complete university enrolment.
+- Arrange local registration and residence formalities.
+- Activate your health insurance and bank arrangements.
+- Attend university orientation.
+
+### Important Intake Planning Notes
+
+German universities commonly have two main admission cycles:
+
+- **Winter Semester:** Often begins around October.
+- **Summer Semester:** Often begins around April.
+
+The application deadlines are not uniform. Many programmes have deadlines around 15 July for winter intake and 15 January for summer intake, but individual universities, Master's programmes and preparatory courses may set earlier dates.
+
+Always use the official programme page as the final authority.
+
+### Official Planning Resources
+
+- [APS India](https://aps-india.de/) — Academic document verification.
+- [APS India dMAT](https://aps-india.de/dmat/) — Current dMAT requirements.
+- [g.a.s.t. dMAT](https://www.d-mat.de/en/) — Test information and registration.
+- [uni-assist](https://www.uni-assist.de/en/) — International university applications.
+- [German Missions in India](https://india.diplo.de/) — Student-visa requirements.
+- [Study in Germany](https://www.study-in-germany.com/en/) — Study opportunities and planning.
+- [DAAD](https://www.daad.de/en/) — University and scholarship information.
+
+*This checklist is a planning aid, not a substitute for the current requirements of the university, APS India or the German Missions in India.*
 ---
 
 ## 15. Accommodation in Germany
