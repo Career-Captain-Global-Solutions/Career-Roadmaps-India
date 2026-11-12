@@ -775,3 +775,16 @@ This guide is part of the Career Roadmaps India open educational initiative by C
 Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. You may share and adapt this material with appropriate attribution and a link to the licence.
 
 Source: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-India
+
+---
+
+## Get career-planning support from Career Captain
+
+Preparing for placements is easier when your target roles align with your interests, strengths and longer-term plans. Career Captain offers assessment-led career counselling for students and young professionals.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Explore career decisions by stage](https://careercaptain.co.in/career-decisions)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
