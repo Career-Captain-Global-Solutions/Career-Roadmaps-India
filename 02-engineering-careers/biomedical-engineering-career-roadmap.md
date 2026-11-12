@@ -401,7 +401,7 @@ Choosing an engineering branch is only the beginning of a career journey. Unders
 
 Career Captain Global Solutions supports students through career counselling, psychometric assessments, stream and course selection, career exploration, and study-abroad guidance.
 
-Explore career guidance and planning resources at [Career Captain](https://careercaptain.co.in/).
+Explore career guidance and planning resources at [Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=biomedical-engineering-career-roadmap).
 
 ---
 
@@ -415,8 +415,8 @@ Explore career guidance and planning resources at [Career Captain](https://caree
 
 Choosing an engineering branch is only one part of the decision. Students should also consider their interests, strengths, preferred work and future study options. Career Captain offers personalised career counselling and assessment to support informed decisions.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=biomedical-engineering-career-roadmapcareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=biomedical-engineering-career-roadmap)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=biomedical-engineering-career-roadmap)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=biomedical-engineering-career-roadmapareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=biomedical-engineering-career-roadmap)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=biomedical-engineering-career-roadmap) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20biomedical%20engineering%20career%20roadmap%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20biomedical-engineering-career-roadmap.)
