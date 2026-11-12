@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in the UK: Complete Roadmap for Indian Students"
-seo_title: "Study in the UK: Complete Roadmap for Indian Students | Career Roadmaps India"
-description: "The United Kingdom is a popular destination for Indian students seeking internationally recognised qualifications, specialised academic programmes and..."
+seo_title: "Study in the UK for Indian Students | Universities & Costs"
+description: "Plan to study in the UK as an Indian student with guidance on universities, courses, entry requirements, tuition fees, scholarships and student visa preparation."
 permalink: /06-study-abroad/study-in-uk-complete-guide-for-indian-students.html
 slug: study-in-uk-complete-guide-for-indian-students
 category_key: 06-study-abroad
