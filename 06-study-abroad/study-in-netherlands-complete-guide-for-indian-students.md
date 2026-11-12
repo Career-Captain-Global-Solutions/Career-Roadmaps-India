@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in the Netherlands: Complete Roadmap for Indian Students"
-seo_title: "Study in the Netherlands: Complete Roadmap for... | Career Roadmaps India"
-description: "A practical guide to universities, admissions, tuition fees, scholarships, student visas, part-time work and career opportunities in the Netherlands."
+seo_title: "Study in the Netherlands for Indian Students | Guide"
+description: "Explore study opportunities in the Netherlands for Indian students, including universities, English-taught courses, admission requirements, tuition and living costs."
 permalink: /06-study-abroad/study-in-netherlands-complete-guide-for-indian-students.html
 slug: study-in-netherlands-complete-guide-for-indian-students
 category_key: 06-study-abroad
