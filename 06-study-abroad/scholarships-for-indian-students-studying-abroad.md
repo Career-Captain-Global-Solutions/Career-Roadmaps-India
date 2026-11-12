@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Scholarships for Indian Students Studying Abroad: Complete Guide"
-seo_title: "Scholarships for Indian Students Studying Abroad:... | Career Roadmaps India"
-description: "Last reviewed: 12 November 2026. Scholarship amounts, eligibility and deadlines change by intake; verify every award with its official provider before..."
+seo_title: "Study Abroad Scholarships for Indian Students | Guide"
+description: "Explore scholarship options and funding routes for Indian students planning to study abroad, with guidance on eligibility, applications and preparation."
 permalink: /06-study-abroad/scholarships-for-indian-students-studying-abroad.html
 slug: scholarships-for-indian-students-studying-abroad
 category_key: 06-study-abroad
