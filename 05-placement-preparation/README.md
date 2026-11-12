@@ -4,7 +4,7 @@
 
 Practical guidance for students and graduates preparing for internships, campus recruitment and entry-level employment.
 
-## Published guide
+## Published guides
 
 ## Additional published guides
 
@@ -38,6 +38,8 @@ The roadmap covers:
 5. Track applications and learn from feedback.
 
 Recruitment stages vary by employer, role and institution. Not every company uses every assessment stage.
+
+Career Captain support: [Career counselling](https://careercaptain.co.in/career-counselling-hyderabad) · [Online counselling](https://careercaptain.co.in/online-career-counselling) · [Psychometric assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
 
 Website: https://careercaptain.co.in/
 
