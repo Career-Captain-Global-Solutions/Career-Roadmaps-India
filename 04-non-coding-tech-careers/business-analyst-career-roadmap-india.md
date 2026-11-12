@@ -83,7 +83,7 @@ Weeks 7–8: Complete a portfolio case study, prepare your CV and practise inter
 
 Use the National Career Service portal (https://www.ncs.gov.in/) and employer career pages to understand role titles and requirements. Compare multiple job descriptions; titles are not standardised.
 
-**About Career Captain:** https://careercaptain.co.in/
+**About Career Captain:** https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=business-analyst-career-roadmap-india
 
 **Disclaimer:** This guide is informational. Tools, qualifications and responsibilities vary by employer; no role or salary outcome is guaranteed.
 
@@ -93,8 +93,8 @@ Use the National Career Service portal (https://www.ncs.gov.in/) and employer ca
 
 If you are comparing business analysis with other technology or business roles, Career Captain can help you reflect on your strengths, interests and preferred work activities.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=business-analyst-career-roadmap-indiacareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=business-analyst-career-roadmap-india)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=business-analyst-career-roadmap-indiaareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=business-analyst-career-roadmap-india)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=business-analyst-career-roadmap-india)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=business-analyst-career-roadmap-india) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20business%20analyst%20career%20roadmap%20india%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20business-analyst-career-roadmap-india.)
