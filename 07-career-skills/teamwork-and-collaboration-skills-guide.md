@@ -1,4 +1,15 @@
-# Teamwork and Collaboration Skills for Students and Young Professionals: Complete Guide
+---
+layout: guide
+title: "Teamwork and Collaboration Skills for Students and Young Professionals: Complete Guide"
+seo_title: "Teamwork and Collaboration Skills for Students and... | Career Roadmaps India"
+description: "Learn how to work with people, contribute to shared goals, resolve disagreements and become a dependable team member."
+permalink: /07-career-skills/teamwork-and-collaboration-skills-guide.html
+slug: teamwork-and-collaboration-skills-guide
+category_key: 07-career-skills
+category_name: "Career Skills and Professional Development"
+category_url: /07-career-skills/
+---
+
 
 **Learn how to work with people, contribute to shared goals, resolve disagreements and become a dependable team member.**
 
