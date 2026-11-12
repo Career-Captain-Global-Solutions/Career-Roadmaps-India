@@ -53,6 +53,8 @@ Examples:
 | Study in Ireland – Career & Education Roadmap | `study-in-ireland-career-education-roadmap.webp` | [View Infographic](study-in-ireland-career-education-roadmap.webp) |
 | Study in France – Career & Education Roadmap | `study-in-france-career-education-roadmap.webp` | [View Infographic](study-in-france-career-education-roadmap.webp) |
 | Study in Canada – Career & Education Roadmap | `study-in-canada-career-education-roadmap.webp` | [View Infographic](study-in-canada-career-education-roadmap.webp) |
+| Study in Italy – Career & Education Roadmap | `study-in-italy-career-education-roadmap.webp` | [View Infographic](study-in-italy-career-education-roadmap.webp) |
+
 ## Project Information
 
 **Career Captain Global Solutions**
