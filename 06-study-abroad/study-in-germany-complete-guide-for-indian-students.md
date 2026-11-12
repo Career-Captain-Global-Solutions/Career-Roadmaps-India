@@ -271,7 +271,86 @@ Always use the current checklist on the official APS website.
 Official website:
 
 https://aps-india.de/
+### Digital Master Test (dMAT): New Requirement for Selected Master's Applicants
 
+The Digital Master Test (dMAT) is a standardised academic aptitude test administered by the Society for Academic Study Preparation and Test Development (g.a.s.t.). From 2026, it has been introduced as an additional requirement in the APS documentation process for selected Indian applicants planning to pursue Master's studies in Germany.
+
+**Important:** The dMAT requirement applies to specified Master's applicants with affected undergraduate qualifications. It is not a general requirement for every student planning to study in Germany.
+
+#### Who Must Take the dMAT?
+
+Under the APS India rules updated in November 2026, the requirement applies to Indian Master's applicants whose previous undergraduate degree falls within these fields:
+
+- **Engineering and Technology:** All B.Tech and B.Eng degrees, regardless of specialisation, as well as other undergraduate engineering degrees.
+- **Commerce and Economics:** Commerce, Accounting, Finance and Economics.
+- **Business and Management:** Business Administration and Management Studies.
+- **Tourism and Hospitality:** Tourism, Travel, Hotel and Hospitality Management.
+- **Integrated and Dual-Degree Programmes:** Where a component or major field falls within an affected discipline.
+
+For these applicants, the dMAT is required for APS documentation relating to Master's intakes from Summer Semester 2027 onwards, subject to transitional exemptions.
+
+#### Who Is Currently Exempt?
+
+Under the current APS procedure, the following groups are not required to take the dMAT:
+
+- Students applying directly for Bachelor's programmes.
+- PhD applicants.
+- Applicants whose previous degree is outside the specified fields.
+- Bachelor's students who have not completed at least five semesters of a three-year programme or seven semesters of a four-year programme.
+- Applicants in officially confirmed exchange, double-degree or university partnership programmes.
+
+Transitional exemptions also apply to applicants who completed APS online registration before 29 June 2026, shipped their complete APS documents before that date, or have already received an APS certificate for the completed procedure.
+
+Applicants with mixed or borderline degree subjects should consult APS India directly.
+
+#### dMAT Examination Structure
+
+The dMAT consists of two modules:
+
+**1. Core Module**
+- Figure Sequences
+- Mathematical Equations
+- Latin Squares
+
+This module assesses general cognitive, analytical and study-related abilities.
+
+**2. General Academic Module**
+
+This module assesses the ability to apply analytical and cognitive skills to academic problem-solving situations across different subject areas.
+
+For the Indian APS procedure, affected applicants must take the dMAT with the General Academic Module.
+
+#### Confirmed dMAT Test Dates for 2027
+
+| Test cycle | Examination date |
+|---|---|
+| January 2027 | 16 January 2027 |
+| March 2027 | 13 March 2027 |
+
+Registration is open according to the latest APS announcement. Check the g.a.s.t. registration portal for the applicable registration deadline, available centres and result-release schedule.
+
+The currently listed Indian test-centre cities include Ahmedabad, Bengaluru, Bhopal, Chandigarh, Chennai, Kolkata, Mananthavady, Mumbai, New Delhi and Pune. Availability is confirmed during registration.
+
+#### Registration, Fee and Certificate
+
+- The test is administered by g.a.s.t., not APS India.
+- The current examination fee is €150.
+- A valid passport is required for identity verification.
+- Registration, payment and test-centre booking are handled through the official g.a.s.t. portal.
+- The dMAT certificate is issued by g.a.s.t.
+- The certificate forms part of the APS documentation, and the result is reflected on the APS certificate.
+
+Applicants who are subject to the requirement may submit their APS documents before receiving the dMAT certificate. However, APS India can issue the final APS certificate only after the required dMAT certificate has been submitted and verified.
+
+**Important clarification:** The dMAT does not replace APS document verification, university recognition, anabin checks, academic eligibility or university admission requirements. It is not a standalone pass/fail test for APS certification, and a good result does not guarantee university admission.
+
+#### Official dMAT Resources
+
+- APS India dMAT requirements: https://aps-india.de/dmat/
+- dMAT official website: https://www.d-mat.de/en/
+- dMAT registration: https://www.gast.de/portal/center-search/center-search/dmat/exams/worldwide?lang=en
+
+**Student advice:** If you have completed a B.Tech or B.Eng in India and intend to apply for a Master's programme in Germany for Summer Semester 2027 or later, check the dMAT requirement early. Plan your APS documentation and test registration together rather than waiting until university application deadlines approach.
 ---
 
 ## 6. Language Requirements: German or English?
