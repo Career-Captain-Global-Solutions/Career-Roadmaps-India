@@ -1,4 +1,15 @@
-# Resume Building Guide for Freshers in India: Structure, Projects and Examples
+---
+layout: guide
+title: "Resume Building Guide for Freshers in India: Structure, Projects and Examples"
+seo_title: "Resume Building Guide for Freshers in India:... | Career Roadmaps India"
+description: "A fresher resume should help a recruiter quickly understand your education, relevant skills, projects and experience. It should be accurate, readable..."
+permalink: /05-placement-preparation/resume-building-guide-for-freshers-india.html
+slug: resume-building-guide-for-freshers-india
+category_key: 05-placement-preparation
+category_name: "Placement and Job Preparation"
+category_url: /05-placement-preparation/
+---
+
 
 **An educational resource by Career Captain Global Solutions**
 
