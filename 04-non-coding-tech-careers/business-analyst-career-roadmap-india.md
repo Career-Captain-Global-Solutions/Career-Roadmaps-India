@@ -86,3 +86,15 @@ Use the National Career Service portal (https://www.ncs.gov.in/) and employer ca
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** This guide is informational. Tools, qualifications and responsibilities vary by employer; no role or salary outcome is guaranteed.
+
+---
+
+## Explore your career direction with Career Captain
+
+If you are comparing business analysis with other technology or business roles, Career Captain can help you reflect on your strengths, interests and preferred work activities.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
