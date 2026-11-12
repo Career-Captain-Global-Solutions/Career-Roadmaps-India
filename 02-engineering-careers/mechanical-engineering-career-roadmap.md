@@ -9,7 +9,11 @@ However, a Mechanical Engineering degree alone does not determine career success
 This roadmap explains the opportunities available to Mechanical Engineering students in India and how to prepare for them.
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Career-Captain-Global-Solutions/Career-Roadmaps-India/main/images/engineering/mechanical-engineering-career-roadmap.png"
+       alt="Mechanical Engineering Career Roadmap"
+       width="100%">
+</p>
 ## 1. What Is Mechanical Engineering?
 
 Mechanical Engineering focuses on the design, analysis, development, manufacturing, operation and maintenance of mechanical systems.
