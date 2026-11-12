@@ -1,4 +1,15 @@
-# Chemical Engineering Career Roadmap in India
+---
+layout: guide
+title: "Chemical Engineering Career Roadmap in India"
+seo_title: "Chemical Engineering Career Roadmap in India | Career Roadmaps India"
+description: "Chemical Engineering combines chemistry, physics, mathematics, biology, and engineering to transform raw materials into useful products through..."
+permalink: /02-engineering-careers/chemical-engineering-career-roadmap.html
+slug: chemical-engineering-career-roadmap
+category_key: 02-engineering-careers
+category_name: "Engineering Career Roadmaps"
+category_url: /02-engineering-careers/
+---
+
 
 Chemical Engineering combines chemistry, physics, mathematics, biology, and engineering to transform raw materials into useful products through industrial processes. Chemical engineers design, operate, optimise, and improve processes used in petroleum refining, pharmaceuticals, food production, chemicals, energy, materials, and environmental protection.
 
