@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Industrial Engineering Career Roadmap in India"
-seo_title: "Industrial Engineering Career Roadmap in India | Career Roadmaps India"
-description: "Industrial Engineering focuses on improving the efficiency, productivity, quality, and performance of systems involving people, machines, materials,..."
+seo_title: "Industrial Engineering Careers in India | Jobs & Roadmap"
+description: "Explore industrial engineering career paths in India, including operations, quality, process improvement, supply chain, production planning and systems optimisation."
 permalink: /02-engineering-careers/industrial-engineering-career-roadmap.html
 slug: industrial-engineering-career-roadmap
 category_key: 02-engineering-careers
