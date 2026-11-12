@@ -69,7 +69,7 @@ Ask about day-to-day responsibilities, onboarding, success measures, team struct
 
 Send a brief thank-you message if appropriate, note questions you found difficult and update your application tracker. Do not repeatedly contact interviewers or assume silence means a particular outcome.
 
-**About Career Captain:** https://careercaptain.co.in/
+**About Career Captain:** https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=interview-preparation-guide-for-freshers
 
 **Disclaimer:** Interview processes differ by employer and role. Preparation cannot guarantee selection.
 
@@ -79,8 +79,8 @@ Send a brief thank-you message if appropriate, note questions you found difficul
 
 Interview practice develops communication, but choosing roles that fit your interests and strengths is also important. Career Captain provides assessment-led career counselling for students and young professionals.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=interview-preparation-guide-for-fresherscareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=interview-preparation-guide-for-freshers)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=interview-preparation-guide-for-freshersareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=interview-preparation-guide-for-freshers)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=interview-preparation-guide-for-freshers)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=interview-preparation-guide-for-freshers) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20interview%20preparation%20guide%20for%20freshers%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20interview-preparation-guide-for-freshers.)
