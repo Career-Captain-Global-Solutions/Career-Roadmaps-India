@@ -1,4 +1,15 @@
-# Study in the USA: Complete Roadmap for Indian Students
+---
+layout: guide
+title: "Study in the USA: Complete Roadmap for Indian Students"
+seo_title: "Study in the USA: Complete Roadmap for Indian Students | Career Roadmaps India"
+description: "The United States is one of the world's major international education destinations. Its universities offer undergraduate degrees, postgraduate..."
+permalink: /06-study-abroad/study-in-usa-complete-guide-for-indian-students.html
+slug: study-in-usa-complete-guide-for-indian-students
+category_key: 06-study-abroad
+category_name: "Study Abroad for Indian Students"
+category_url: /06-study-abroad/
+---
+
 
 The United States is one of the world's major international education destinations. Its universities offer undergraduate degrees, postgraduate programmes, research opportunities, professional courses and interdisciplinary learning.
 
