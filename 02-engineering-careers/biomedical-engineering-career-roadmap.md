@@ -408,3 +408,15 @@ Explore career guidance and planning resources at [Career Captain](https://caree
 **Educational Disclaimer:** This roadmap is intended for educational and career-awareness purposes. Course structures, eligibility criteria, recruitment requirements, and employment opportunities may change. Students should verify current information with universities, employers, and official organisations.
 
 **License:** This educational resource is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. Please credit Career Captain Global Solutions when sharing or adapting this material.
+
+---
+
+## Plan your engineering pathway with Career Captain
+
+Choosing an engineering branch is only one part of the decision. Students should also consider their interests, strengths, preferred work and future study options. Career Captain offers personalised career counselling and assessment to support informed decisions.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
