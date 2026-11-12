@@ -707,6 +707,114 @@ Meaningful experience is more valuable than collecting certificates without prac
 | Month 12 | Complete PAL/TAL requirements and prepare your study permit application |
 
 This is an illustrative schedule. Admission and immigration timelines vary.
+## 17A. Canada Student Application Checklist for Indian Students
+
+Use this checklist to organise your preparation, university applications and study permit process.
+
+### A. Academic Preparation
+
+- [ ] Complete Class 10 and Class 12 academic records.
+- [ ] Obtain marksheets and certificates.
+- [ ] Prepare undergraduate transcripts and degree certificates, if applying for postgraduate study.
+- [ ] Check subject prerequisites and minimum academic requirements.
+- [ ] Identify suitable courses based on academic background and career goals.
+
+### B. University and Course Selection
+
+- [ ] Shortlist universities and colleges.
+- [ ] Compare course curriculum, duration and specialisations.
+- [ ] Verify the institution's Designated Learning Institution (DLI) status.
+- [ ] Check whether the exact programme is eligible for a Post-Graduation Work Permit (PGWP), where relevant.
+- [ ] Compare tuition fees, accommodation and living expenses.
+- [ ] Research scholarships and financial assistance.
+- [ ] Check application deadlines and intake availability.
+
+### C. English-Language Preparation
+
+- [ ] Check the English-language requirements of each institution.
+- [ ] Register for an accepted test, if required.
+- [ ] Complete IELTS Academic, TOEFL iBT, PTE Academic or another accepted test.
+- [ ] Ensure test results meet the institution's requirements.
+- [ ] Separately verify applicable immigration language requirements.
+
+### D. Admission Application Documents
+
+- [ ] Valid passport.
+- [ ] Class 10 and Class 12 marksheets and certificates.
+- [ ] Undergraduate academic transcripts, if applicable.
+- [ ] Degree certificate, if applicable.
+- [ ] English-language test results, where required.
+- [ ] Statement of Purpose (SOP).
+- [ ] Letters of Recommendation (LORs), where required.
+- [ ] Resume or CV, where required.
+- [ ] Portfolio or research proposal, where applicable.
+- [ ] Additional documents requested by the institution.
+
+### E. Admission and Acceptance
+
+- [ ] Submit applications through official university or college portals.
+- [ ] Track application status and respond to requests for additional documents.
+- [ ] Review admission offers and conditions.
+- [ ] Compare programme costs and scholarship offers.
+- [ ] Accept the selected offer.
+- [ ] Pay the required tuition deposit.
+- [ ] Obtain the official Letter of Acceptance (LOA).
+
+### F. PAL/TAL and Immigration Preparation
+
+- [ ] Check whether a Provincial Attestation Letter (PAL) or Territorial Attestation Letter (TAL) is required.
+- [ ] Confirm whether an exemption applies to your circumstances.
+- [ ] Obtain the required PAL/TAL through the institution's instructions, if applicable.
+- [ ] Check whether additional provincial requirements apply, particularly for Quebec.
+- [ ] Review the latest IRCC study permit application instructions.
+
+### G. Financial Preparation
+
+- [ ] Calculate the complete tuition cost.
+- [ ] Calculate living expenses for the intended study period.
+- [ ] Include travel, accommodation, insurance and other expenses.
+- [ ] Arrange acceptable proof of financial support.
+- [ ] Collect relevant bank statements and education loan documents.
+- [ ] Obtain scholarship or sponsorship letters, where applicable.
+- [ ] Verify the latest IRCC financial requirements.
+- [ ] Prepare a realistic budget without depending on part-time employment to finance the entire education.
+
+### H. Study Permit Application
+
+- [ ] Complete the official online study permit application.
+- [ ] Upload the Letter of Acceptance.
+- [ ] Include PAL/TAL or evidence of exemption, as applicable.
+- [ ] Submit financial documents.
+- [ ] Include a letter of explanation or Statement of Purpose, where appropriate.
+- [ ] Pay the applicable application fees.
+- [ ] Complete biometrics when instructed.
+- [ ] Complete a medical examination if required.
+- [ ] Respond promptly to additional IRCC requests.
+- [ ] Follow the official decision and travel instructions.
+
+### I. Pre-Departure Preparation
+
+- [ ] Confirm study permit approval and review the issued documents.
+- [ ] Arrange accommodation in Canada.
+- [ ] Book travel after checking the applicable travel requirements.
+- [ ] Arrange suitable health insurance coverage.
+- [ ] Prepare academic certificates and important supporting documents.
+- [ ] Keep copies of admission and immigration documents.
+- [ ] Research local transport, weather and living costs.
+- [ ] Understand the conditions attached to your study permit.
+
+### J. Arrival and Beginning Your Studies
+
+- [ ] Carry your passport, Letter of Acceptance and relevant immigration documents.
+- [ ] Follow the instructions of Canadian border officials.
+- [ ] Check the details of your study permit when it is issued.
+- [ ] Travel to your accommodation.
+- [ ] Complete university or college registration.
+- [ ] Attend orientation and understand institutional policies.
+- [ ] Familiarise yourself with permitted employment conditions.
+- [ ] Maintain the required student status and comply with immigration rules.
+
+**Important:** This checklist is a planning tool, not a guarantee of admission, study permit approval or PGWP eligibility. Requirements vary by institution, programme and individual circumstances. Always verify current information through the official Canadian government and institutional websites.
 
 ## 18. Common Mistakes Indian Students Should Avoid
 
