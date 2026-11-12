@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Electrical and Electronics Engineering Career Roadmap in India"
-seo_title: "Electrical and Electronics Engineering Career... | Career Roadmaps India"
-description: "Electrical and Electronics Engineering (EEE) focuses on the generation, transmission, distribution, control, and utilisation of electrical energy,..."
+seo_title: "Electrical & Electronics Engineering Careers in India"
+description: "Explore EEE career opportunities in India across power systems, electrical design, automation, renewable energy, electronics and industrial control."
 permalink: /02-engineering-careers/electrical-and-electronics-engineering-career-roadmap.html
 slug: electrical-and-electronics-engineering-career-roadmap
 category_key: 02-engineering-careers
