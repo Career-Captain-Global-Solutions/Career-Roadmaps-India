@@ -25,6 +25,10 @@ Explore international education opportunities and understand the process of stud
 - International career opportunities
 
 Always verify admission requirements, visa regulations, fees and scholarship conditions through official university and government websites.
+## Interactive Tools
+
+- [Interactive Study Abroad Cost Calculator](study-abroad-cost-calculator.html)
+
 ## Resources
 
 - [Compare 13 Study Abroad Destinations: Decision Guide for Indian Students](compare-study-abroad-destinations-for-indian-students.md)
