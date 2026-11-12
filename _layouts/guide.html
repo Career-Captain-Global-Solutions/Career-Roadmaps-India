@@ -42,6 +42,15 @@
 </section>
 </main>
 <section class="related"><div class="wrap"><h2>More {{ page.category_name }} guides</h2><ul>{% assign related_pages = site.pages | where: "category_key", page.category_key | sort: "title" %}{% for item in related_pages %}{% unless item.url == page.url %}<li><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></li>{% endunless %}{% endfor %}</ul></div></section>
+<section class="related"><div class="wrap"><h2>Explore more career roadmap collections</h2><ul>
+<li><a href="{{ '/01-school-careers/' | relative_url }}">Career options after Class 10 and 12</a></li>
+<li><a href="{{ '/02-engineering-careers/' | relative_url }}">Engineering career roadmaps</a></li>
+<li><a href="{{ '/03-graduate-careers/' | relative_url }}">Career options after graduation</a></li>
+<li><a href="{{ '/04-non-coding-tech-careers/' | relative_url }}">Non-coding technology careers</a></li>
+<li><a href="{{ '/05-placement-preparation/' | relative_url }}">Campus placement preparation</a></li>
+<li><a href="{{ '/06-study-abroad/' | relative_url }}">Study abroad guides</a></li>
+<li><a href="{{ '/07-career-skills/' | relative_url }}">Career and professional skills</a></li>
+</ul></div></section>
 <footer><div class="wrap">© 2026 Career Captain Global Solutions. All rights reserved. · <a href="https://careercaptain.co.in/">Career Captain</a></div></footer>
 </body>
 </html>
