@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Estimate your study abroad budget for 13 destinations with this free Career Captain calculator. Enter tuition, living costs, scholarships and exchange rates to estimate costs in INR.">
+<title>Study Abroad Cost Calculator | Career Captain</title>
+<style>
+:root{--navy:#10243a;--blue:#1769aa;--pale:#f2f6fa;--line:#d9e2ec;--muted:#5b6b7b;--green:#147d54}
+*{box-sizing:border-box}body{margin:0;background:#f5f7fa;color:#172b3a;font:16px/1.55 Arial,Helvetica,sans-serif}
+header{background:linear-gradient(125deg,#10243a,#174b72);color:white;padding:38px 20px}
+.wrap{max-width:1050px;margin:auto}header h1{font-size:clamp(28px,4vw,42px);line-height:1.15;margin:0 0 12px}header p{max-width:760px;margin:0;color:#e2edf6}
+main{max-width:1050px;margin:26px auto;padding:0 18px 50px}.notice{background:#fff8e8;border:1px solid #efd69c;border-radius:10px;padding:13px 16px;color:#684d16;margin-bottom:20px}
+.layout{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(270px,.85fr);gap:20px}.panel{background:white;border:1px solid var(--line);border-radius:14px;padding:22px;box-shadow:0 4px 16px #12263a0a}
+h2{font-size:21px;margin:0 0 18px;color:var(--navy)}h3{font-size:16px;margin:22px 0 10px;color:var(--navy)}
+.fields{display:grid;grid-template-columns:1fr 1fr;gap:14px}.field{display:flex;flex-direction:column;gap:6px}.field.full{grid-column:1/-1}label{font-size:13px;font-weight:700;color:#34495b}input,select{width:100%;min-height:44px;padding:10px 11px;border:1px solid #bdcbd8;border-radius:8px;background:white;color:#172b3a;font:inherit}input:focus,select:focus{outline:3px solid #b9daf4;border-color:var(--blue)}.hint{font-size:12px;color:var(--muted)}
+.result{position:sticky;top:16px;align-self:start;background:#10243a;color:white;border-radius:14px;padding:23px}.result h2{color:white}.big{font-size:32px;font-weight:700;line-height:1.2;margin:6px 0 3px;overflow-wrap:anywhere}.result small{color:#c7d6e4}.result-row{display:flex;justify-content:space-between;gap:14px;padding:11px 0;border-bottom:1px solid #ffffff2a;font-size:14px}.result-row strong{text-align:right}.result .sub{color:#d5e2ee;font-size:13px;margin-top:16px}
+.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}button{border:0;border-radius:8px;padding:11px 16px;font-weight:700;font-size:14px;cursor:pointer}button.primary{background:#1769aa;color:white}button.secondary{background:#eaf0f5;color:#17334c}button:hover{filter:brightness(.96)}
+footer{max-width:1050px;margin:0 auto;padding:0 18px 30px;color:var(--muted);font-size:12px}.brand{font-weight:700;letter-spacing:.04em;color:#1769aa}.error{color:#a33;font-size:12px;min-height:18px}
+@media(max-width:760px){.layout{grid-template-columns:1fr}.result{position:static}.fields{grid-template-columns:1fr}.field.full{grid-column:auto}header{padding:30px 18px}.panel{padding:18px}}
+@media print{body{background:white}.result{position:static;background:white;color:#172b3a;border:1px solid #aaa}.result h2,.result .sub,.result small{color:#172b3a}.actions,.notice{display:none}.layout{display:block}.panel,.result{box-shadow:none;margin-bottom:14px}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><div class="brand" style="color:#b8d9f2">CAREER CAPTAIN GLOBAL SOLUTIONS</div><h1>Study Abroad Cost Calculator</h1><p>Build a realistic first-year and full-programme budget. Compare tuition, living costs, scholarships and one-time expenses, then convert your estimate into Indian rupees.</p></div></header>
+<main>
+<div class="notice"><strong>Important:</strong> This calculator does not fetch live tuition fees or exchange rates. Enter figures from the university's current fee schedule and a current exchange-rate source. The result is an estimate, not a visa financial-proof calculation or an official quote.</div>
+<div class="layout">
+<section class="panel" aria-labelledby="inputs-title">
+<h2 id="inputs-title">Your study plan</h2>
+<div class="fields">
+<div class="field"><label for="country">Destination</label><select id="country">
+<option value="Australia|AUD">Australia</option><option value="Canada|CAD">Canada</option><option value="Dubai, UAE|AED">Dubai, UAE</option><option value="France|EUR">France</option><option value="Germany|EUR">Germany</option><option value="Ireland|EUR">Ireland</option><option value="Italy|EUR">Italy</option><option value="Japan|JPY">Japan</option><option value="Netherlands|EUR">Netherlands</option><option value="New Zealand|NZD">New Zealand</option><option value="Singapore|SGD">Singapore</option><option value="United Kingdom|GBP">United Kingdom</option><option value="United States|USD">United States</option>
+</select></div>
+<div class="field"><label for="currency">Local currency</label><input id="currency" value="AUD" readonly></div>
+<div class="field"><label for="duration">Programme duration (years)</label><input id="duration" type="number" min="0.5" max="10" step="0.5" value="2"></div>
+<div class="field"><label for="rate">INR per 1 unit of local currency</label><input id="rate" type="number" min="0" step="0.0001" placeholder="Enter current exchange rate"></div>
+</div>
+<h3>Annual and one-time costs (local currency)</h3>
+<div class="fields">
+<div class="field"><label for="tuition">Annual tuition fee</label><input id="tuition" type="number" min="0" step="any" placeholder="e.g. 25000"></div>
+<div class="field"><label for="living">Monthly living expenses</label><input id="living" type="number" min="0" step="any" placeholder="e.g. 1500"></div>
+<div class="field"><label for="insurance">Annual insurance / health cover</label><input id="insurance" type="number" min="0" step="any" placeholder="Enter amount"></div>
+<div class="field"><label for="other">Annual academic / other costs</label><input id="other" type="number" min="0" step="any" placeholder="Books, transport, fees"></div>
+<div class="field"><label for="setup">One-time setup costs</label><input id="setup" type="number" min="0" step="any" placeholder="Visa, flight, deposit, setup"></div>
+<div class="field"><label for="scholarship">Scholarship per year</label><input id="scholarship" type="number" min="0" step="any" placeholder="Enter confirmed award only"></div>
+<div class="field"><label for="buffer">Contingency buffer (%)</label><input id="buffer" type="number" min="0" max="100" step="1" value="10"></div>
+<div class="field"><label for="annualIncrease">Annual cost increase (%)</label><input id="annualIncrease" type="number" min="0" max="50" step="0.5" value="0"></div>
+</div>
+<div class="error" id="error" role="alert"></div>
+<div class="actions"><button class="primary" id="calculate" type="button">Calculate budget</button><button class="secondary" id="reset" type="button">Reset</button><button class="secondary" id="print" type="button">Print / Save PDF</button></div>
+</section>
+<aside class="result" aria-live="polite" aria-labelledby="result-title">
+<h2 id="result-title">Your estimated budget</h2>
+<small>Estimated first-year cost</small><div class="big" id="firstYear">₹—</div>
+<small>Estimated full-programme cost</small><div class="big" id="total">₹—</div>
+<div class="result-row"><span>Tuition after scholarship</span><strong id="netTuition">—</strong></div>
+<div class="result-row"><span>Living costs</span><strong id="livingTotal">—</strong></div>
+<div class="result-row"><span>Insurance and other costs</span><strong id="otherTotal">—</strong></div>
+<div class="result-row"><span>One-time setup</span><strong id="setupTotal">—</strong></div>
+<div class="result-row"><span>Contingency buffer</span><strong id="bufferTotal">—</strong></div>
+<div class="sub" id="localSummary">Enter your costs and exchange rate, then calculate.</div>
+</aside>
+</div>
+</main>
+<footer><p><strong>How to use:</strong> Enter annual tuition, monthly living expenses, annual insurance and other costs, one-time setup costs, confirmed annual scholarship and a current INR exchange rate. The calculator applies the annual cost increase to recurring costs and adds the contingency buffer to the total.</p><p><strong>Limitations:</strong> This tool does not determine visa eligibility, required proof of funds, tax, loan interest, inflation forecasts or scholarship eligibility. Some costs may be charged once or vary by year; adjust inputs accordingly. Exchange rates fluctuate. Confirm all figures with the university and official immigration authority.</p><p>© 2026 Career Captain Global Solutions. All rights reserved. · <a href="https://careercaptain.co.in/">careercaptain.co.in</a></p></footer>
+<script>
+(function(){
+const $=id=>document.getElementById(id);
+const numeric=id=>{const v=$(id).value.trim();return v===""?0:Number(v)};
+const money=(n,code)=>new Intl.NumberFormat("en-IN",{style:"currency",currency:code,maximumFractionDigits:0}).format(n);
+const inr=n=>new Intl.NumberFormat("en-IN",{style:"currency",currency:"INR",maximumFractionDigits:0}).format(n);
+const ids=["duration","rate","tuition","living","insurance","other","setup","scholarship","buffer","annualIncrease"];
+function resetResults(){["firstYear","total","netTuition","livingTotal","otherTotal","setupTotal","bufferTotal"].forEach(id=>$(id).textContent="—");$("localSummary").textContent="Enter your costs and exchange rate, then calculate."}
+function calculate(){
+$("error").textContent="";
+const duration=numeric("duration"),rate=numeric("rate"),tuition=numeric("tuition"),living=numeric("living"),insurance=numeric("insurance"),other=numeric("other"),setup=numeric("setup"),scholarship=numeric("scholarship"),buffer=numeric("buffer"),increase=numeric("annualIncrease");
+if(duration<=0||duration>10){$("error").textContent="Enter a programme duration greater than 0 and no more than 10 years.";return}
+if(rate<=0){$("error").textContent="Enter a valid current exchange rate (INR per 1 unit of local currency).";return}
+if([tuition,living,insurance,other,setup,scholarship,buffer,increase].some(x=>x<0)||buffer>100||increase>50){$("error").textContent="Enter non-negative amounts. Buffer must be 0–100% and annual increase 0–50%.";return}
+const years=Math.ceil(duration),fraction=duration/years;
+let recurring=0,netTuition=0,livingTotal=0,otherTotal=0,firstRecurring=0;
+for(let y=0;y<years;y++){
+const factor=Math.pow(1+increase/100,y)*(y===years-1?fraction:1);
+const annualTuition=Math.max(0,tuition-scholarship);
+const annualLiving=living*12;
+const annualOther=insurance+other;
+const amount=(annualTuition+annualLiving+annualOther)*factor;
+recurring+=amount;
+netTuition+=annualTuition*factor;
+livingTotal+=annualLiving*factor;
+otherTotal+=annualOther*factor;
+if(y===0)firstRecurring=annualTuition+annualLiving+annualOther;
+}
+const base=recurring+setup;
+const contingency=base*buffer/100;
+const firstYearBase=firstRecurring+setup;
+const firstYearTotal=firstYearBase*(1+buffer/100);
+const localTotal=base+contingency;
+$("firstYear").textContent=inr(firstYearTotal*rate);
+$("total").textContent=inr(localTotal*rate);
+$("netTuition").textContent=inr(netTuition*rate);
+$("livingTotal").textContent=inr(livingTotal*rate);
+$("otherTotal").textContent=inr(otherTotal*rate);
+$("setupTotal").textContent=inr(setup*rate);
+$("bufferTotal").textContent=inr(contingency*rate);
+const name=$("country").value.split("|")[0],currency=$("currency").value;
+$("localSummary").textContent=name+" · "+money(firstYearTotal,currency)+" first year · "+money(localTotal,currency)+" full programme before INR conversion. Exchange rate used: 1 "+currency+" = ₹"+rate.toFixed(4)+".";
+}
+$("country").addEventListener("change",()=>{$("currency").value=$("country").value.split("|")[1];resetResults()});
+$("calculate").addEventListener("click",calculate);
+$("reset").addEventListener("click",()=>{ids.forEach(id=>$(id).value=({duration:2,buffer:10,annualIncrease:0}[id]??""));$("country").selectedIndex=0;$("currency").value="AUD";$("error").textContent="";resetResults()});
+$("print").addEventListener("click",()=>window.print());
+ids.forEach(id=>$(id).addEventListener("keydown",e=>{if(e.key==="Enter")calculate()}));
+})();
+</script>
+</body>
+</html>
