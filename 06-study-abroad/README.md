@@ -54,3 +54,7 @@ Always verify admission requirements, visa regulations, fees and scholarship con
 | **Visual Asset** | **File** | **Preview** |
 |---|---|---|
 | Study in Germany – Career & Education Roadmap | `study-in-germany-guide.webp` | [View Infographic](../images/study-abroad/study-in-germany-guide.webp) |
+
+## Study-abroad counselling support
+
+For personalised help comparing countries, courses, universities, budgets and application timelines, explore [Career Captain Study Abroad Counselling](https://careercaptain.co.in/study-abroad-consultant-hyderabad) and [Scholarship Guidance](https://careercaptain.co.in/study-abroad-scholarships). [Contact Career Captain on WhatsApp](https://wa.me/919849488838).
