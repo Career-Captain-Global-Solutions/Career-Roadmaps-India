@@ -1,5 +1,15 @@
+---
+layout: guide
+title: "Career Options After Class 12 MPC in India: Complete Career Roadmap"
+seo_title: "Career Options After Class 12 MPC in India:... | Career Roadmaps India"
+description: "Choosing MPC (Mathematics, Physics and Chemistry) in Class 11 and Class 12 opens several educational and professional pathways."
+permalink: /01-school-careers/career-options-after-class-12-mpc.html
+slug: career-options-after-class-12-mpc
+category_key: 01-school-careers
+category_name: "School and Stream Selection"
+category_url: /01-school-careers/
+---
 
-# Career Options After Class 12 MPC in India: Complete Career Roadmap
 
 **An educational resource by Career Captain Global Solutions**
 
