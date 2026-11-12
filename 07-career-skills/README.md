@@ -55,3 +55,7 @@ Career Captain Global Solutions supports learners through career counselling, ca
 Website: https://careercaptain.co.in/
 
 **Disclaimer:** These guides are for general educational and professional-development purposes. They do not replace specialised training or guarantee employment outcomes.
+
+## Connect skills to a career plan
+
+If you want to identify which skills matter for your intended direction, Career Captain offers [career counselling](https://careercaptain.co.in/career-counselling-hyderabad), [online counselling](https://careercaptain.co.in/online-career-counselling) and [psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad). [Contact Career Captain on WhatsApp](https://wa.me/919849488838).
