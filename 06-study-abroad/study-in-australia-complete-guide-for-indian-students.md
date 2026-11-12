@@ -1,4 +1,15 @@
-# Study in Australia: Complete Roadmap for Indian Students
+---
+layout: guide
+title: "Study in Australia: Complete Roadmap for Indian Students"
+seo_title: "Study in Australia: Complete Roadmap for Indian... | Career Roadmaps India"
+description: "Australia is a major international education destination offering undergraduate degrees, postgraduate qualifications, research programmes and..."
+permalink: /06-study-abroad/study-in-australia-complete-guide-for-indian-students.html
+slug: study-in-australia-complete-guide-for-indian-students
+category_key: 06-study-abroad
+category_name: "Study Abroad for Indian Students"
+category_url: /06-study-abroad/
+---
+
 
 Australia is a major international education destination offering undergraduate degrees, postgraduate qualifications, research programmes and career-oriented education.
 
