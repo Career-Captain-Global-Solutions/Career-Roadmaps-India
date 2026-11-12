@@ -83,3 +83,15 @@ Verify admission criteria, professional requirements and recruitment notices dir
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** This guide is informational. It does not guarantee admission, employment or professional eligibility.
+
+---
+
+## Need help choosing your next step?
+
+If you are comparing employment, postgraduate study or a change in direction after BSc, Career Captain can help you explore your interests, strengths and education options through counselling and assessment.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
