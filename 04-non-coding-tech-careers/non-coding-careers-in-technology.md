@@ -808,3 +808,16 @@ This guide is part of the Career Roadmaps India open educational initiative by C
 Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. You may share and adapt this material with appropriate attribution and a link to the licence.
 
 Source: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-India
+
+---
+
+## Explore your fit with Career Captain
+
+Technology has many roles beyond software development. If you are unsure which work environment or role family fits you, Career Captain offers career assessment and personalised counselling to help you evaluate possible directions.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Career fit reflection](https://careercaptain.co.in/career-fit)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
