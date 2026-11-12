@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Emotional Intelligence and Self-Awareness: A Practical Guide for Students and Young Professionals"
-seo_title: "Emotional Intelligence and Self-Awareness: A... | Career Roadmaps India"
-description: "Understand your emotions, manage your responses and build stronger relationships."
+seo_title: "Emotional Intelligence & Self-Awareness Skills Guide"
+description: "Understand emotional intelligence and self-awareness skills, including recognising emotions, managing responses, empathy, relationships and effective teamwork."
 permalink: /07-career-skills/emotional-intelligence-and-self-awareness-guide.html
 slug: emotional-intelligence-and-self-awareness-guide
 category_key: 07-career-skills
