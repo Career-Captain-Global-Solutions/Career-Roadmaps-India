@@ -1,4 +1,15 @@
-# Study in Singapore: Complete Guide for Indian Students
+---
+layout: guide
+title: "Study in Singapore: Complete Guide for Indian Students"
+seo_title: "Study in Singapore: Complete Guide for Indian Students | Career Roadmaps India"
+description: "Last reviewed: 12 November 2026. Admissions, tuition, scholarship availability and immigration rules can change. Verify the current requirements with..."
+permalink: /06-study-abroad/study-in-singapore-complete-guide-for-indian-students.html
+slug: study-in-singapore-complete-guide-for-indian-students
+category_key: 06-study-abroad
+category_name: "Study Abroad for Indian Students"
+category_url: /06-study-abroad/
+---
+
 
 *Last reviewed: 12 November 2026. Admissions, tuition, scholarship availability and immigration rules can change. Verify the current requirements with the institution, Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) and other official Singapore authorities before applying.*
 
