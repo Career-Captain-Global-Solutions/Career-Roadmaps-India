@@ -1,5 +1,8 @@
 # Placement and Interview Preparation
 
+**[Explore the Placement Preparation landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/05-placement-preparation/)**
+
+
 Practical resources to help Indian students and graduates prepare for internships, campus placements and employment opportunities.
 
 ## Topics Covered
