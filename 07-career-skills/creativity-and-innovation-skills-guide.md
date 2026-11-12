@@ -413,3 +413,15 @@ Explore career guidance and development resources:
 **Educational disclaimer:** This guide is intended for general educational and career-development purposes. It does not replace specialised technical, business or professional advice.
 
 **Open-source licence:** This guide is published under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. Please provide appropriate attribution when sharing or adapting this material.
+
+---
+
+## Connect skill development to your career plan
+
+Skills become more useful when you know which education or career direction you are preparing for. Career Captain offers assessment-led counselling to help students and professionals reflect on their strengths, interests and next steps.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
