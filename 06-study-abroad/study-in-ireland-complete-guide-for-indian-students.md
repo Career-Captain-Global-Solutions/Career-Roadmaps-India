@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in Ireland: Complete Roadmap for Indian Students"
-seo_title: "Study in Ireland: Complete Roadmap for Indian Students | Career Roadmaps India"
-description: "Ireland is an increasingly attractive destination for Indian students interested in technology, pharmaceuticals, finance, engineering, business and..."
+seo_title: "Study in Ireland for Indian Students | Complete Guide"
+description: "Understand study opportunities in Ireland for Indian students, including universities, popular courses, admission requirements, costs and visa preparation."
 permalink: /06-study-abroad/study-in-ireland-complete-guide-for-indian-students.html
 slug: study-in-ireland-complete-guide-for-indian-students
 category_key: 06-study-abroad
