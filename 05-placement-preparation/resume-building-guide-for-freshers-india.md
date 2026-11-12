@@ -67,7 +67,7 @@ Maintain a full record of projects, activities and skills. Create a tailored ver
 - AICTE National Internship Portal: https://internship.aicte-india.org/
 - Employer career pages and official job descriptions.
 
-**About Career Captain:** https://careercaptain.co.in/
+**About Career Captain:** https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=resume-building-guide-for-freshers-india
 
 **Disclaimer:** This guide provides general resume guidance. Employer requirements and screening methods vary; no resume format guarantees selection.
 
@@ -77,7 +77,7 @@ Maintain a full record of projects, activities and skills. Create a tailored ver
 
 A strong resume starts with a realistic target role. Career Captain can help students explore career options and understand how their interests and strengths relate to education and early-career choices.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=resume-building-guide-for-freshers-indiacareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=resume-building-guide-for-freshers-india)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=resume-building-guide-for-freshers-indiaareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=resume-building-guide-for-freshers-india)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=resume-building-guide-for-freshers-india) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20resume%20building%20guide%20for%20freshers%20india%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20resume-building-guide-for-freshers-india.)
