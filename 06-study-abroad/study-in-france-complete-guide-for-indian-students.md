@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in France: Complete Roadmap for Indian Students"
-seo_title: "Study in France: Complete Roadmap for Indian Students | Career Roadmaps India"
-description: "France is an important international education destination for students interested in engineering, business, luxury brand management, fashion,..."
+seo_title: "Study in France for Indian Students | Courses & Admissions"
+description: "Explore higher education in France for Indian students, including English- and French-taught programmes, admissions, costs, scholarships and student preparation."
 permalink: /06-study-abroad/study-in-france-complete-guide-for-indian-students.html
 slug: study-in-france-complete-guide-for-indian-students
 category_key: 06-study-abroad
