@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Agricultural Engineering Career Roadmap in India: Opportunities, Skills, Specialisations and Future Scope"
-seo_title: "Agricultural Engineering Career Roadmap in India:... | Career Roadmaps India"
-description: "Agricultural Engineering combines engineering, agriculture, technology and environmental science to improve farming systems, food production and..."
+seo_title: "Agricultural Engineering Careers in India | Career Roadmap"
+description: "Understand agricultural engineering career options in India across farm machinery, irrigation, food processing, precision agriculture and sustainable farming technology."
 permalink: /02-engineering-careers/agricultural-engineering-career-roadmap.html
 slug: agricultural-engineering-career-roadmap
 category_key: 02-engineering-careers
