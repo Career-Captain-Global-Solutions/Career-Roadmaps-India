@@ -671,3 +671,15 @@ Website: https://careercaptain.co.in/
 **Open Licence:** This educational guide is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. You may share and adapt the material with appropriate attribution.
 
 Licence: https://creativecommons.org/licenses/by/4.0/
+
+---
+
+## Connect skill development to your career plan
+
+Skills become more useful when you know which education or career direction you are preparing for. Career Captain offers assessment-led counselling to help students and professionals reflect on their strengths, interests and next steps.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
