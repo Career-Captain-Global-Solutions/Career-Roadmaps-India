@@ -732,3 +732,15 @@ You may share and adapt this material with appropriate attribution.
 **Attribution:** Career Captain Global Solutions — https://careercaptain.co.in/
 
 *Disclaimer: This guide is for general educational information and is not legal, immigration, financial or admission advice. University policies, fees and immigration rules can change. Verify all requirements through official sources before making decisions.*
+
+---
+
+## Plan your study-abroad journey with Career Captain
+
+Country and university choices should be evaluated against your academic profile, course goals, budget, entry requirements and long-term plans. Career Captain provides study-abroad counselling and application-planning support. Admission, scholarship and visa decisions remain with the relevant institutions and authorities.
+
+- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in/study-abroad-consultant-hyderabad)
+- [Scholarship guidance for Indian students](https://careercaptain.co.in/study-abroad-scholarships)
+- [Explore Career Captain](https://careercaptain.co.in/)
+
+[WhatsApp Career Captain](https://wa.me/919849488838)
