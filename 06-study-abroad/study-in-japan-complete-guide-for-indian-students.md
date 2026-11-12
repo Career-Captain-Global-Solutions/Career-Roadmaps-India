@@ -1,4 +1,15 @@
-# Study in Japan: Complete Guide for Indian Students
+---
+layout: guide
+title: "Study in Japan: Complete Guide for Indian Students"
+seo_title: "Study in Japan: Complete Guide for Indian Students | Career Roadmaps India"
+description: "Last reviewed: 12 November 2026. Admission requirements, tuition, scholarships, immigration procedures and work rules can change. Confirm current..."
+permalink: /06-study-abroad/study-in-japan-complete-guide-for-indian-students.html
+slug: study-in-japan-complete-guide-for-indian-students
+category_key: 06-study-abroad
+category_name: "Study Abroad for Indian Students"
+category_url: /06-study-abroad/
+---
+
 
 *Last reviewed: 12 November 2026. Admission requirements, tuition, scholarships, immigration procedures and work rules can change. Confirm current requirements with your institution and official Japanese authorities before applying.*
 
