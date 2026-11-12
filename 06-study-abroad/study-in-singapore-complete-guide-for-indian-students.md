@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in Singapore: Complete Guide for Indian Students"
-seo_title: "Study in Singapore: Complete Guide for Indian Students | Career Roadmaps India"
-description: "Last reviewed: 12 November 2026. Admissions, tuition, scholarship availability and immigration rules can change. Verify the current requirements with..."
+seo_title: "Study in Singapore for Indian Students | Courses & Costs"
+description: "Explore universities and study pathways in Singapore for Indian students, including course options, admissions, tuition, living costs and scholarships."
 permalink: /06-study-abroad/study-in-singapore-complete-guide-for-indian-students.html
 slug: study-in-singapore-complete-guide-for-indian-students
 category_key: 06-study-abroad
