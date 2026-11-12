@@ -6,6 +6,14 @@ Explore career pathways after undergraduate and postgraduate education. This col
 
 ## Published guide
 
+## Additional published guides
+
+- [Career Options After BA in India](career-options-after-ba-in-india.md) — Career pathways, higher study, employment and skills after a Bachelor of Arts.
+- [Career Options After BSc in India](career-options-after-bsc-in-india.md) — Subject-based employment, postgraduate study and skill pathways after a BSc.
+- [Career Options After BCA in India](career-options-after-bca-in-india.md) — IT roles, MCA considerations, project portfolios and a 90-day preparation plan.
+
+
+
 | Guide | Main focus |
 |---|---|
 | [Career Options After BCom and BBA in India](career-options-after-bcom-and-bba.md) | Career options, employment pathways, further study, professional qualifications and skills for commerce and business graduates |
