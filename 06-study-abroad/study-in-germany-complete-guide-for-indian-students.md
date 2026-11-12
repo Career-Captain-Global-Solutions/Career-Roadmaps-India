@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in Germany for Indian Students: Complete Guide to Admissions, APS, Costs, Scholarships and Career Opportunities"
-seo_title: "Study in Germany for Indian Students: Complete... | Career Roadmaps India"
-description: "Germany is one of the most attractive destinations for Indian students interested in engineering, technology, science, management and research."
+seo_title: "Study in Germany for Indian Students | Complete Guide"
+description: "Explore how to study in Germany as an Indian student, including university options, admission requirements, costs, scholarships, student visas and preparation."
 permalink: /06-study-abroad/study-in-germany-complete-guide-for-indian-students.html
 slug: study-in-germany-complete-guide-for-indian-students
 category_key: 06-study-abroad
