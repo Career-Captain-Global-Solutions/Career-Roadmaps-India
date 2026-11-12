@@ -76,3 +76,15 @@ Check current job descriptions and the National Career Service portal: https://w
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** This guide is informational. It does not guarantee employment or imply that one tool or certificate is sufficient for a role.
+
+---
+
+## Explore your career direction with Career Captain
+
+If you are comparing data analytics with other technology or business roles, Career Captain can help you explore your strengths, interests and preferred work activities through assessment and counselling.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
