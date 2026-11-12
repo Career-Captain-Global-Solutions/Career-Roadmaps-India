@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Adaptability, Resilience and Growth Mindset: A Practical Guide for Students and Young Professionals"
-seo_title: "Adaptability, Resilience and Growth Mindset: A... | Career Roadmaps India"
-description: "Learn to handle change, recover from setbacks and keep improving in a changing world."
+seo_title: "Adaptability, Resilience & Growth Mindset Skills Guide"
+description: "Learn how adaptability, resilience and a growth mindset support students and professionals through change, challenges, feedback and continuous learning."
 permalink: /07-career-skills/adaptability-resilience-and-growth-mindset-guide.html
 slug: adaptability-resilience-and-growth-mindset-guide
 category_key: 07-career-skills
