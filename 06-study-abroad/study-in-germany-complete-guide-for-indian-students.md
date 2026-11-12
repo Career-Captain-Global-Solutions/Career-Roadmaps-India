@@ -1231,3 +1231,15 @@ This guide is part of the Career Roadmaps India open educational initiative by C
 Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. You may share and adapt this material with appropriate attribution and a link to the licence.
 
 Source: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-India
+
+---
+
+## Plan your study-abroad journey with Career Captain
+
+Country and university choices should be evaluated against your academic profile, course goals, budget, entry requirements and long-term plans. Career Captain provides study-abroad counselling and application-planning support. Admission, scholarship and visa decisions remain with the relevant institutions and authorities.
+
+- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in/study-abroad-consultant-hyderabad)
+- [Scholarship guidance for Indian students](https://careercaptain.co.in/study-abroad-scholarships)
+- [Explore Career Captain](https://careercaptain.co.in/)
+
+[WhatsApp Career Captain](https://wa.me/919849488838)
