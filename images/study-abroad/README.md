@@ -49,6 +49,7 @@ Examples:
 | Study in Germany – Career & Education Roadmap | `study-in-germany-guide.webp` | [View Infographic](study-in-germany-guide.webp) |
 | Study in USA – Career & Education Roadmap | `study-in-usa-career-education-roadmap.webp` | [View Infographic](study-in-usa-career-education-roadmap.webp) |
 | Study in UK – Career & Education Roadmap | `study-in-uk-career-education-roadmap.webp` | [View Infographic](study-in-uk-career-education-roadmap.webp) |
+| Study in Australia – Career & Education Roadmap | `study-in-australia-career-education-roadmap.webp` | [View Infographic](study-in-australia-career-education-roadmap.webp) |
 | Study in Canada – Career & Education Roadmap | `study-in-canada-career-education-roadmap.webp` | [View Infographic](study-in-canada-career-education-roadmap.webp) |
 ## Project Information
 
