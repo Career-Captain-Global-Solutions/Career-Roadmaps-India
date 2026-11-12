@@ -348,3 +348,15 @@ Website: https://careercaptain.co.in/
 
 **Open Licence:** Creative Commons Attribution 4.0 International (CC BY 4.0), subject to applicable third-party asset rights.  
 https://creativecommons.org/licenses/by/4.0/
+
+---
+
+## Plan your study-abroad journey with Career Captain
+
+Country and university choices should be evaluated against your academic profile, course goals, budget, entry requirements and long-term plans. Career Captain provides study-abroad counselling and application-planning support. Admission, scholarship and visa decisions remain with the relevant institutions and authorities.
+
+- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in/study-abroad-consultant-hyderabad)
+- [Scholarship guidance for Indian students](https://careercaptain.co.in/study-abroad-scholarships)
+- [Explore Career Captain](https://careercaptain.co.in/)
+
+[WhatsApp Career Captain](https://wa.me/919849488838)
