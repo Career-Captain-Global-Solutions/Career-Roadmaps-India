@@ -64,3 +64,15 @@ Research current openings through employer career pages and https://www.ncs.gov.
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** Responsibilities vary by employer and project. This guide does not guarantee employment or professional certification.
+
+---
+
+## Explore your career direction with Career Captain
+
+If you are deciding whether coordination, operations, business or technical roles are a better fit, Career Captain can help you assess your interests, strengths and work preferences.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
