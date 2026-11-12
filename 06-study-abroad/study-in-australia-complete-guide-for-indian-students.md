@@ -8,6 +8,8 @@ However, studying in Australia requires careful planning. Students must understa
 
 This guide explains the process for Indian students, from selecting a course to planning a career after graduation.
 
+![Study in Australia – Career & Education Roadmap](../images/study-abroad/study-in-australia-career-education-roadmap.webp)
+
 *Last reviewed: 12 November 2026. Admission requirements, tuition fees and immigration policies can change. In particular, check the Student visa application-rule changes that commenced on 2 October 2026. Always verify current information through official Australian government and university websites.*
 
 ---
