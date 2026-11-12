@@ -10,6 +10,8 @@ However, studying in the Netherlands requires careful planning. Students must un
 
 This guide explains the process step by step.
 
+![Study in the Netherlands – Career & Education Roadmap](../images/study-abroad/study-in-netherlands-career-education-roadmap.webp)
+
 ---
 
 ## 1. Why Study in the Netherlands?
@@ -295,6 +297,31 @@ Always confirm the exact fee on the university's official programme page.
 
 Official information: https://www.studyinnl.org/finances/tuition-fees
 
+### Indian student application checklist
+
+Use this checklist alongside the current instructions from your chosen university and the IND.
+
+- [ ] Confirm whether the institution is a research university (WO) or university of applied sciences (HBO), and whether the exact programme fits your academic background.
+- [ ] Check that the programme is accredited and that the institution is an IND-recognised sponsor authorised to apply for student residence permits.
+- [ ] Verify the Indian qualification equivalency, subject prerequisites, minimum grades and any selection procedure.
+- [ ] Confirm the language of instruction and programme-specific English test requirements.
+- [ ] Check the application deadline, including earlier deadlines for numerus fixus programmes and non-EU applicants.
+- [ ] Apply through Studielink where required and complete any separate university application.
+- [ ] Prepare passport, Class 10 and 12 records, degree certificates/transcripts, CV, motivation letter, references and portfolio where applicable.
+- [ ] Check whether documents need certified translation, legalisation or verification.
+- [ ] Review the offer, tuition, deposits, refund rules and scholarship conditions before paying.
+- [ ] Confirm the current IND study norm and arrange proof of funds for 12 months, separately from tuition.
+- [ ] Follow the university's instructions for the MVV and student residence-permit application; the recognised sponsor submits the application.
+- [ ] Arrange accommodation before travelling. The Netherlands has a severe student-housing shortage; verify the property and contract before transferring money.
+- [ ] Check whether a TB test or other arrival formalities apply to your nationality and circumstances.
+- [ ] After arrival, collect your residence card and complete municipal registration and other university formalities.
+- [ ] Track study progress: the normal requirement is at least 50% of the credits per study year, subject to the IND rules and accepted exceptions.
+- [ ] Before accepting employment, confirm the 16-hour weekly or full-time summer option and ensure the employer obtains a TWV.
+- [ ] Keep track of residence-permit validity, insurance and renewal requirements.
+
+**Important:** This is a planning checklist, not a substitute for the university's current immigration instructions or the IND requirements.
+
+
 ## 9. Cost of Living
 
 Living costs depend on your city, accommodation, lifestyle and spending habits.
@@ -313,7 +340,7 @@ A practical planning estimate is approximately €1,000–€1,500 per month, bu
 
 ### Important: Immigration Financial Requirement
 
-For 2026, the Dutch Immigration and Naturalisation Service (IND) lists a monthly study norm of **€1,130.77** for higher professional education and university students.
+For 2026, the Dutch Immigration and Naturalisation Service (IND) lists a monthly study norm of **€1,130.77** for higher professional education and university students. This is **€13,569.24 for 12 months**. The study norm is separate from tuition fees and is updated annually; check the IND amount for the year in which the application is submitted.
 
 That means a student generally needs to demonstrate the required living funds for 12 months.
 
@@ -399,7 +426,7 @@ Students generally need to:
 7. Travel after receiving the required permission.
 8. Collect your residence permit in the Netherlands.
 
-The IND states that the institution applies for the student residence permit on the student's behalf.
+The IND states that only an institution recognised by the IND as a sponsor can apply for the student residence permit on the student's behalf. The programme must be full-time and accredited. Students must also make sufficient study progress, normally at least 50% of the credits for each study year; the institution assesses progress and reports cases that do not meet the rules without an accepted reason.
 
 The residence permit application fee and immigration procedures can change. Confirm the current amount and process with the IND and your university.
 
@@ -479,7 +506,7 @@ Eligible graduates may apply for a residence permit that allows them to look for
 
 ### Orientation Year
 
-The permit is generally valid for one year.
+The permit is generally valid for one year and is not extendable. Graduates normally need to apply within three years after completing the qualifying programme or research. The eligible categories include accredited Dutch higher-education graduates, certain Dutch post-master's programmes, Erasmus Mundus Joint Master graduates, qualifying researchers and graduates of designated foreign institutions. For a foreign institution, the IND applies specific top-200 ranking criteria across at least two of the three named ranking publishers and requires a Nuffic credential evaluation; additional language requirements apply. Do not assume that any overseas degree automatically qualifies.
 
 Eligibility includes certain graduates of Dutch higher education institutions and other qualifying categories specified by the IND.
 
@@ -489,7 +516,7 @@ Students who complete eligible master's or doctoral programmes at certain design
 
 If you secure suitable employment, you may be able to switch to another residence category, such as the highly skilled migrant residence permit, provided you meet the applicable requirements.
 
-The orientation-year permit is not an automatic route to permanent residence.
+The orientation-year permit allows unrestricted employment, including self-employment, without a TWV during its one-year validity. It is not an automatic route to permanent residence.
 
 Official information:
 
@@ -567,6 +594,8 @@ However, the right decision requires more than choosing a popular university. St
 Start early, research carefully and choose a programme that supports your long-term goals.
 
 ---
+
+**Last reviewed: November 2026.** Financial thresholds, tuition, admission procedures and immigration rules can change. The figures in this guide are dated and should be checked again before applying.
 
 **Educational Disclaimer**
 
