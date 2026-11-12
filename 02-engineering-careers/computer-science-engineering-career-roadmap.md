@@ -1,5 +1,15 @@
+---
+layout: guide
+title: "Computer Science Engineering Career Roadmap in India: Complete Guide for BTech Students"
+seo_title: "Computer Science Engineering Career Roadmap in... | Career Roadmaps India"
+description: "Computer Science Engineering (CSE) is one of the most diverse engineering disciplines, offering opportunities across software development, artificial..."
+permalink: /02-engineering-careers/computer-science-engineering-career-roadmap.html
+slug: computer-science-engineering-career-roadmap
+category_key: 02-engineering-careers
+category_name: "Engineering Career Roadmaps"
+category_url: /02-engineering-careers/
+---
 
-# Computer Science Engineering Career Roadmap in India: Complete Guide for BTech Students
 
 **An educational resource by Career Captain Global Solutions**
 
