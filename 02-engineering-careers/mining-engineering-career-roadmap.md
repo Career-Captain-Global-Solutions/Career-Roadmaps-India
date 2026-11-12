@@ -342,7 +342,7 @@ The strongest career decisions begin with understanding your interests, evaluati
 
 Career Captain Global Solutions helps students explore academic pathways, understand career options, and make informed education and career decisions through structured career guidance and assessment.
 
-**Explore:** [Career Captain](https://careercaptain.co.in/)
+**Explore:** [Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=mining-engineering-career-roadmap)
 
 ---
 
@@ -356,8 +356,8 @@ Career Captain Global Solutions helps students explore academic pathways, unders
 
 Choosing an engineering branch is only one part of the decision. Students should also consider their interests, strengths, preferred work and future study options. Career Captain offers personalised career counselling and assessment to support informed decisions.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=mining-engineering-career-roadmapcareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=mining-engineering-career-roadmap)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=mining-engineering-career-roadmap)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=mining-engineering-career-roadmapareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=mining-engineering-career-roadmap)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=mining-engineering-career-roadmap) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20mining%20engineering%20career%20roadmap%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20mining-engineering-career-roadmap.)
