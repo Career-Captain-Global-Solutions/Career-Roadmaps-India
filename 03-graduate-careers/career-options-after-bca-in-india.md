@@ -1,4 +1,15 @@
-# Career Options After BCA in India: IT Jobs, MCA and Skill Roadmaps
+---
+layout: guide
+title: "Career Options After BCA in India: IT Jobs, MCA and Skill Roadmaps"
+seo_title: "Career Options After BCA in India: IT Jobs, MCA... | Career Roadmaps India"
+description: "A Bachelor of Computer Applications (BCA) can provide a foundation in computing, software concepts, databases and information systems. After..."
+permalink: /03-graduate-careers/career-options-after-bca-in-india.html
+slug: career-options-after-bca-in-india
+category_key: 03-graduate-careers
+category_name: "Career Options After Graduation"
+category_url: /03-graduate-careers/
+---
+
 
 **An educational resource by Career Captain Global Solutions**
 
