@@ -1,19 +1,41 @@
 # Non-Coding Technology Careers
 
-**[Explore the Non-Coding Technology Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/04-non-coding-tech-careers/)**
+**[Open the premium Non-Coding Technology Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/04-non-coding-tech-careers/)**
 
+Technology careers are not limited to software development. Organisations also need people who understand users, products, business processes, data, design, security, operations and communication.
 
-Explore technology careers that do not require traditional software development as their primary skill.
+## Published guide
 
-Topics include:
+[Non-Coding Careers in Technology: A Complete Career Roadmap for Indian Students and Graduates](non-coding-careers-in-technology.md)
+
+The guide explores roles and pathways including:
 
 - Business Analyst
 - Product Manager
-- IT Project Manager
-- Technical Writer
-- Cybersecurity Governance
-- Technology Consultant
 - UI/UX Designer
-- Data Analyst
+- Technical Writer
+- IT Support
+- Cybersecurity Governance
+- Cloud Operations
+- Data Analyst using low-code tools
+- Digital Marketing
+- Quality Assurance
+- Project Coordination
+- Technology Sales
+- Technology Consulting
 
-Discover qualifications, essential skills, career pathways and employment opportunities.
+## Skills and preparation
+
+Depending on the role, useful capabilities may include analytical thinking, communication, documentation, user research, product understanding, business analysis and familiarity with technology platforms. Some non-coding roles still require SQL, scripting, databases, networks or cloud knowledge.
+
+## How to use this resource
+
+1. Identify the type of work that interests you.
+2. Read about responsibilities and role expectations.
+3. Check qualifications and tools requested in real job descriptions.
+4. Build relevant projects, case studies or practical experience.
+5. Prepare evidence that demonstrates your ability.
+
+**Important:** “Non-coding” does not always mean “no technical knowledge”. Requirements differ by employer and job description.
+
+Website: https://careercaptain.co.in/
