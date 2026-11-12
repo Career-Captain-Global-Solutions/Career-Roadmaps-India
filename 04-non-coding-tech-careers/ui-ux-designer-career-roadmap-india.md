@@ -1,4 +1,15 @@
-# UI/UX Designer Career Roadmap in India: Skills, Process and Portfolio
+---
+layout: guide
+title: "UI/UX Designer Career Roadmap in India: Skills, Process and Portfolio"
+seo_title: "UI/UX Designer Career Roadmap in India: Skills,... | Career Roadmaps India"
+description: "UI design concerns the visual and interactive interface of a digital product. UX design focuses on the quality of the user's overall experience,..."
+permalink: /04-non-coding-tech-careers/ui-ux-designer-career-roadmap-india.html
+slug: ui-ux-designer-career-roadmap-india
+category_key: 04-non-coding-tech-careers
+category_name: "Non-Coding Technology Careers"
+category_url: /04-non-coding-tech-careers/
+---
+
 
 **An educational resource by Career Captain Global Solutions**
 
