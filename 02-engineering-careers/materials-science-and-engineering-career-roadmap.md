@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Materials Science and Engineering Career Roadmap in India"
-seo_title: "Materials Science and Engineering Career Roadmap... | Career Roadmaps India"
-description: "Materials Science and Engineering focuses on understanding, designing, developing, testing, and improving materials used in engineering applications...."
+seo_title: "Materials Science & Engineering Careers in India"
+description: "Explore materials science and engineering careers in India across metals, polymers, ceramics, semiconductors, advanced materials, testing and research."
 permalink: /02-engineering-careers/materials-science-and-engineering-career-roadmap.html
 slug: materials-science-and-engineering-career-roadmap
 category_key: 02-engineering-careers
