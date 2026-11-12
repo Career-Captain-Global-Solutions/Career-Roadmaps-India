@@ -43,28 +43,25 @@ Our objective is simple: help people make more informed career decisions.
 
 [Explore the Graduate Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/03-graduate-careers/)
 
-- Published career roadmap for BCom and BBA graduates
-- Accounting, finance, banking, marketing and management directions
-- Employment, further study and professional qualification considerations
+- Career roadmaps after BA, BSc, BCA, BCom and BBA
+- Subject-based employment, higher study and professional qualification pathways
+- [Explore Career Captain career counselling](https://careercaptain.co.in/career-counselling-hyderabad) · [Online counselling](https://careercaptain.co.in/online-career-counselling)
 
 ### 4. Non-Coding Technology Careers
 
 [Explore the Non-Coding Technology Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/04-non-coding-tech-careers/)
 
-- A published overview of non-coding and low-coding technology careers
-- Business analysis, product management, UI/UX and technical writing
-- IT support, cloud operations, cybersecurity governance and quality assurance
-- Skills and technical knowledge commonly relevant to these roles
+- Role-specific roadmaps for business analysis, product management, UI/UX, data analysis and IT project coordination
+- Broader pathways including technical writing, IT support, cloud operations, cybersecurity governance and quality assurance
+- [Explore Career Captain career assessment](https://careercaptain.co.in/psychometric-test-hyderabad) · [Career counselling](https://careercaptain.co.in/career-counselling-hyderabad)
 
 ### 5. Placement and Employment Preparation
 
 [Explore the Placement Preparation landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/05-placement-preparation/)
 
-- A published campus placement preparation roadmap
-- Recruitment stages and eligibility checks
-- Resume and profile preparation
-- Aptitude, technical assessments and interview preparation
-- Group discussions and professional communication where applicable
+- Campus placement roadmap plus practical guides to resumes, aptitude, interviews, internships and LinkedIn profiles
+- Recruitment stages, eligibility checks and application preparation
+- [Explore Career Captain career counselling](https://careercaptain.co.in/career-counselling-hyderabad) · [Online counselling](https://careercaptain.co.in/online-career-counselling)
 
 ### 6. Study Abroad
 
@@ -113,7 +110,9 @@ Our services include:
 - Study-abroad guidance
 - Career exploration and planning
 
-**Explore our website:** https://careercaptain.co.in
+**Explore Career Captain services:** [Career counselling](https://careercaptain.co.in/career-counselling-hyderabad) · [Psychometric assessment](https://careercaptain.co.in/psychometric-test-hyderabad) · [Online counselling](https://careercaptain.co.in/online-career-counselling) · [Study abroad scholarships](https://careercaptain.co.in/study-abroad-scholarships) · [School Career Lab](https://careercaptain.co.in/school-career-lab)
+
+**Website:** https://careercaptain.co.in
 
 The educational resources in this repository are intended to support independent learning and informed career exploration.
 
