@@ -29,5 +29,17 @@ These resources cover engineering fundamentals, essential skills, career opportu
 ## About This Collection
 
 This collection helps students explore engineering disciplines, understand academic requirements, identify essential technical skills and discover potential career pathways.
+---
+
+## Detailed Career Roadmaps
+
+Explore the complete career guides for these engineering disciplines:
+
+1. [Aerospace Engineering](aerospace-engineering-career-roadmap.md)
+2. [Agricultural Engineering](agricultural-engineering-career-roadmap.md)
+3. [Civil Engineering](civil-engineering-career-roadmap.md)
+4. [Computer Science Engineering](computer-science-engineering-career-roadmap.md)
+5. [Electronics and Communication Engineering](electronics-and-communication-engineering-career-roadmap.md)
+6. [Mechanical Engineering](mechanical-engineering-career-roadmap.md)
 
 **Maintained by Career Captain Global Solutions.**
