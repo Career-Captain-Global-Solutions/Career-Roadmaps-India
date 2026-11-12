@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Communication Skills for Students and Young Professionals: Complete Guide"
-seo_title: "Communication Skills for Students and Young... | Career Roadmaps India"
-description: "Develop the confidence to express ideas, communicate professionally, work with teams and succeed in academic and professional environments."
+seo_title: "Communication Skills for Students & Professionals | Guide"
+description: "Develop communication skills for academic and professional settings, including speaking, listening, writing, presentation, collaboration and workplace interaction."
 permalink: /07-career-skills/communication-skills-for-students-and-professionals.html
 slug: communication-skills-for-students-and-professionals
 category_key: 07-career-skills
