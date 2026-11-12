@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Career Options After BCom and BBA in India: A Complete Career Roadmap"
-seo_title: "Career Options After BCom and BBA in India: A... | Career Roadmaps India"
-description: "A degree in Commerce or Business Administration can open doors to careers in finance, banking, accounting, marketing, management, consulting,..."
+seo_title: "Career Options After BCom & BBA in India | Career Guide"
+description: "Compare career options after BCom and BBA in India across finance, accounting, marketing, human resources, business operations and postgraduate study."
 permalink: /03-graduate-careers/career-options-after-bcom-and-bba.html
 slug: career-options-after-bcom-and-bba
 category_key: 03-graduate-careers
