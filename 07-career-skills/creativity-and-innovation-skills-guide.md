@@ -1,4 +1,15 @@
-# Creativity and Innovation Skills: A Practical Guide for Students and Young Professionals
+---
+layout: guide
+title: "Creativity and Innovation Skills: A Practical Guide for Students and Young Professionals"
+seo_title: "Creativity and Innovation Skills: A Practical... | Career Roadmaps India"
+description: "Learn to think differently, solve problems creatively and turn ideas into meaningful improvements."
+permalink: /07-career-skills/creativity-and-innovation-skills-guide.html
+slug: creativity-and-innovation-skills-guide
+category_key: 07-career-skills
+category_name: "Career Skills and Professional Development"
+category_url: /07-career-skills/
+---
+
 
 **Learn to think differently, solve problems creatively and turn ideas into meaningful improvements.**
 
