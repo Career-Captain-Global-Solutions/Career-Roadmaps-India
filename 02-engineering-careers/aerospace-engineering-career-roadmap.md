@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Aerospace Engineering Career Roadmap in India: Opportunities, Skills, Specialisations and Future Scope"
-seo_title: "Aerospace Engineering Career Roadmap in India:... | Career Roadmaps India"
-description: "Aerospace Engineering is a specialised engineering discipline focused on the design, development, testing and maintenance of aircraft, spacecraft,..."
+seo_title: "Aerospace Engineering Careers in India | Career Roadmap"
+description: "Explore aerospace engineering careers in India, including aircraft, spacecraft, propulsion, design, testing and research roles, plus the skills and study pathways involved."
 permalink: /02-engineering-careers/aerospace-engineering-career-roadmap.html
 slug: aerospace-engineering-career-roadmap
 category_key: 02-engineering-careers
