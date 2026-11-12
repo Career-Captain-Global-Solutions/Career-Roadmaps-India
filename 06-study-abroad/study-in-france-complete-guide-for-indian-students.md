@@ -10,6 +10,8 @@ However, studying in France requires careful planning. Students must understand 
 
 This guide explains the process for Indian students, from selecting a course to planning a career after graduation.
 
+![Study in France – Career & Education Roadmap](../images/study-abroad/study-in-france-career-education-roadmap.webp)
+
 *Last reviewed: November 2026. Admission requirements, tuition fees and immigration policies can change. Always verify current information through official French government, Campus France and university websites.*
 
 ---
@@ -489,6 +491,30 @@ Official resources:
 
 - https://france-visas.gouv.fr/en/web/france-visas/etudiant
 - https://www.inde.campusfrance.org/preparing-the-visa-application
+
+### Indian student application checklist
+
+Use this checklist to organise your application. The exact documents and steps depend on your institution, programme, visa category and personal circumstances.
+
+- [ ] Confirm that the institution and specific programme are recognised and appropriate for your intended qualification.
+- [ ] Check academic eligibility, subject prerequisites, language of instruction and accepted language tests.
+- [ ] Confirm the institution's application route and deadline; Indian residents are generally covered by the Études en France (EEF) procedure, but some institutions also have direct admission steps.
+- [ ] Create and complete your Études en France account where required.
+- [ ] Prepare passport, photograph, Class 10 and Class 12 records, degree certificates and transcripts, as applicable.
+- [ ] Prepare CV, motivation letter or Statement of Purpose, recommendation letters, portfolio or research proposal where required.
+- [ ] Complete the Campus France academic interview and retain the relevant confirmation.
+- [ ] Compare the admission offer, tuition, scholarship conditions, refund policy and payment deadlines.
+- [ ] Check the current France-Visas checklist and complete the student long-stay visa application.
+- [ ] Prepare financial evidence meeting the current requirement: Campus France India states €877.50 per month from 1 August 2026; verify accepted evidence and any applicable exemptions.
+- [ ] Arrange suitable accommodation evidence and health/insurance documents required for your case.
+- [ ] Attend the required visa application appointment and provide biometrics/documents as instructed.
+- [ ] Do not make non-refundable travel bookings before the visa decision.
+- [ ] After arrival, validate the VLS-TS online within the required period, if that is the visa issued.
+- [ ] Complete university registration, health coverage and other local formalities.
+- [ ] Track residence-permit renewal dates and comply with student work restrictions.
+
+**Important:** The checklist is a planning aid, not a substitute for the current Campus France India, France-Visas or prefecture checklist.
+
 
 ## 11. Financial Requirements for a French Student Visa
 
