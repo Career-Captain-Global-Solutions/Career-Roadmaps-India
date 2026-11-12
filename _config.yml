@@ -1,0 +1,10 @@
+title: Career Roadmaps India
+description: Practical career roadmaps and educational guides for students and young professionals in India.
+url: https://career-captain-global-solutions.github.io
+baseurl: /Career-Roadmaps-India
+lang: en-IN
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - LICENSE
