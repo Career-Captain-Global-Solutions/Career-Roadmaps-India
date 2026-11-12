@@ -73,7 +73,7 @@ Weeks 9–10: Document the portfolio, revise your CV and practise role-specific 
 
 Check current job descriptions and the National Career Service portal: https://www.ncs.gov.in/
 
-**About Career Captain:** https://careercaptain.co.in/
+**About Career Captain:** https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=data-analyst-career-roadmap-india
 
 **Disclaimer:** This guide is informational. It does not guarantee employment or imply that one tool or certificate is sufficient for a role.
 
@@ -83,8 +83,8 @@ Check current job descriptions and the National Career Service portal: https://w
 
 If you are comparing data analytics with other technology or business roles, Career Captain can help you explore your strengths, interests and preferred work activities through assessment and counselling.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=data-analyst-career-roadmap-indiacareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=data-analyst-career-roadmap-india)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=data-analyst-career-roadmap-indiaareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=data-analyst-career-roadmap-india)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=data-analyst-career-roadmap-india)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=data-analyst-career-roadmap-india) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20data%20analyst%20career%20roadmap%20india%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20data-analyst-career-roadmap-india.)
