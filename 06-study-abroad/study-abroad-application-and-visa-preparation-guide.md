@@ -1,4 +1,15 @@
-# Study Abroad Application and Visa Preparation: Complete Guide for Indian Students
+---
+layout: guide
+title: "Study Abroad Application and Visa Preparation: Complete Guide for Indian Students"
+seo_title: "Study Abroad Application and Visa Preparation:... | Career Roadmaps India"
+description: "From choosing a country and university to receiving your visa and preparing for departure — a step-by-step roadmap for Indian students."
+permalink: /06-study-abroad/study-abroad-application-and-visa-preparation-guide.html
+slug: study-abroad-application-and-visa-preparation-guide
+category_key: 06-study-abroad
+category_name: "Study Abroad for Indian Students"
+category_url: /06-study-abroad/
+---
+
 
 **From choosing a country and university to receiving your visa and preparing for departure — a step-by-step roadmap for Indian students.**
 
