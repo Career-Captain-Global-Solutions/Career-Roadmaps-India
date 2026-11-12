@@ -69,7 +69,7 @@ Read instructions carefully. Check whether negative marking applies. Allocate ti
 
 Use your college placement cell's official test instructions and employer-provided sample tests where available. For broader job-search and career support, see https://www.ncs.gov.in/.
 
-**About Career Captain:** https://careercaptain.co.in/
+**About Career Captain:** https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=aptitude-and-logical-reasoning-preparation-guide
 
 **Disclaimer:** Test formats and selection criteria vary. This guide does not predict or guarantee a recruitment outcome.
 
@@ -79,8 +79,8 @@ Use your college placement cell's official test instructions and employer-provid
 
 Aptitude practice is most useful when connected to the requirements of a realistic education or career goal. Career Captain offers career assessment and counselling to help students explore suitable directions and plan next steps.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=aptitude-and-logical-reasoning-preparation-guidecareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=aptitude-and-logical-reasoning-preparation-guide)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=aptitude-and-logical-reasoning-preparation-guideareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=aptitude-and-logical-reasoning-preparation-guide)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=aptitude-and-logical-reasoning-preparation-guide)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=aptitude-and-logical-reasoning-preparation-guide) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20aptitude%20and%20logical%20reasoning%20preparation%20guide%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20aptitude-and-logical-reasoning-preparation-guide.)
