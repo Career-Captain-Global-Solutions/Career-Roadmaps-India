@@ -1,5 +1,8 @@
 # Career Skills: A Practical Learning Library
 
+**[Explore the Career Skills landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/07-career-skills/)**
+
+
 **Develop essential skills for education, employment and professional growth.**
 
 Welcome to the Career Skills collection by **Career Captain Global Solutions**.
