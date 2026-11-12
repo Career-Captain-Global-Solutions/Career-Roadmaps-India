@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "IT Project Coordinator Career Roadmap in India: Responsibilities and Skills"
-seo_title: "IT Project Coordinator Career Roadmap in India:... | Career Roadmaps India"
-description: "IT project coordinators support the planning, communication and tracking needed to deliver technology projects. They help teams stay organised, surface..."
+seo_title: "IT Project Coordinator Career Roadmap in India | Skills & Entry Paths"
+description: "Explore the IT project coordinator role in India, including key responsibilities, essential skills, entry pathways, project tools and a six-week preparation plan."
 permalink: /04-non-coding-tech-careers/it-project-coordinator-career-roadmap-india.html
 slug: it-project-coordinator-career-roadmap-india
 category_key: 04-non-coding-tech-careers
