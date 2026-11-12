@@ -802,7 +802,7 @@ Career Captain Global Solutions supports students and young professionals throug
 - Scholarship and admission support
 - Career exploration and planning
 
-Explore: https://careercaptain.co.in/
+Explore: https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-ireland-complete-guide-for-indian-students
 
 The objective is to help students make informed education and career decisions rather than selecting a course simply because it is popular.
 
@@ -828,7 +828,7 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 
 You may share and adapt this material with appropriate attribution.
 
-**Attribution:** Career Captain Global Solutions — https://careercaptain.co.in/
+**Attribution:** Career Captain Global Solutions — https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-ireland-complete-guide-for-indian-students
 
 *Disclaimer: This guide is for general educational information and is not legal, immigration, financial or admission advice. University policies, fees and immigration rules can change. Verify all requirements through official sources before making decisions.*
 
@@ -838,8 +838,8 @@ You may share and adapt this material with appropriate attribution.
 
 Country and university choices should be evaluated against your academic profile, course goals, budget, entry requirements and long-term plans. Career Captain provides study-abroad counselling and application-planning support. Admission, scholarship and visa decisions remain with the relevant institutions and authorities.
 
-- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in/study-abroad-consultant-hyderabad)
-- [Scholarship guidance for Indian students](https://careercaptain.co.in/study-abroad-scholarships)
-- [Explore Career Captain](https://careercaptain.co.in/)
+- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-ireland-complete-guide-for-indian-students?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-ireland-complete-guide-for-indian-students)
+- [Scholarship guidance for Indian students](https://guide.careercaptain.co.in/study-abroad/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-ireland-complete-guide-for-indian-students)
+- [Explore Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-ireland-complete-guide-for-indian-students)
 
-[WhatsApp Career Captain](https://wa.me/919849488838)
+[WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20study%20in%20ireland%20complete%20guide%20for%20indian%20students%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20study%20abroad%20guidance.%20Source%3A%20study-in-ireland-complete-guide-for-indian-students.)
