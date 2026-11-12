@@ -57,6 +57,8 @@ Examples:
 
 | Study in New Zealand – Career & Education Roadmap | `study-in-new-zealand-career-education-roadmap.webp` | [View Infographic](study-in-new-zealand-career-education-roadmap.webp) |
 
+| Study in Singapore – Career & Education Roadmap | `study-in-singapore-career-education-roadmap.webp` | [View Infographic](study-in-singapore-career-education-roadmap.webp) |
+
 ## Project Information
 
 **Career Captain Global Solutions**
