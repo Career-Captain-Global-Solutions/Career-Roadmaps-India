@@ -1,5 +1,7 @@
 # Study Abroad Resources
 
+**Start here:** [Study Abroad for Indian Students — 13 Country Guides, Costs and Scholarships](index.html) · [Open the live Study Abroad hub](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/06-study-abroad/)
+
 Explore international education opportunities and understand the process of studying abroad.
 
 ## Topics Covered
