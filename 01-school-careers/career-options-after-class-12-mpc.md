@@ -852,8 +852,8 @@ Repository: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-I
 
 MPC students can choose from engineering, sciences, computing and several other pathways. Career Captain offers assessment-led counselling to help students and families compare options before choosing a course.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-mpccareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-mpc)
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-mpc)
 - [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-mpc)
-- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-mpcareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-mpc)
+- [Online career counselling](https://careercaptain.co.in/areas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-mpc)
 
 [Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-mpc) · [WhatsApp](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20career%20options%20after%20class%2012%20mpc%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20career-options-after-class-12-mpc.)
