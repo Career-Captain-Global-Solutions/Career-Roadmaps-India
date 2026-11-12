@@ -1,4 +1,15 @@
-# Biotechnology Engineering Career Roadmap in India
+---
+layout: guide
+title: "Biotechnology Engineering Career Roadmap in India"
+seo_title: "Biotechnology Engineering Career Roadmap in India | Career Roadmaps India"
+description: "Biotechnology Engineering combines biology, chemistry, engineering, and technology to develop products and processes that improve human health,..."
+permalink: /02-engineering-careers/biotechnology-engineering-career-roadmap.html
+slug: biotechnology-engineering-career-roadmap
+category_key: 02-engineering-careers
+category_name: "Engineering Career Roadmaps"
+category_url: /02-engineering-careers/
+---
+
 
 Biotechnology Engineering combines biology, chemistry, engineering, and technology to develop products and processes that improve human health, agriculture, food production, industrial manufacturing, and environmental sustainability.
 
