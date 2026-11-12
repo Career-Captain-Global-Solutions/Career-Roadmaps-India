@@ -12,6 +12,7 @@ Explore international education opportunities and understand the process of stud
 - Studying in Ireland
 - Studying in France
 - Studying in the Netherlands
+- Studying in Italy
 - University and course selection
 - International admission requirements
 - Scholarships and financial planning
@@ -26,6 +27,8 @@ Always verify admission requirements, visa regulations, fees and scholarship con
 - [Study Abroad Application and Visa Preparation Guide](study-abroad-application-and-visa-preparation-guide.md)
 
 ## Country Guides
+
+- [Study in Italy: Complete Guide for Indian Students](study-in-italy-complete-guide-for-indian-students.md)
 
 - [Study in France: Complete Guide for Indian Students](study-in-france-complete-guide-for-indian-students.md)
 - [Study in the Netherlands: Complete Guide for Indian Students](study-in-netherlands-complete-guide-for-indian-students.md)
