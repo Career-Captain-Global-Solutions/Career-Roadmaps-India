@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in Dubai: Complete Guide for Indian Students"
-seo_title: "Study in Dubai: Complete Guide for Indian Students | Career Roadmaps India"
-description: "Last reviewed: 12 November 2026. Admissions, tuition, accreditation, residence permits and employment rules can change. Verify current requirements..."
+seo_title: "Study in Dubai for Indian Students | Universities & Costs"
+description: "Explore study options in Dubai for Indian students, including universities, courses, admission requirements, tuition, living costs and application planning."
 permalink: /06-study-abroad/study-in-dubai-complete-guide-for-indian-students.html
 slug: study-in-dubai-complete-guide-for-indian-students
 category_key: 06-study-abroad
