@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Civil Engineering Career Roadmap in India: Opportunities, Skills, Specialisations and Future Scope"
-seo_title: "Civil Engineering Career Roadmap in India:... | Career Roadmaps India"
-description: "Civil Engineering is one of the oldest and most important engineering disciplines. It focuses on planning, designing, constructing and maintaining the..."
+seo_title: "Civil Engineering Careers in India | Jobs & Career Roadmap"
+description: "Explore civil engineering career options in India, including structural design, construction, transportation, water resources, infrastructure and project management."
 permalink: /02-engineering-careers/civil-engineering-career-roadmap.html
 slug: civil-engineering-career-roadmap
 category_key: 02-engineering-careers
