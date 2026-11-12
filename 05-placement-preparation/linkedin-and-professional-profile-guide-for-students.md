@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "LinkedIn and Professional Profile Guide for Students and Freshers"
-seo_title: "LinkedIn and Professional Profile Guide for... | Career Roadmaps India"
-description: "A professional profile helps recruiters, mentors and peers understand your interests, skills and work. It should be accurate, current and consistent..."
+seo_title: "LinkedIn Profile for Students & Freshers | Optimisation Guide"
+description: "Build a professional LinkedIn profile as a student or fresher with guidance on headlines, summaries, skills, projects, networking and visibility."
 permalink: /05-placement-preparation/linkedin-and-professional-profile-guide-for-students.html
 slug: linkedin-and-professional-profile-guide-for-students
 category_key: 05-placement-preparation
