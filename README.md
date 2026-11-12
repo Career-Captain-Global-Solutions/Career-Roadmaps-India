@@ -67,6 +67,7 @@ Our objective is simple: help people make more informed career decisions.
 
 ### 6. Study Abroad
 
+- [Study Abroad for Indian Students: 13 Country Guides, Costs and Scholarships](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/06-study-abroad/)
 - [Compare Study Abroad Destinations for Indian Students](06-study-abroad/compare-study-abroad-destinations-for-indian-students.md)
 - [Interactive Study Abroad Cost Calculator](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/06-study-abroad/study-abroad-cost-calculator.html)
 - [Explore All Study Abroad Guides](06-study-abroad/README.md)
