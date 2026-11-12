@@ -1218,7 +1218,7 @@ Selecting a country, university and course can be challenging. Students need to 
 
 **Career Captain Global Solutions** provides career counselling, career assessments, course and college planning, and study-abroad guidance to help students and young professionals make informed decisions.
 
-Website: https://careercaptain.co.in/
+Website: https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-germany-complete-guide-for-indian-students
 
 *Educational disclaimer: This guide is intended for general educational and career awareness. Admission rules, APS procedures, visa requirements, financial thresholds, scholarship conditions and residence regulations may change. Always verify current requirements with official German authorities and the relevant university before making financial or academic decisions.*
 
@@ -1238,8 +1238,8 @@ Source: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-India
 
 Country and university choices should be evaluated against your academic profile, course goals, budget, entry requirements and long-term plans. Career Captain provides study-abroad counselling and application-planning support. Admission, scholarship and visa decisions remain with the relevant institutions and authorities.
 
-- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in/study-abroad-consultant-hyderabad)
-- [Scholarship guidance for Indian students](https://careercaptain.co.in/study-abroad-scholarships)
-- [Explore Career Captain](https://careercaptain.co.in/)
+- [Study-abroad counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-germany-complete-guide-for-indian-students?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-germany-complete-guide-for-indian-students)
+- [Scholarship guidance for Indian students](https://guide.careercaptain.co.in/study-abroad/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-germany-complete-guide-for-indian-students)
+- [Explore Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=study-in-germany-complete-guide-for-indian-students)
 
-[WhatsApp Career Captain](https://wa.me/919849488838)
+[WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20study%20in%20germany%20complete%20guide%20for%20indian%20students%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20study%20abroad%20guidance.%20Source%3A%20study-in-germany-complete-guide-for-indian-students.)
