@@ -8,7 +8,7 @@ However, studying in Australia requires careful planning. Students must understa
 
 This guide explains the process for Indian students, from selecting a course to planning a career after graduation.
 
-*Last reviewed: November 2026. Admission requirements, tuition fees and immigration policies can change. Always verify current information through official Australian government and university websites.*
+*Last reviewed: 12 November 2026. Admission requirements, tuition fees and immigration policies can change. In particular, check the Student visa application-rule changes that commenced on 2 October 2026. Always verify current information through official Australian government and university websites.*
 
 ---
 
@@ -370,6 +370,30 @@ After meeting the institution's requirements and completing the necessary accept
 
 The CoE is an important document for your Student visa application.
 
+
+### Indian student application checklist
+
+Use this checklist to organise the main stages of an application. The exact requirements depend on the university, course and your personal circumstances.
+
+- [ ] Check that the intended course and provider are listed on CRICOS.
+- [ ] Confirm Class 12 or degree eligibility, subject prerequisites and minimum academic results.
+- [ ] Check the university's accepted English-language tests and required scores.
+- [ ] Compare total tuition, living costs, insurance and other expenses.
+- [ ] Check scholarship eligibility and deadlines before submitting applications.
+- [ ] Prepare a valid passport and academic records, including transcripts and certificates.
+- [ ] Prepare any required portfolio, CV, references or research proposal.
+- [ ] Submit applications through the institution's official channel.
+- [ ] Read the offer conditions and confirm the amount and deadline for any deposit.
+- [ ] Accept the offer and obtain the Confirmation of Enrolment (CoE).
+- [ ] Arrange Overseas Student Health Cover (OSHC) for the required period.
+- [ ] Prepare Genuine Student responses that are accurate and supported by evidence.
+- [ ] Check the latest Student visa location and family-member rules that commenced on 2 October 2026.
+- [ ] Calculate the required funds for tuition, living costs, travel and any permitted accompanying family members.
+- [ ] Check the current visa document checklist, application charge and processing guidance.
+- [ ] Lodge through ImmiAccount from the location required for your visa circumstances.
+- [ ] Complete health examinations, biometrics or further information requests when instructed.
+- [ ] Do not book non-refundable travel until you have considered the visa decision and your institution's start-date requirements.
+
 ## 9. Understanding the Genuine Student Requirement
 
 Australia uses the **Genuine Student (GS) requirement** for Student visa applications lodged on or after 23 March 2024.
@@ -451,13 +475,25 @@ Official visa information: https://immi.homeaffairs.gov.au/visas/getting-a-visa/
 
 ### Visa application fee
 
-The Student visa application charge increased from 1 July 2026. The standard primary applicant charge is listed as starting from AUD 2,500 in the current November 2026 guidance.
-
-Additional charges may apply for family members, health checks, biometrics and other services.
-
-Always use the official visa pricing information before applying.
+The standard Student visa (Subclass 500) application charge for the primary applicant is from AUD 2,500 as listed by the Department of Home Affairs at the time this guide was reviewed. Additional applicant charges and payment surcharges may apply where relevant. Visa charges can change, so check the official pricing information on the day you lodge your application.
 
 Official fees: https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges
+
+### Important Student visa rule changes from 2 October 2026
+
+Changes commencing on **2 October 2026** affect where certain applicants must be located when they lodge a Student visa application and when a visa can be granted. They also significantly restrict the inclusion of family members.
+
+**Applying while in Australia:** Most temporary visa holders affected by the new rules must be outside Australia when they lodge a Student visa application and must also be outside Australia when the visa is granted. Some applicants, including certain current Student visa holders, may be covered by limited exemptions. The rules depend on the applicant's current visa and circumstances. Do not assume that an onshore application is valid. An application lodged from the wrong location may be invalid.
+
+**Including family members:** From 2 October 2026, Student visa applicants generally cannot include a partner or dependent children in a new Student visa application unless a specified exemption applies. Exemptions include certain doctoral students, DFAT- or Defence-sponsored students, fully funded foreign government scholarship recipients, and eligible students from Pacific and ASEAN countries. Limited transitional arrangements apply to some family members already included in an earlier application or visa. Current Student visa holders generally cannot add family members after grant.
+
+Before making travel, enrolment or financial decisions, check the official rules for your exact visa category and family circumstances. These rules do not mean every applicant must lodge offshore; they apply according to the categories and exemptions set by the Department.
+
+Official update: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/changes-to-student-visa-application-rules-500-590
+
+Applying in Australia: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/changes-to-student-visa-application-rules-500-590/applying-in-australia
+
+Family members: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/changes-to-student-visa-application-rules-500-590/family-members
 
 ## 11. Financial Requirements for the Student Visa
 
@@ -471,15 +507,19 @@ The evidence must cover the applicable costs of:
 - Accompanying family members, where applicable
 - School costs for accompanying school-age children, where applicable
 
-### Minimum living-cost evidence
+### Published annual living-cost amounts
 
-The published annual living-cost amount for the primary applicant is:
+The Department of Home Affairs currently lists these 12-month living-cost amounts for financial-capacity calculations:
 
-<escape>**AUD 29,710 for 12 months**</escape>
+| Person or expense | Amount |
+|---|---:|
+| Student applicant | AUD 29,710 |
+| Spouse or de facto partner | AUD 10,394 |
+| Each dependent child | AUD 4,449 |
 
-Additional amounts may be required for a spouse or partner, dependent children and school-age children.
+School costs for school-age children and travel costs may also need to be included. These amounts are separate from tuition fees.
 
-The living-cost amount is separate from tuition and travel costs.
+**Important:** These figures describe financial-capacity calculations; they do not mean that a family member is automatically permitted to be included in a Student visa application. The family-member restrictions that commenced on 2 October 2026 and their exemptions must be checked separately.
 
 ### Possible financial evidence
 
