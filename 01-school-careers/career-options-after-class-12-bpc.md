@@ -887,8 +887,8 @@ Repository: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-I
 
 BPC students have options across healthcare, life sciences, allied health and other fields. Career Captain can help students and parents compare pathways in light of interests, abilities, eligibility and long-term goals.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-bpccareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-bpc)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-bpc)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-bpcareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-bpc)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-12-bpc) · [WhatsApp](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20career%20options%20after%20class%2012%20bpc%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20career-options-after-class-12-bpc.)
