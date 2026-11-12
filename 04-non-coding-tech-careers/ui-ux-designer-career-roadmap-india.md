@@ -81,3 +81,15 @@ Useful opportunity research: National Career Service at https://www.ncs.gov.in/ 
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** This guide is informational. Job requirements vary and a portfolio does not guarantee selection.
+
+---
+
+## Explore your career direction with Career Captain
+
+If you are evaluating design, research or other technology careers, Career Captain can help you reflect on your interests, strengths and preferred ways of working before choosing a learning path.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
