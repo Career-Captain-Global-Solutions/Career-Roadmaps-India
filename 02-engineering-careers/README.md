@@ -33,13 +33,25 @@ This collection helps students explore engineering disciplines, understand acade
 
 ## Detailed Career Roadmaps
 
-Explore the complete career guides for these engineering disciplines:
+Explore the complete career guides for all 16 engineering disciplines:
 
 1. [Aerospace Engineering](aerospace-engineering-career-roadmap.md)
 2. [Agricultural Engineering](agricultural-engineering-career-roadmap.md)
-3. [Civil Engineering](civil-engineering-career-roadmap.md)
-4. [Computer Science Engineering](computer-science-engineering-career-roadmap.md)
-5. [Electronics and Communication Engineering](electronics-and-communication-engineering-career-roadmap.md)
-6. [Mechanical Engineering](mechanical-engineering-career-roadmap.md)
+3. [Biomedical Engineering](biomedical-engineering-career-roadmap.md)
+4. [Biotechnology Engineering](biotechnology-engineering-career-roadmap.md)
+5. [Chemical Engineering](chemical-engineering-career-roadmap.md)
+6. [Civil Engineering](civil-engineering-career-roadmap.md)
+7. [Computer Science Engineering](computer-science-engineering-career-roadmap.md)
+8. [Electronics and Communication Engineering](electronics-and-communication-engineering-career-roadmap.md)
+9. [Electrical and Electronics Engineering](electrical-and-electronics-engineering-career-roadmap.md)
+10. [Environmental Engineering](environmental-engineering-career-roadmap.md)
+11. [Industrial Engineering](industrial-engineering-career-roadmap.md)
+12. [Marine Engineering](marine-engineering-career-roadmap.md)
+13. [Materials Science and Engineering](materials-science-and-engineering-career-roadmap.md)
+14. [Mechanical Engineering](mechanical-engineering-career-roadmap.md)
+15. [Mining Engineering](mining-engineering-career-roadmap.md)
+16. [Petroleum Engineering](petroleum-engineering-career-roadmap.md)
 
 **Maintained by Career Captain Global Solutions.**
+
+
