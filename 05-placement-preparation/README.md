@@ -6,6 +6,16 @@ Practical guidance for students and graduates preparing for internships, campus 
 
 ## Published guide
 
+## Additional published guides
+
+- [Resume Building Guide for Freshers](resume-building-guide-for-freshers-india.md) — Resume structure, project bullets, tailoring and submission checklist.
+- [Aptitude and Logical Reasoning Preparation](aptitude-and-logical-reasoning-preparation-guide.md) — Quantitative aptitude, reasoning, verbal ability and timed practice.
+- [Interview Preparation Guide for Freshers](interview-preparation-guide-for-freshers.md) — Employer research, STAR examples, technical rounds and follow-up.
+- [Internship Search and Application Guide](internship-search-and-application-guide-india.md) — Finding, evaluating and applying for internships safely.
+- [LinkedIn and Professional Profile Guide](linkedin-and-professional-profile-guide-for-students.md) — Profile setup, project presentation, networking and privacy.
+
+
+
 [Campus Placements Preparation in India: A Complete Roadmap](campus-placements-preparation-roadmap.md)
 
 The roadmap covers:
