@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Data Analyst Career Roadmap in India: Skills, Tools and Projects"
-seo_title: "Data Analyst Career Roadmap in India: Skills,... | Career Roadmaps India"
-description: "Data analysts help organisations turn data into useful information for decisions. The work may involve collecting, cleaning, validating, analysing and..."
+seo_title: "How to Become a Data Analyst in India | Career Roadmap"
+description: "Learn how to become a data analyst in India, including essential skills, tools, qualifications, entry-level roles and a practical career progression roadmap."
 permalink: /04-non-coding-tech-careers/data-analyst-career-roadmap-india.html
 slug: data-analyst-career-roadmap-india
 category_key: 04-non-coding-tech-careers
