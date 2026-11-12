@@ -72,3 +72,15 @@ Send a brief thank-you message if appropriate, note questions you found difficul
 **About Career Captain:** https://careercaptain.co.in/
 
 **Disclaimer:** Interview processes differ by employer and role. Preparation cannot guarantee selection.
+
+---
+
+## Connect interview preparation to your career plan
+
+Interview practice develops communication, but choosing roles that fit your interests and strengths is also important. Career Captain provides assessment-led career counselling for students and young professionals.
+
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
+- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
+- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+
+[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
