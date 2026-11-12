@@ -23,6 +23,7 @@ Always verify admission requirements, visa regulations, fees and scholarship con
 ## Country Guides
 
 - [Study in France: Complete Guide for Indian Students](study-in-france-complete-guide-for-indian-students.md)
+- [Study in the Netherlands: Complete Guide for Indian Students](study-in-netherlands-complete-guide-for-indian-students.md)
 
 ## Published Visual Resources
 
