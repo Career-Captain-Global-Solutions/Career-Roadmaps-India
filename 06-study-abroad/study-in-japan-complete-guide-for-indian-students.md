@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study in Japan: Complete Guide for Indian Students"
-seo_title: "Study in Japan: Complete Guide for Indian Students | Career Roadmaps India"
-description: "Last reviewed: 12 November 2026. Admission requirements, tuition, scholarships, immigration procedures and work rules can change. Confirm current..."
+seo_title: "Study in Japan for Indian Students | Admission & Scholarships"
+description: "Explore study options in Japan for Indian students, including universities, programmes, language requirements, scholarships, costs and application preparation."
 permalink: /06-study-abroad/study-in-japan-complete-guide-for-indian-students.html
 slug: study-in-japan-complete-guide-for-indian-students
 category_key: 06-study-abroad
