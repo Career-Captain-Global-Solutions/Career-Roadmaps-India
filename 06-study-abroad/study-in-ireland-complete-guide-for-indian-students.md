@@ -10,6 +10,8 @@ However, studying in Ireland requires careful planning. Students must understand
 
 This guide explains the process for Indian students, from selecting a course to planning a career after graduation.
 
+![Study in Ireland – Career & Education Roadmap](../images/study-abroad/study-in-ireland-career-education-roadmap.webp)
+
 *Last reviewed: 12 November 2026. Admission requirements, tuition fees and immigration policies can change. Check both ILEP and TrustEd Ireland programme lists and verify all current requirements through official Irish government and institution websites.*
 
 ---
