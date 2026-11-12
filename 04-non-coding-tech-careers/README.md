@@ -1,5 +1,8 @@
 # Non-Coding Technology Careers
 
+**[Explore the Non-Coding Technology Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/04-non-coding-tech-careers/)**
+
+
 Explore technology careers that do not require traditional software development as their primary skill.
 
 Topics include:
