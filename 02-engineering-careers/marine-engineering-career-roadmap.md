@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Marine Engineering Career Roadmap in India"
-seo_title: "Marine Engineering Career Roadmap in India | Career Roadmaps India"
-description: "Marine Engineering focuses on the design, construction, operation, maintenance, and management of machinery and engineering systems used aboard ships..."
+seo_title: "Marine Engineering Careers in India | Career Roadmap"
+description: "Explore marine engineering careers, ship machinery and propulsion roles, offshore opportunities, maritime industries and the education and skills needed to enter the field."
 permalink: /02-engineering-careers/marine-engineering-career-roadmap.html
 slug: marine-engineering-career-roadmap
 category_key: 02-engineering-careers
