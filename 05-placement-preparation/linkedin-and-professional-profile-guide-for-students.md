@@ -58,7 +58,7 @@ Check that your name, education, dates, project descriptions and contact links a
 4. Contact one mentor, alumnus or peer with a specific question.
 5. Record useful feedback and next actions.
 
-**About Career Captain:** https://careercaptain.co.in/
+**About Career Captain:** https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=linkedin-and-professional-profile-guide-for-students
 
 **Disclaimer:** Platform features and visibility settings may change. Follow current platform policies and protect personal information.
 
@@ -68,8 +68,8 @@ Check that your name, education, dates, project descriptions and contact links a
 
 Your profile communicates the direction you are building towards. Career Captain offers assessment-led career counselling to help students explore options and make informed education and career decisions.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counselling-hyderabad)
-- [Online career counselling](https://careercaptain.co.in/online-career-counselling)
-- [Psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
+- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=linkedin-and-professional-profile-guide-for-studentscareer-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=linkedin-and-professional-profile-guide-for-students)
+- [Online career counselling](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=linkedin-and-professional-profile-guide-for-studentsareas-we-serve?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=linkedin-and-professional-profile-guide-for-students)
+- [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=linkedin-and-professional-profile-guide-for-students)
 
-[Visit Career Captain](https://careercaptain.co.in/) · [WhatsApp Career Captain](https://wa.me/919849488838)
+[Visit Career Captain](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=linkedin-and-professional-profile-guide-for-students) · [WhatsApp Career Captain](https://wa.me/919849488838?text=Hi%20Career%20Captain%2C%20I%20found%20your%20linkedin%20and%20professional%20profile%20guide%20for%20students%20guide%20in%20Career%20Roadmaps%20India.%20I%20would%20like%20to%20know%20more%20about%20career%20guidance.%20Source%3A%20linkedin-and-professional-profile-guide-for-students.)
