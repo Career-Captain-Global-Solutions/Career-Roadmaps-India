@@ -12,7 +12,11 @@ The opportunities available to a Computer Science Engineering graduate depend on
 This guide provides a structured roadmap for students who want to understand CSE career opportunities and prepare for the technology industry.
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Career-Captain-Global-Solutions/Career-Roadmaps-India/main/images/engineering/cse-career-roadmap-logo-corrected.png"
+       alt="Computer Science Engineering Career Roadmap"
+       width="100%">
+</p>
 ## 1. What Is Computer Science Engineering?
 
 Computer Science Engineering focuses on the design, development, implementation and maintenance of computer systems and software applications.
