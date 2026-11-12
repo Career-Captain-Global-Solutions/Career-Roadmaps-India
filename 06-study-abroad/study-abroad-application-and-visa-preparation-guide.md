@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Study Abroad Application and Visa Preparation: Complete Guide for Indian Students"
-seo_title: "Study Abroad Application and Visa Preparation:... | Career Roadmaps India"
-description: "From choosing a country and university to receiving your visa and preparing for departure — a step-by-step roadmap for Indian students."
+seo_title: "Study Abroad Application & Student Visa Preparation Guide"
+description: "Understand the study abroad application process, document preparation, university applications, offer decisions and student visa planning."
 permalink: /06-study-abroad/study-abroad-application-and-visa-preparation-guide.html
 slug: study-abroad-application-and-visa-preparation-guide
 category_key: 06-study-abroad
