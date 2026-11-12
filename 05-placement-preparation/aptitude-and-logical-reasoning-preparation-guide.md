@@ -1,4 +1,15 @@
-# Aptitude and Logical Reasoning Preparation for Campus Placements
+---
+layout: guide
+title: "Aptitude and Logical Reasoning Preparation for Campus Placements"
+seo_title: "Aptitude and Logical Reasoning Preparation for... | Career Roadmaps India"
+description: "Many campus recruitment processes include aptitude, reasoning or role-specific assessments, but formats differ by employer. Preparation should be based..."
+permalink: /05-placement-preparation/aptitude-and-logical-reasoning-preparation-guide.html
+slug: aptitude-and-logical-reasoning-preparation-guide
+category_key: 05-placement-preparation
+category_name: "Placement and Job Preparation"
+category_url: /05-placement-preparation/
+---
+
 
 **An educational resource by Career Captain Global Solutions**
 
