@@ -4,7 +4,7 @@
 
 Technology careers are not limited to software development. Organisations also need people who understand users, products, business processes, data, design, security, operations and communication.
 
-## Published guide
+## Published guides
 
 ## Additional published guides
 
@@ -47,5 +47,7 @@ Depending on the role, useful capabilities may include analytical thinking, comm
 5. Prepare evidence that demonstrates your ability.
 
 **Important:** “Non-coding” does not always mean “no technical knowledge”. Requirements differ by employer and job description.
+
+Career Captain support: [Career counselling](https://careercaptain.co.in/career-counselling-hyderabad) · [Online counselling](https://careercaptain.co.in/online-career-counselling) · [Psychometric assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
 
 Website: https://careercaptain.co.in/
