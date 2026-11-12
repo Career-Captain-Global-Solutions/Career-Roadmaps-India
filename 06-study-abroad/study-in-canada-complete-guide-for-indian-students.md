@@ -11,7 +11,7 @@ This guide explains the process for Indian students, from choosing a course to p
 *Last reviewed: November 2026. Admission requirements, fees and immigration policies can change. Always verify current information through official Canadian government and university websites.*
 
 ---
-
+![Study in Canada – Career & Education Roadmap](../images/study-abroad/study-in-canada-career-education-roadmap.webp)
 ## 1. Why Study in Canada?
 
 Canada offers several advantages for international students.
