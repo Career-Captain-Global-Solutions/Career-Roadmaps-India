@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Leadership Skills for Students and Young Professionals"
-seo_title: "Leadership Skills for Students and Young Professionals | Career Roadmaps India"
-description: "A practical guide to becoming a confident, responsible and effective leader"
+seo_title: "Leadership Skills for Students & Professionals | Guide"
+description: "Develop leadership skills for academic and workplace settings, including communication, decision-making, accountability, collaboration and motivating teams."
 permalink: /07-career-skills/leadership-skills-for-students-and-professionals.html
 slug: leadership-skills-for-students-and-professionals
 category_key: 07-career-skills
