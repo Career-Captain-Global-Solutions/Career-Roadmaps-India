@@ -10,7 +10,7 @@ However, studying in Ireland requires careful planning. Students must understand
 
 This guide explains the process for Indian students, from selecting a course to planning a career after graduation.
 
-*Last reviewed: November 2026. Admission requirements, tuition fees and immigration policies can change. Always verify current information through official Irish government and university websites.*
+*Last reviewed: 12 November 2026. Admission requirements, tuition fees and immigration policies can change. Check both ILEP and TrustEd Ireland programme lists and verify all current requirements through official Irish government and institution websites.*
 
 ---
 
@@ -210,14 +210,15 @@ Evaluate these factors:
 
 For non-EEA students studying in Ireland for more than 90 days, the programme must meet the applicable immigration eligibility requirements.
 
-The relevant programme may appear on the Interim List of Eligible Programmes (ILEP), or be offered by an authorised provider under the TrustEd Ireland framework.
+The eligible programme must appear on the **Interim List of Eligible Programmes (ILEP)** or be an eligible programme offered by a provider authorised to use the **TrustEd Ireland** statutory quality mark.
 
-Do not assume that every course at an institution is eligible simply because the institution accepts international students.
+The ILEP is closed to new provider applications and its final update was published in June 2025. It is being superseded by TrustEd Ireland. During the transition, eligible programmes may appear on either list. **Check both official lists for the exact provider and programme before paying a deposit.** An institution's general reputation does not make every course immigration-eligible.
 
 Official information:
 
-- Eligible programmes: https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/a-third-level-course-or-a-language-course/
-- ILEP: https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/interim-list-of-eligible-programmes-ilep/
+- Eligible programmes and both lists: https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/a-third-level-course-or-a-language-course/
+- ILEP and TrustEd transition: https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/interim-list-of-eligible-programmes-ilep/
+- TrustEd Ireland: https://www.trustedireland.ie/
 
 ## 6. Estimated Cost of Studying in Ireland
 
@@ -375,11 +376,42 @@ Your institution will provide the relevant acceptance documentation for your vis
 
 Check the course name, duration, fees and payment information carefully.
 
+### Indian student application checklist
+
+Use this checklist alongside the current New Delhi Visa Office instructions and the exact document list generated for your application. Requirements can vary by applicant.
+
+- [ ] Confirm the exact course, awarding body, NFQ level and start date.
+- [ ] Verify that the exact programme is on the ILEP or the provider's eligible TrustEd Ireland list.
+- [ ] Check academic entry requirements for your Indian Class 12 or undergraduate qualification.
+- [ ] Confirm accepted English-language tests and minimum scores with both the institution and visa authority.
+- [ ] Compare tuition, accommodation, insurance, transport and realistic living costs.
+- [ ] Check university scholarships and deadlines before paying a deposit.
+- [ ] Prepare a valid passport and copies of current and previous passports as instructed.
+- [ ] Collect Class 10, Class 12 and/or degree certificates, marksheets and transcripts.
+- [ ] Prepare a CV, Statement of Purpose or application letter, references and portfolio where required.
+- [ ] Explain education or employment gaps and any change in academic direction.
+- [ ] Submit the institution application and obtain the formal Letter of Acceptance.
+- [ ] Confirm the tuition payment required by immigration rules and obtain official receipts.
+- [ ] Arrange private medical insurance that meets Irish immigration requirements.
+- [ ] Prepare six months of bank statements and sponsor documents, if applicable.
+- [ ] Demonstrate access to €10,000 for a course resulting in a stay longer than eight months, plus tuition and subsequent-year funds where applicable.
+- [ ] Complete the AVATS long-stay study visa application and print, sign and date the summary form.
+- [ ] Follow the current New Delhi Visa Office checklist, document-submission instructions and appointment requirements.
+- [ ] Disclose all previous visa refusals and provide the required details.
+- [ ] Do not purchase non-refundable flights before the visa decision.
+- [ ] After arrival, complete immigration registration within the required period and obtain the appropriate IRP/Stamp 2 permission before working.
+
+India-specific visa information: https://www.dfa.ie/irish-embassy/india/visas/visas-for-ireland/ and https://assets.ireland.ie/documents/20250425_Study_visa_information_leaflet.pdf
+
 ## 9. Understanding the Irish Student Visa
 
 Indian citizens generally require a visa to travel to Ireland for study.
 
 For a course lasting more than 90 days, applicants generally need a **Long Stay D Study Visa** before travelling.
+
+Apply from your home country or a country where you are legally resident. Official guidance says you can apply up to three months before your planned travel date; check the current instructions for India and the relevant visa office. A visa application does not guarantee approval.
+
+Most non-EEA students do not have an automatic right to bring family members to Ireland on the basis of student status. Very limited exceptions may apply, so family members must check their own immigration eligibility.
 
 A visa permits travel to Ireland for the stated purpose. It does not itself grant permission to remain indefinitely.
 
@@ -494,7 +526,7 @@ Students must:
 
 ### Immigration Registration Fee
 
-The published registration fee is €300, subject to applicable exemptions.
+The published registration fee is €300, subject to applicable exemptions. It is generally payable by credit or debit card at registration. Confirm current exemptions and booking instructions before your appointment.
 
 Students must follow the current registration process and obtain the appropriate Irish Residence Permit (IRP).
 
