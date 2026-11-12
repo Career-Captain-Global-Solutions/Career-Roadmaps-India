@@ -525,7 +525,7 @@ Repository: https://github.com/Career-Captain-Global-Solutions/Career-Roadmaps-I
 
 If your family is comparing academic, vocational, diploma or ITI pathways, Career Captain can help you explore options in the context of the student's interests, strengths and goals.
 
-- [Career counselling in Hyderabad](https://careercaptain.co.in?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-10career-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-10)
+- [Career counselling in Hyderabad](https://careercaptain.co.in/career-counsellor-near-me?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-10)
 - [Psychometric career assessment](https://guide.careercaptain.co.in/guides/psychometric-career-assessment/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-10)
 - [School Career Lab for institutions](https://guide.careercaptain.co.in/telangana/career-guidance-in-schools-hyderabad/?utm_source=career_roadmaps_india&utm_medium=referral&utm_campaign=github_career_roadmaps&utm_content=career-options-after-class-10)
 
