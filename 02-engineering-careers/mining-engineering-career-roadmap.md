@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Mining Engineering Career Roadmap"
-seo_title: "Mining Engineering Career Roadmap | Career Roadmaps India"
-description: "A comprehensive guide for students exploring Mining Engineering, covering academic foundations, technical skills, specialisations, industry..."
+seo_title: "Mining Engineering Careers in India | Jobs & Career Guide"
+description: "Understand mining engineering career options in India, including mine planning, mineral extraction, safety, operations, geology interfaces and sustainability."
 permalink: /02-engineering-careers/mining-engineering-career-roadmap.html
 slug: mining-engineering-career-roadmap
 category_key: 02-engineering-careers
