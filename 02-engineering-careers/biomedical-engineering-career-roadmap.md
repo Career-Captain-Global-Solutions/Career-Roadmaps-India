@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: "Biomedical Engineering Career Roadmap in India"
-seo_title: "Biomedical Engineering Career Roadmap in India | Career Roadmaps India"
-description: "Biomedical Engineering combines engineering, biology, medicine, and technology to develop solutions that improve healthcare. From designing medical..."
+seo_title: "Biomedical Engineering Careers in India | Jobs & Roadmap"
+description: "Explore biomedical engineering careers in India, including medical devices, clinical engineering, healthcare technology, diagnostics and research opportunities."
 permalink: /02-engineering-careers/biomedical-engineering-career-roadmap.html
 slug: biomedical-engineering-career-roadmap
 category_key: 02-engineering-careers
