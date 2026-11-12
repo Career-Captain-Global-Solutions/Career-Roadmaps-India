@@ -9,7 +9,11 @@ The profession is evolving through smart infrastructure, green buildings, advanc
 This roadmap explains the subjects, career opportunities, specialisations, technical skills and preparation strategies available to Civil Engineering students in India.
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Career-Captain-Global-Solutions/Career-Roadmaps-India/main/images/engineering/civil-engineering-career-roadmap-logo-corrected.png"
+       alt="Civil Engineering Career Roadmap"
+       width="100%">
+</p>
 ## 1. What Is Civil Engineering?
 
 Civil Engineering deals with the built environment and infrastructure.
