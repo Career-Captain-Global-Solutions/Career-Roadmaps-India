@@ -29,3 +29,7 @@ Career Captain Global Solutions provides career counselling, psychometric career
 Website: https://careercaptain.co.in/
 
 **Disclaimer:** These resources are for general educational information. They do not guarantee admission or career outcomes. Always verify current requirements with official institutions.
+
+## Career guidance support
+
+For personalised help comparing streams, subjects and post-Class 12 pathways, explore [Career counselling](https://careercaptain.co.in/career-counselling-hyderabad), [psychometric career assessment](https://careercaptain.co.in/psychometric-test-hyderabad) or the [School Career Lab for institutions](https://careercaptain.co.in/school-career-lab). You can also [contact Career Captain on WhatsApp](https://wa.me/919849488838).
