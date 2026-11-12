@@ -1,4 +1,15 @@
-# Non-Coding Careers in Technology: A Complete Career Roadmap for Indian Students and Graduates
+---
+layout: guide
+title: "Non-Coding Careers in Technology: A Complete Career Roadmap for Indian Students and Graduates"
+seo_title: "Non-Coding Careers in Technology: A Complete... | Career Roadmaps India"
+description: "Technology careers are not limited to software developers and programmers."
+permalink: /04-non-coding-tech-careers/non-coding-careers-in-technology.html
+slug: non-coding-careers-in-technology
+category_key: 04-non-coding-tech-careers
+category_name: "Non-Coding Technology Careers"
+category_url: /04-non-coding-tech-careers/
+---
+
 
 Technology careers are not limited to software developers and programmers.
 
