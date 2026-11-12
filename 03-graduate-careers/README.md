@@ -2,9 +2,9 @@
 
 **[Open the premium Graduate Careers landing page](https://career-captain-global-solutions.github.io/Career-Roadmaps-India/03-graduate-careers/)**
 
-Explore career pathways after undergraduate and postgraduate education. This collection currently includes a detailed guide for commerce and business graduates.
+Explore career pathways after BA, BSc, BCA, BCom and BBA, including employment, further study and professional qualification routes.
 
-## Published guide
+## Published guides
 
 ## Additional published guides
 
@@ -37,6 +37,8 @@ Explore career pathways after undergraduate and postgraduate education. This col
 This category will expand as additional graduate career guides are published. The current published resource should not be interpreted as a complete directory of all graduate careers.
 
 ## About Career Captain
+
+Career Captain support: [Career counselling](https://careercaptain.co.in/career-counselling-hyderabad) · [Online counselling](https://careercaptain.co.in/online-career-counselling) · [Psychometric assessment](https://careercaptain.co.in/psychometric-test-hyderabad)
 
 Website: https://careercaptain.co.in/
 
