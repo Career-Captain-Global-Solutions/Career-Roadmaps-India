@@ -61,6 +61,8 @@ Examples:
 
 | Study in Japan – Career & Education Roadmap | `study-in-japan-career-education-roadmap.webp` | [View Infographic](study-in-japan-career-education-roadmap.webp) |
 
+| Study in Dubai – Career & Education Roadmap | `study-in-dubai-career-education-roadmap.webp` | [View Infographic](study-in-dubai-career-education-roadmap.webp) |
+
 ## Project Information
 
 **Career Captain Global Solutions**
